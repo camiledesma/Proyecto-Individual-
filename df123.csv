@@ -1,0 +1,2082 @@
+genres,release_year,item_id,title,playtime_forever,user_id,recommend,sentiment_analysis
+Action,1997.0,282010.0,Carmageddon Max Pack,155.31666666666666,76561198076055973,True,1.0
+Action,1998.0,70.0,Half-Life,44714.2,AppoGetsSuperAdmin,True,0.0
+Action,2006.0,2400.0,The Ship: Murder Party,17469.266666666666,wiinga,True,2.0
+Action,2005.0,3800.0,Advent Rising,228.18333333333334,daflyinskwirel,True,0.0
+Indie,2006.0,1520.0,DEFCON,3690.633333333333,chriz2010,True,2.0
+Action,2006.0,2420.0,The Ship: Single Player,3234.133333333333,76561197993160547,True,2.0
+Indie,2006.0,4000.0,Garry's Mod,7472776.933333334,76561198061252210,True,1.0
+Strategy,2006.0,6210.0,Vegas: Make It Big™,137.1,TaTayTaylor,True,2.0
+Racing,2006.0,2990.0,FlatOut 2™,4498.016666666666,76561198061192570,True,0.0
+Racing,2005.0,6220.0,FlatOut,709.6166666666667,lambor-sb,True,2.0
+Action,2000.0,6310.0,The Longest Journey,875.4666666666667,Beachy40,True,2.0
+Action,2006.0,6550.0,Devil May Cry® 3 Special Edition,1124.6666666666667,nnotzsb,True,0.0
+Action,1995.0,2280.0,Ultimate Doom,1302.55,Myther43,True,2.0
+Action,1995.0,9160.0,Master Levels for Doom II,134.66666666666666,76561197976933723,True,2.0
+Action,1994.0,2300.0,DOOM II,1112.7,76561198039581495,True,2.0
+Action,2001.0,9010.0,Return to Castle Wolfenstein,1718.4333333333334,76561197960467275,True,1.0
+Action,2007.0,2310.0,QUAKE,1556.45,bobdapeach,True,2.0
+Action,2007.0,7670.0,BioShock™,45173.316666666666,tihoyzaza,True,2.0
+Strategy,2006.0,4570.0,"Warhammer® 40,000: Dawn of War® - Game of the Year Edition",12406.7,76561198000694266,True,2.0
+Strategy,2006.0,4580.0,"Warhammer® 40,000: Dawn of War® - Dark Crusade",31356.1,THETUG,True,2.0
+Strategy,2004.0,4760.0,Rome: Total War™ - Collection,50329.066666666666,kamakze751,True,2.0
+Racing,2003.0,12160.0,Midnight Club 2,510.5833333333333,76561198074942714,True,2.0
+Action,2001.0,12140.0,Max Payne,4741.25,76561198102169883,True,0.0
+Strategy,2008.0,17480.0,Command &amp; Conquer: Red Alert 3,26066.366666666665,everybodyloveskungfufighting,True,2.0
+Casual,2007.0,12500.0,PuzzleQuest: Challenge of the Warlords,2138.266666666667,heyitissantooo,True,2.0
+Simulation,2006.0,2700.0,RollerCoaster Tycoon® 3: Platinum,15711.2,captainchomp,True,2.0
+Action,1998.0,13250.0,Unreal Gold,403.0833333333333,76561198054199777,True,2.0
+Action,2004.0,13520.0,Far Cry®,5451.55,76561198064494251,True,2.0
+Simulation,2006.0,15320.0,IL-2 Sturmovik: 1946,3385.5333333333333,76561198095920833,True,2.0
+Racing,2008.0,12590.0,Sprint Cars Road to Knoxville,124.53333333333333,76561198096771953,True,2.0
+Racing,2008.0,12360.0,FlatOut: Ultimate Carnage,2697.0333333333333,76561198019210728,True,2.0
+Adventure,1997.0,15700.0,Oddworld: Abe's Oddysee®,4482.25,Terenator,True,2.0
+Strategy,2001.0,7770.0,X-COM: Enforcer,123.6,Tahimaka,True,0.0
+Strategy,1997.0,7660.0,X-COM: Apocalypse,1161.3666666666666,ImJustPro,True,2.0
+Strategy,1993.0,7760.0,X-COM: UFO Defense,3119.0666666666666,FRANK00010,True,0.0
+Action,2008.0,20510.0,S.T.A.L.K.E.R.: Clear Sky,8590.716666666667,goldnugget666,True,2.0
+Action,2008.0,17330.0,Crysis Warhead®,3061.3166666666666,76561198145408008,True,1.0
+Action,2007.0,17300.0,Crysis,15577.216666666667,76561197992227006,True,2.0
+Strategy,1998.0,7730.0,X-COM: Interceptor,147.45000000000002,Helakarian-Randomossity,True,2.0
+Action,2008.0,20900.0,The Witcher: Enhanced Edition Director's Cut,41530.933333333334,MisTletain,True,2.0
+Strategy,2008.0,16810.0,Sid Meier's Civilization IV: Colonization,2040.3666666666666,PENGAmurungu,True,0.0
+Action,2003.0,19830.0,Tom Clancy's Rainbow Six® 3 Gold,866.4666666666667,goblinop,True,2.0
+Action,2008.0,21000.0,LEGO Batman,2833.5,76561198010900889,True,2.0
+Action,2008.0,15390.0,Brothers in Arms: Hell's Highway™,1222.0833333333333,76561198083829532,True,2.0
+Indie,2008.0,22000.0,World of Goo,4304.4,niwith,True,2.0
+Action,2008.0,2820.0,X3: Terran Conflict,11473.2,76561198036934637,False,0.0
+Action,2008.0,12200.0,Bully: Scholarship Edition,23599.916666666668,Plka,True,2.0
+Action,2008.0,19900.0,Far Cry® 2: Fortune's Edition,19912.466666666667,sirkillsalot1337,True,2.0
+Action,2008.0,11240.0,Space Trader: Merchant Marine,274.48333333333335,huehue13213,False,0.0
+Action,2009.0,9480.0,Saints Row 2,54538.03333333333,DarkDragonForce,True,2.0
+Action,2008.0,17470.0,Dead Space,15740.383333333333,HotDogKid47,True,2.0
+Action,2009.0,17410.0,Mirror's Edge™,48072.083333333336,76561198092540221,True,2.0
+Indie,2008.0,18500.0,Defense Grid: The Awakening,20705.216666666667,maxximo_r,True,2.0
+Action,2009.0,16450.0,F.E.A.R. 2: Project Origin,8800.9,giveyouagoodlink,True,0.0
+Strategy,2005.0,25830.0,Knights of Honor,899.2333333333333,ghillieboy,True,1.0
+Action,2007.0,22180.0,Penumbra Overture,1574.8666666666666,end_,True,2.0
+Action,2007.0,13210.0,Unreal Tournament 3 Black,11045.233333333334,76561198088531301,True,2.0
+Indie,2008.0,27020.0,The Graveyard,29.133333333333333,CMSO,True,1.0
+Racing,2009.0,24740.0,Burnout Paradise: The Ultimate Box,35718.73333333333,Oniityan_H,True,2.0
+RPG,2009.0,1930.0,Two Worlds Epic Edition,2714.4333333333334,76561198082614655,True,0.0
+Action,2009.0,7510.0,X-Blades,1477.9333333333334,76561197992809369,True,2.0
+Action,2009.0,22200.0,Zeno Clash,2185.05,js41637,True,2.0
+Action,2009.0,1280.0,Darkest Hour: Europe '44-'45,4361.1,RevivedShadow,True,1.0
+Action,2009.0,10150.0,Prototype™,12533.316666666668,76561197981448997,True,1.0
+Strategy,2004.0,12470.0,Port Royale 2,621.75,Everae,False,0.0
+RPG,2007.0,22330.0,The Elder Scrolls IV: Oblivion® Game of the Year Edition,86943.8,Hayjack,True,2.0
+RPG,2002.0,22320.0,The Elder Scrolls III: Morrowind® Game of the Year Edition,26653.3,76561198073666829,True,2.0
+Action,2009.0,21660.0,Street Fighter® IV,6103.116666666667,Spawnofelfdude,True,2.0
+Action,2005.0,6060.0,"Star Wars: Battlefront 2 (Classic, 2005)",88635.53333333334,darkmassieh,True,2.0
+Adventure,2009.0,32360.0,The Secret of Monkey Island: Special Edition,2147.4,storminnorman,True,2.0
+Sports,2006.0,10140.0,3D Ultra™ Minigolf Adventures,153.53333333333333,76561198064542039,True,0.0
+Action,2007.0,10130.0,TimeShift™,635.3666666666667,Bigzy,True,2.0
+Action,2009.0,36000.0,Foreign Legion: Buckets of Blood,435.96666666666664,TheSlyDragon,True,2.0
+Adventure,2003.0,32370.0,STAR WARS™ - Knights of the Old Republic™,48548.6,76561198042491372,True,2.0
+Indie,2009.0,29180.0,Osmos,1287.1666666666667,scrubnauts_,True,2.0
+RPG,1998.0,38410.0,Fallout 2: A Post Nuclear Role Playing Game,6382.733333333334,76561198064324096,True,1.0
+Action,2005.0,13570.0,Tom Clancy's Splinter Cell Chaos Theory®,2226.5666666666666,76561198124225196,True,1.0
+Action,2009.0,11390.0,Crash Time 2,770.8166666666667,76561198048749210,False,0.0
+Simulation,2009.0,33730.0,18 Wheels of Steel: Extreme Trucker,320.08333333333337,Why_Not_Zoidberg,True,2.0
+Action,2009.0,32770.0,Joint Operations: Combined Arms Gold,19.933333333333334,76561198090560137,True,2.0
+Adventure,2009.0,40700.0,Machinarium,2475.65,Chinnigan,True,2.0
+Action,2007.0,24840.0,Medal of Honor: Airborne,2731.883333333333,76561198027069392,True,2.0
+RPG,2009.0,41500.0,Torchlight,29584.883333333335,hiddengamer15,True,0.0
+Strategy,2009.0,24800.0,Command &amp; Conquer: Red Alert 3 - Uprising,13634.616666666667,76561198073069974,True,1.0
+Action,2009.0,41100.0,Hammerfight,793.8166666666667,the_horseman,True,2.0
+Action,2009.0,41000.0,Serious Sam HD: The First Encounter,7052.583333333333,76561198065340769,True,0.0
+Action,2009.0,10180.0,Call of Duty®: Modern Warfare® 2,92462.5,76561198088538797,True,1.0
+Adventure,2009.0,32440.0,LEGO® Star Wars™ - The Complete Saga,10317.433333333332,mexicandinosaur_,False,2.0
+RPG,2007.0,11450.0,Overlord™,6625.016666666666,senhp,True,1.0
+Strategy,2007.0,24790.0,Command &amp; Conquer 3: Tiberium Wars,9282.433333333332,76561198072922914,True,0.0
+Strategy,2009.0,24810.0,Command &amp; Conquer 3: Kane's Wrath,5929.633333333333,Baileyhulanmilligan,True,2.0
+Indie,2009.0,41800.0,Gratuitous Space Battles,5116.65,4tiles,True,2.0
+Simulation,2009.0,45300.0,Wings of Prey,4105.65,tygewalker,True,2.0
+Action,2009.0,35420.0,Defence Alliance 2,1993.9833333333333,76561198063916425,True,2.0
+Action,2009.0,32430.0,STAR WARS™ - The Force Unleashed™ Ultimate Sith Edition,11870.333333333334,smashiroshh,True,2.0
+RPG,2009.0,22370.0,Fallout 3: Game of the Year Edition,96041.83333333333,69bmw,True,2.0
+Casual,2009.0,38210.0,Roogoo,13.8,AwesomeSauces101,True,2.0
+Action,2008.0,45700.0,Devil May Cry 4,4896.85,76561198066279729,True,2.0
+Action,2010.0,17570.0,"Pirates, Vikings, and Knights II",10318.833333333334,philgibs,True,2.0
+Action,2010.0,48700.0,Mount &amp; Blade: Warband,660277.4666666667,76561198093112529,True,2.0
+Action,2010.0,42120.0,Lead and Gold: Gangs of the Wild West,2177.266666666667,anivr1n,False,0.0
+Action,2010.0,12220.0,Grand Theft Auto: Episodes from Liberty City,68797.96666666666,76561198055330941,True,2.0
+Action,2010.0,45730.0,Dark Void™ Zero,26.85,anthonyrocks65,False,1.0
+Action,2010.0,49600.0,Beat Hazard,8224.483333333334,jukianinja,True,2.0
+Simulation,2010.0,43500.0,M.U.D. TV,122.1,76561198083633997,False,1.0
+Adventure,2010.0,40930.0,The Misadventures of P.B. Winterbottom,382.3,podeirladenunciar,True,2.0
+Action,2008.0,31700.0,Iron Grip: Warlord,489.7,76561198094073056,True,2.0
+Action,2010.0,34010.0,Alpha Protocol™,3910.983333333333,76561198081016729,True,2.0
+Simulation,2003.0,24780.0,SimCity™ 4 Deluxe Edition,22634.166666666668,JorgeXD132465,True,2.0
+Action,2010.0,28000.0,Kane &amp; Lynch 2: Dog Days,1569.4833333333333,76561198028608367,False,0.0
+Simulation,2010.0,39680.0,The Guild II Renaissance,3927.983333333333,sirpeterson,False,0.0
+Action,2011.0,50130.0,Mafia II,47071.833333333336,76561198066312344,True,2.0
+Action,2010.0,50510.0,Burn Zombie Burn!,121.68333333333334,76561198041992677,True,2.0
+Simulation,2010.0,48800.0,Ship Simulator Extremes,2293.133333333333,thegreatds,False,2.0
+Strategy,2010.0,22600.0,Worms Reloaded,14400.2,Mozness,True,1.0
+Strategy,2010.0,42960.0,Victoria II,30240.983333333334,leo17453,True,0.0
+Adventure,2010.0,57640.0,Broken Sword: Director's Cut,559.4333333333333,76561198084750842,True,2.0
+Casual,2010.0,62100.0,Chime,1010.1666666666666,ItsJerryAndHarry,True,2.0
+Action,2010.0,70300.0,VVVVVV,3469.85,76561198046859385,True,2.0
+Action,2010.0,57300.0,Amnesia: The Dark Descent,23822.316666666666,ShrikeShrikeShrikeShrikeShrike,True,2.0
+RPG,2010.0,70400.0,Recettear: An Item Shop's Tale,9390.166666666666,AZA1498,True,2.0
+Simulation,2010.0,70100.0,Hacker Evolution,2262.0,Anime_Enthusiast,True,2.0
+Casual,2010.0,38600.0,Faerie Solitaire,4821.616666666667,76561198028458466,False,1.0
+Strategy,2010.0,8930.0,Sid Meier's Civilization® V,1373011.4,AtomicWoodchuck,True,2.0
+Action,2010.0,22650.0,Alien Breed 2: Assault,540.3166666666667,76561198042649425,True,0.0
+Action,2010.0,50620.0,Darksiders™,27893.816666666666,76561198044032335,True,2.0
+Strategy,2010.0,42920.0,The Kings' Crusade,358.45,76561198077982319,False,0.0
+Action,2010.0,47790.0,Medal of Honor™,7179.0,Cabey64,True,2.0
+Action,2010.0,22380.0,Fallout: New Vegas,574555.3833333333,degen97,True,2.0
+Action,2010.0,6120.0,Shank,1422.0333333333333,76561198116736247,True,2.0
+Action,2010.0,35460.0,The Ball,963.25,iTzJaCe,False,0.0
+Action,2010.0,32500.0,STAR WARS™: The Force Unleashed™ II,7096.983333333334,sh31tf4c3,False,0.0
+Action,2010.0,33980.0,Pound of Ground,71.63333333333333,76561198085686437,False,0.0
+Action,2010.0,42700.0,Call of Duty®: Black Ops,145871.71666666667,BIG_FAT_BOOBS,True,0.0
+Action,2010.0,15750.0,Oddworld: Stranger's Wrath HD,1750.1666666666667,bruxozi,True,2.0
+Adventure,2010.0,31290.0,Back to the Future: The Game,1677.0833333333333,76561198081342521,True,1.0
+Action,2002.0,12100.0,Grand Theft Auto III,5080.35,mimimomoma,True,1.0
+Action,2005.0,12120.0,Grand Theft Auto: San Andreas,53736.45,76561198080465715,True,2.0
+Action,2003.0,12110.0,Grand Theft Auto: Vice City,13583.15,76561198103927245,True,1.0
+Action,2011.0,92300.0,A.R.E.S.: Extinction Agenda,868.8333333333334,76561198084705916,True,1.0
+Action,2011.0,80000.0,APOX,263.98333333333335,lord_of_the_dark,False,2.0
+Action,2011.0,47780.0,Dead Space™ 2,10635.45,76561198015157743,True,2.0
+Action,2011.0,63200.0,Monday Night Combat,8237.983333333334,robbiem2002,True,0.0
+Simulation,2009.0,47890.0,The Sims™ 3,106869.4,ANIMEPUSSY,True,2.0
+Casual,2011.0,42000.0,Trino,28.266666666666666,SuperHoboLord,False,0.0
+Adventure,2011.0,63660.0,Myst: Masterpiece Edition,88.18333333333334,ShnishMan,False,1.0
+RPG,2011.0,7520.0,Two Worlds II HD,8767.383333333333,mayshowganmore,False,0.0
+Strategy,2011.0,47800.0,RISK™: Factions,842.5333333333333,CreepercraftNZ,True,2.0
+Action,2011.0,63710.0,BIT.TRIP RUNNER,5576.75,76561198075626434,True,2.0
+Action,2011.0,55100.0,Homefront,10996.633333333333,76561198045148009,True,0.0
+Free to Play,2013.0,39120.0,RIFT,123957.2,GiBaPEzLife,True,2.0
+Indie,2011.0,94000.0,Dinner Date,36.016666666666666,Pzop,True,0.0
+Action,2011.0,92700.0,Shadow Harvest: Phantom Ops,26.033333333333335,equinox97,False,0.0
+Action,2011.0,70000.0,Dino D-Day,19455.333333333332,76561198072489692,True,0.0
+Action,2011.0,620.0,Portal 2,440657.48333333334,Hirukaz,True,2.0
+Action,2011.0,91600.0,Sanctum,23565.566666666666,76561198093944702,True,1.0
+Strategy,2011.0,73020.0,Majesty 2 Collection,2440.6833333333334,76561198050351207,True,2.0
+Indie,2011.0,98200.0,Frozen Synapse,6674.116666666667,Jeff_is_Back,True,2.0
+Action,2011.0,57900.0,Duke Nukem Forever,11227.65,Valkiry,True,0.0
+Action,2011.0,102700.0,A.V.A. Alliance of Valiant Arms™,4849.7,76561198046431850,False,0.0
+Free to Play,2009.0,9880.0,Champions Online,34262.65,adrianp74,True,1.0
+Action,2011.0,99900.0,Spiral Knights,287660.0833333333,durolan2535,True,2.0
+Indie,2011.0,95700.0,The Cat and the Coup,15.75,sadbadvlad,True,2.0
+Strategy,2011.0,49470.0,Magic: The Gathering - Duels of the Planeswalkers 2012,15730.55,76561197996458179,True,2.0
+Action,2011.0,21100.0,F.E.A.R. 3,12153.75,76561198079009374,False,0.0
+Adventure,2011.0,94590.0,Puzzle Agent 2,452.01666666666665,stormman176,True,2.0
+Action,2011.0,105700.0,Tobe's Vertical Adventure,52.78333333333333,76561198116545160,True,0.0
+Action,2011.0,65790.0,ARMA: Cold War Assault,3690.1,76561197990557433,True,2.0
+Simulation,2011.0,57690.0,Tropico 4,47558.55,archiegaming,True,2.0
+Action,2011.0,38740.0,EDGE,1334.0833333333333,ad1h53mech,True,2.0
+Action,2011.0,107200.0,Space Pirates and Zombies,18072.216666666667,76561198077246154,True,2.0
+Adventure,2011.0,99910.0,Puzzle Pirates,7111.333333333333,76561198074200838,True,2.0
+Action,2011.0,55150.0,"Warhammer 40,000: Space Marine",35392.7,76561198077360732,True,2.0
+Action,2012.0,98400.0,Hard Reset Extended Edition,1767.2333333333333,76561198067306981,True,0.0
+Action,2011.0,22230.0,Rock of Ages,3843.1,76561198136941803,True,0.0
+Action,2011.0,35450.0,Red Orchestra 2: Heroes of Stalingrad with Rising Storm,153763.56666666668,76561198047630659,True,2.0
+Action,2011.0,111400.0,Bunch of Heroes,592.0333333333333,76561198081973813,True,1.0
+RPG,2011.0,48220.0,Might &amp; Magic: Heroes VI,25438.483333333334,76561198075244108,False,2.0
+Strategy,2011.0,9420.0,Supreme Commander: Forged Alliance,36928.566666666666,76561198057623952,True,2.0
+Action,2011.0,113200.0,The Binding of Isaac,273059.4166666667,76561198081962345,True,0.0
+Racing,2011.0,200230.0,Off-Road Drive,477.6,juanxoywea,False,0.0
+Strategy,2007.0,9350.0,Supreme Commander,6151.033333333334,76561198020061745,True,2.0
+Action,2011.0,45770.0,Dead Rising 2: Off the Record,5487.433333333333,SlaydenL,True,2.0
+Action,2011.0,201480.0,Serious Sam: The Random Encounter,244.73333333333332,MasterGible,False,0.0
+Indie,2011.0,200910.0,Before the Echo,1293.65,76561198025475753,True,2.0
+Action,2011.0,55370.0,Saints Row: The Third Initiation Station,195.53333333333333,Delirious_Panda,True,2.0
+Action,2011.0,71340.0,Sonic Generations Collection,12331.733333333334,darainthebanana,True,2.0
+Adventure,2011.0,110800.0,L.A. Noire,35410.8,n00bsh0t,True,2.0
+Indie,2011.0,61310.0,Fractal: Make Blooms Not War,183.18333333333334,76561198061800268,True,2.0
+Strategy,2011.0,202200.0,Galactic Civilizations® II: Ultimate Edition,5139.5,76561198068242211,True,1.0
+Action,2011.0,113400.0,APB Reloaded,239119.11666666667,76561198016602703,True,0.0
+Racing,2011.0,201510.0,Flatout 3: Chaos &amp; Destruction,219.45,76561198054397103,True,0.0
+Action,2011.0,23530.0,Earth Defense Force: Insect Armageddon,1264.8166666666666,76561198019297801,True,2.0
+Action,2011.0,201310.0,X3: Albion Prelude,9661.45,jj44556,True,2.0
+Action,2013.0,35720.0,Trine 2: Complete Story,23662.633333333335,Renegaderade,True,2.0
+Action,2011.0,204030.0,Fable - The Lost Chapters,15557.966666666667,76561198283109848,True,2.0
+Action,2005.0,204340.0,Serious Sam 2,3151.3166666666666,76561198083006888,True,2.0
+Free to Play,2010.0,9900.0,Star Trek Online,124412.96666666666,kanekicg,True,2.0
+RPG,2012.0,57740.0,Jagged Alliance - Back in Action,5426.466666666666,BearMuffins,True,0.0
+Action,2012.0,105800.0,PixelJunk™ Eden,644.9166666666666,rninetynine,True,1.0
+Action,2012.0,203210.0,Titan Attacks!,831.4666666666667,76561198087699908,True,1.0
+RPG,2012.0,203770.0,Crusader Kings II,164624.18333333332,76561198021814659,True,2.0
+Action,2012.0,108710.0,Alan Wake,16772.883333333335,MarbleShrine,True,2.0
+Action,2011.0,10220.0,Postal III,1288.1666666666667,76561198082881423,True,2.0
+Action,2012.0,200210.0,Realm of the Mad God,336353.45,ReMiXOfficalSteam,True,2.0
+Action,2012.0,207490.0,Rayman® Origins,2579.9,76561197970512992,False,2.0
+Action,2012.0,108500.0,Vessel,1199.8833333333332,76561198025343046,True,0.0
+Indie,2012.0,207250.0,Cubemen,1451.4333333333334,76561198051644906,True,2.0
+Adventure,2012.0,204180.0,Waveform,1172.0333333333333,god-damn,True,2.0
+Casual,2012.0,206610.0,3SwitcheD,1090.3,Eclairz,False,2.0
+Racing,2012.0,202310.0,Ridge Racer™ Unbounded,876.1666666666666,pasteldecarne,True,2.0
+Action,2012.0,203750.0,Binary Domain,2089.8333333333335,BarretaJrs,True,0.0
+Indie,2012.0,209370.0,Analogue: A Hate Story,1135.9,rsm_garlskg,True,2.0
+Action,2012.0,209100.0,Resident Evil: Operation Raccoon City,1511.8833333333334,76561198012514677,False,0.0
+Action,2012.0,207350.0,Ys Origin,2514.5833333333335,Sanskeleteen,True,2.0
+Action,2012.0,204100.0,Max Payne 3,34989.85,DJKamBer,True,2.0
+Free to Play,2012.0,212500.0,The Lord of the Rings Online™,46572.316666666666,beepbeepimasheep,True,1.0
+Indie,2012.0,209790.0,Splice,341.03333333333336,didlnwzaa,True,1.0
+Indie,2012.0,207080.0,Indie Game: The Movie,2359.4166666666665,Flatzone2,True,0.0
+Action,2012.0,42170.0,Krater,1414.9166666666667,76561198096840499,True,1.0
+Action,2012.0,213330.0,LEGO® Batman 2 DC Super Heroes™,7057.4,goldenkoi,True,0.0
+Action,2012.0,212160.0,Vindictus,61805.03333333333,Faawks,True,2.0
+Adventure,2012.0,203830.0,The Dark Eye: Chains of Satinav,500.98333333333335,Pandaliti,True,2.0
+Action,2012.0,206480.0,Dungeons &amp; Dragons Online®,15853.183333333332,76561198071598894,False,2.0
+Action,2012.0,212630.0,Tom Clancy's Ghost Recon: Future Soldier™,9746.733333333334,76561198105270589,False,0.0
+Casual,2012.0,200010.0,Quantum Conundrum,4965.166666666667,EyesScream,True,2.0
+Action,2012.0,17080.0,Tribes: Ascend,50806.9,Lex55678,True,2.0
+Action,2012.0,205550.0,Foreign Legion: Multi Massacre,488.55,rtyzen,False,2.0
+Indie,2012.0,209270.0,Hero Academy,12518.95,thatguygiberr,False,0.0
+Action,2012.0,212010.0,Galaxy on Fire 2™ Full HD,1527.1333333333332,76561198069708131,False,0.0
+Action,2012.0,730.0,Counter-Strike: Global Offensive,13086404.45,Fr0stedLine,True,2.0
+RPG,2005.0,208580.0,STAR WARS™ Knights of the Old Republic™ II - The Sith Lords™,40664.13333333333,76561198083973618,True,2.0
+Action,2012.0,200260.0,Batman: Arkham City - Game of the Year Edition,87844.68333333333,datts,True,1.0
+Adventure,2011.0,206440.0,To the Moon,4121.45,76561198070775610,True,2.0
+Action,2012.0,214970.0,Intrusion 2,1369.9833333333333,76561198084930628,True,2.0
+Action,2012.0,205950.0,Jet Set Radio,2397.5666666666666,76561198094515883,True,1.0
+Action,2012.0,65740.0,Carrier Command: Gaea Mission,1810.1833333333334,dominicmarti,True,2.0
+Action,2012.0,209670.0,Cortex Command,5359.966666666666,irschington,True,1.0
+Adventure,2012.0,215510.0,Rocketbirds: Hardboiled Chicken,974.5666666666667,tommyjacobs,True,1.0
+Action,2012.0,208200.0,Doom 3: BFG Edition,8400.1,mcdeviant,True,2.0
+Action,2012.0,215470.0,Primal Carnage,15145.366666666667,jonjon4351,False,0.0
+Action,2012.0,219150.0,Hotline Miami,44757.083333333336,washington_,True,2.0
+Action,2012.0,209080.0,Guns of Icarus Online,57095.9,76561198068479124,False,0.0
+Action,2006.0,4720.0,Condemned: Criminal Origins,755.5333333333333,76561198057263232,True,0.0
+Action,2003.0,223470.0,POSTAL 2,35534.933333333334,GetMLGRekt,False,1.0
+Action,2012.0,222140.0,Puddle,744.4166666666666,76561198060748207,True,2.0
+Action,2012.0,202970.0,Call of Duty®: Black Ops II,47108.566666666666,76561198073714126,True,2.0
+Action,2012.0,223510.0,Miasmata,726.2333333333333,FHK,True,0.0
+Action,2012.0,212200.0,Mabinogi,28239.7,117331,True,2.0
+Adventure,2012.0,105000.0,A New Beginning - Final Cut,304.95,xiege3,False,0.0
+RPG,2012.0,225640.0,Sacred 2 Gold,3112.75,hayen-,True,0.0
+Action,2013.0,211280.0,Primal Fears,154.51666666666665,d3ejay,False,2.0
+Action,2013.0,215710.0,Fieldrunners 2,1088.2833333333333,76561198076271965,True,2.0
+Action,2013.0,209540.0,Strike Suit Zero,2643.0833333333335,CjDoesIntros,True,2.0
+Action,2013.0,228400.0,Ace Combat Assault Horizon - Enhanced Edition,2396.883333333333,foxer007,True,2.0
+Action,2013.0,220440.0,DmC: Devil May Cry,13678.416666666666,76561198060785575,True,1.0
+Action,2013.0,227800.0,Retrovirus,249.56666666666666,76561198003811382,True,0.0
+Simulation,2013.0,231140.0,Cities XL Platinum,4598.85,u_r_faggot,True,1.0
+Action,2013.0,224820.0,Super House of Dead Ninjas,1717.1333333333334,nelso,True,0.0
+Adventure,2013.0,226740.0,Monster Loves You!,728.5,genzzii,True,2.0
+Action,2013.0,220160.0,Trials Evolution: Gold Edition,16873.966666666667,76561198091447998,True,2.0
+Action,1997.0,232770.0,POSTAL,889.6166666666667,76561198073916938,True,0.0
+Action,2013.0,221040.0,Resident Evil 6 / Biohazard 6,25968.45,coolslayer666,True,1.0
+Adventure,2013.0,233470.0,Evoland,3268.0333333333333,MrMasterix,True,2.0
+Indie,2013.0,230650.0,Lords of Football,482.6666666666667,76561198066004879,False,0.0
+Action,2013.0,227220.0,Sang-Froid - Tales of Werewolves,1139.8666666666666,Endless_Funn,True,2.0
+Action,2013.0,233720.0,Surgeon Simulator,35071.21666666667,imsojipper,True,0.0
+Action,2013.0,227480.0,God Mode,4614.083333333333,76561198045547769,True,0.0
+Indie,2013.0,232050.0,Eador. Masters of the Broken World,3240.15,Deaththunderwolfx,True,2.0
+Action,2013.0,232750.0,Mars: War Logs,1988.7333333333333,p9359o3678657084507384650274,False,0.0
+Casual,2013.0,234710.0,Poker Night 2,30283.1,76561198108038772,True,2.0
+Action,2013.0,210770.0,Sanctum 2,40978.88333333333,redsncrimson,True,0.0
+Indie,2013.0,222730.0,Reus,9128.75,76561198075935936,True,2.0
+Action,2013.0,222480.0,Resident Evil Revelations / Biohazard Revelations,5350.283333333334,76561198042535860,False,0.0
+Action,2013.0,228300.0,Remember Me,5193.833333333333,76561198078378127,True,2.0
+Casual,2013.0,236790.0,Agricultural Simulator 2013 - Steam Edition,502.73333333333335,76561198058894990,False,0.0
+Casual,2013.0,235360.0,Prime World: Defenders,2709.2999999999997,Squiddicals,True,2.0
+Indie,2013.0,231740.0,Knights of Pen and Paper +1 Edition,6274.416666666667,76561198044831412,True,0.0
+Strategy,2013.0,231430.0,Company of Heroes 2,191614.2,de_triggered,True,1.0
+Action,2013.0,237110.0,Mortal Kombat Komplete Edition,25946.183333333334,76561198067582240,True,0.0
+Action,2013.0,239800.0,Bleed,1279.6833333333334,GandalfsMagicwand,True,2.0
+Action,2013.0,239660.0,Soldier Front 2,33403.5,76561197971591275,True,2.0
+Action,2013.0,225360.0,DARK,672.0166666666667,viksajjdk,False,2.0
+Racing,2013.0,243360.0,TrackMania² Valley,1239.0,Iamhurdlz,True,2.0
+RPG,2013.0,39140.0,FINAL FANTASY VII,25066.75,Nidowa,True,2.0
+Adventure,2013.0,201420.0,Toki Tori 2+,1014.1166666666667,halofreak61,True,2.0
+Action,2013.0,237590.0,R.I.P.D.: The Game,334.2833333333333,ehekatI,False,2.0
+Adventure,2013.0,234650.0,Shadowrun Returns,13340.416666666666,maxsawl,True,2.0
+Indie,2013.0,228960.0,Skulls of the Shogun,1200.3833333333334,76561198110711150,True,0.0
+Action,2013.0,217140.0,Rise of the Triad,2320.7,76561198033982370,True,0.0
+Action,2013.0,243950.0,Divinity: Dragon Commander,3883.35,76561198076770532,True,2.0
+Action,2013.0,231040.0,Beatbuddy: Tale of the Guardians,877.9833333333333,76561198075981950,True,2.0
+Action,2013.0,237630.0,DuckTales: Remastered,1380.1,Ronnieandfriendsthatarecool,True,2.0
+Strategy,2013.0,233840.0,Worms Clan Wars,4894.416666666667,projecteldor,True,0.0
+Indie,2013.0,242570.0,Space Hulk,2208.9166666666665,76561198057886565,True,0.0
+Action,2013.0,244870.0,Electronic Super Joy,2869.133333333333,BRoLance,True,1.0
+Action,2013.0,226720.0,LOST PLANET® 3,2699.7166666666667,76561198001398677,True,2.0
+Strategy,2013.0,243780.0,PixelJunk™ Monsters Ultimate,1138.2166666666667,3565Jason,True,1.0
+Action,2015.0,250110.0,Assault Android Cactus,477.3,76561198020577418,True,2.0
+Adventure,2013.0,244710.0,Shelter,882.6833333333333,29017637452801,True,0.0
+Action,2015.0,203290.0,America's Army: Proving Grounds,32979.88333333333,76561198103253374,True,2.0
+Casual,2013.0,239820.0,Game Dev Tycoon,56943.46666666667,76561198088944293,True,2.0
+Action,2013.0,249630.0,Delver,1025.2333333333333,76561198093265305,True,2.0
+Action,2013.0,238320.0,Outlast,12809.8,76561198299095634,True,0.0
+Adventure,2013.0,231310.0,MirrorMoon EP,372.3666666666667,fivewordsinfuckingneon,True,1.0
+Adventure,2013.0,227600.0,Castle of Illusion,356.8666666666667,Lord_Marius,True,0.0
+Casual,2013.0,226960.0,Ironclad Tactics,761.0333333333333,thisisnick,True,2.0
+Action,2013.0,244810.0,Foul Play,373.7,ruanvg001,True,2.0
+Action,2012.0,248350.0,Omegalodon,411.06666666666666,flakka91,True,2.0
+Action,2013.0,237740.0,Angry Video Game Nerd Adventures,1499.1666666666667,Ulrikk,True,2.0
+Action,2013.0,243450.0,Urban Trial Freestyle,1057.65,76561198064894873,False,0.0
+Action,2013.0,236450.0,PAC-MAN™ Championship Edition DX+,1853.7,76561198083246772,True,2.0
+Action,2013.0,249870.0,Scribblenauts Unmasked: A DC Comics Adventure,5008.6,76561198085601351,True,1.0
+Action,2013.0,217920.0,Alien Rage - Unlimited,385.31666666666666,zaph1803,False,0.0
+Action,2012.0,251370.0,Escape Goat,218.51666666666668,76561198059579366,True,2.0
+Casual,2013.0,220260.0,Farming Simulator 2013 Titanium Edition,27311.55,dogrider,True,2.0
+Free to Play,2013.0,244930.0,SNOW,10413.166666666666,sonnymastrangioli,True,2.0
+Adventure,2013.0,221910.0,The Stanley Parable,22596.283333333333,GGargula,True,0.0
+Adventure,2013.0,250320.0,The Wolf Among Us,21087.6,thequeenpanda,True,2.0
+Action,2013.0,248710.0,Iesabel,90.91666666666667,kingGaelic,False,0.0
+Casual,2013.0,250460.0,Bridge Constructor,1223.4833333333333,76561198046928474,True,2.0
+Action,2013.0,242820.0,140,1598.2,76561198098156317,True,0.0
+Adventure,1996.0,245390.0,"I Have No Mouth, and I Must Scream",517.6166666666667,nova_prime,True,0.0
+Action,2013.0,250500.0,Super Amazing Wagon Adventure,1208.1833333333334,SmithRamone,True,2.0
+Action,2013.0,238010.0,Deus Ex: Human Revolution - Director's Cut,42080.76666666667,TheLifeAndTimesOfTim,True,2.0
+Action,2013.0,238430.0,Contagion,24775.1,76561198077993857,False,0.0
+Action,2013.0,252330.0,Slender: The Arrival,2284.1833333333334,otorhinolaryngologist,True,0.0
+Action,2013.0,246580.0,The Typing of The Dead: Overkill,1427.3,76561198087966210,True,2.0
+Action,2013.0,247660.0,Deadly Premonition: The Director's Cut,1253.1666666666667,76561198057631298,True,0.0
+Action,2013.0,241540.0,State of Decay,51730.333333333336,76561198082545803,True,1.0
+Action,2013.0,219830.0,King Arthur's Gold,24457.0,viceflin,True,2.0
+Adventure,2013.0,226620.0,Desktop Dungeons,3052.55,dimitriirfan,True,1.0
+Simulation,2013.0,256050.0,Adventure Park,997.65,taebaby,False,0.0
+Action,2013.0,248820.0,Risk of Rain,87557.73333333334,76561198079601835,True,2.0
+Indie,2013.0,251990.0,Long Live The Queen,3648.4333333333334,2d4nk4m3,True,2.0
+Indie,2013.0,108600.0,Project Zomboid,29436.983333333334,NotJustAnyOrange,True,0.0
+Action,2013.0,252770.0,Vox,135.4,JesseKayfabe,False,0.0
+Action,2013.0,257750.0,Bloody Trapland,3365.983333333333,DieMadchenschanderin,True,1.0
+Simulation,2013.0,260510.0,World Basketball Tycoon,188.13333333333333,76561198090315264,False,2.0
+Action,2013.0,248630.0,Kingdoms Rise,908.1833333333334,76561198090724038,True,2.0
+Action,2013.0,242050.0,Assassin’s Creed® IV Black Flag™,89679.88333333333,kaepora0gaebora,True,2.0
+Action,2013.0,252070.0,Gimbal,196.03333333333333,micky_d,True,2.0
+Action,2013.0,261700.0,Eryi's Action,363.48333333333335,76561198028987134,True,2.0
+Adventure,2013.0,252370.0,The Shivah,215.18333333333334,76561197972261430,True,1.0
+Simulation,2012.0,253770.0,Bus-Simulator 2012,330.46666666666664,ultrararepepes,False,0.0
+Indie,2013.0,252250.0,Maia,140.26666666666668,temere,True,2.0
+Action,2013.0,259530.0,Savant - Ascent,767.25,1234865654,True,1.0
+Indie,2013.0,259060.0,Dominions 4: Thrones of Ascension,2056.9166666666665,76561198092564032,True,2.0
+Action,2013.0,109600.0,Neverwinter,107791.8,76561198036171355,True,2.0
+Animation &amp; Modeling,2013.0,248170.0,Clickteam Fusion 2.5,2334.333333333333,crispybaconzzz,True,2.0
+Indie,2014.0,259470.0,Particulars,295.8666666666667,CanadianGooseLover,False,2.0
+Adventure,2013.0,235400.0,King’s Bounty: Legions,481.4166666666667,Tinathin,True,0.0
+Adventure,2012.0,259680.0,Tales of Maj'Eyal,5074.1,greenkoala,False,0.0
+Simulation,2013.0,267600.0,Airport Simulator 2014,642.1833333333333,FakMuther1234,True,2.0
+Simulation,2013.0,267610.0,Woodcutter Simulator 2013,100.68333333333334,nomorememesforsale,False,0.0
+Action,2014.0,264240.0,CONSORTIUM,1244.4,crackerfacee,True,1.0
+Action,2014.0,94400.0,Nidhogg,6413.383333333333,MezKip,True,2.0
+Action,2014.0,260210.0,Assassin’s Creed® Liberation HD,1666.7,64574574574744,True,1.0
+Action,2014.0,222880.0,Insurgency,188697.73333333334,whodafuqisthisguilao,True,1.0
+Action,2014.0,269210.0,Hero Siege,18540.566666666666,76561198084123358,False,1.0
+Action,2014.0,262790.0,Our Darker Purpose,1192.9,reddoesstuff,True,0.0
+Indie,2014.0,249570.0,The Castle Doctrine,500.73333333333335,mradobe7,True,0.0
+Indie,2014.0,263320.0,Saturday Morning RPG,483.1166666666667,MrSir01,True,2.0
+Adventure,2014.0,272060.0,Serena,162.83333333333334,76561198046907159,True,2.0
+Action,2014.0,224480.0,Octodad: Dadliest Catch,10376.283333333333,DjinnieContact,True,2.0
+Adventure,2014.0,237890.0,Agarest: Generations of War,5153.483333333334,ninjamagics,True,2.0
+Action,2014.0,263300.0,BlazBlue: Calamity Trigger,1651.85,123123718417671290,True,2.0
+Adventure,2014.0,265690.0,NaissanceE,105.88333333333333,Cleze,True,2.0
+Casual,2013.0,250600.0,The Plan,256.01666666666665,897w463824638109276,True,1.0
+Action,2014.0,250180.0,METAL SLUG 3,3736.1833333333334,76561198079990063,True,1.0
+Indie,2014.0,242920.0,Banished,66611.1,76561198056392326,True,2.0
+Casual,2014.0,265890.0,Hexcells,844.75,76561198064135570,True,2.0
+Casual,2014.0,271900.0,Hexcells Plus,1299.8833333333334,76561198085774896,True,2.0
+Indie,2013.0,269030.0,The Yawhg,494.9166666666667,fuckoffandstopsharingmyprofile,True,1.0
+Adventure,2014.0,265610.0,Epic Battle Fantasy 4,5531.766666666667,Mastic,True,0.0
+Action,2014.0,277590.0,Assassin's Creed Freedom Cry,1327.0166666666667,JamesTB,False,1.0
+Action,2014.0,239250.0,Castlevania: Lords of Shadow 2,1454.85,76561198059201575,True,0.0
+Indie,2014.0,247000.0,Talisman: Digital Edition,7202.683333333333,pixelism,True,2.0
+Action,2014.0,251470.0,TowerFall Ascension,2055.766666666667,76561198096143818,False,2.0
+Casual,2014.0,266010.0,LYNE,3652.65,Fuffy,True,2.0
+Adventure,2014.0,265870.0,Alpha Kimori™ 1,350.0,Dampflok,False,0.0
+Action,2014.0,258180.0,Deus Ex: The Fall,1165.55,siddhugoge,False,0.0
+Action,2014.0,233150.0,LUFTRAUSERS,4391.9,76561198090842891,True,0.0
+Indie,2014.0,274980.0,Influent,323.56666666666666,76561198049916759,True,2.0
+Adventure,2014.0,283880.0,Heroine's Quest: The Herald of Ragnarok,336.6,certifiedweabooz,True,2.0
+Casual,2014.0,279420.0,Gardens Inc. – From Rakes to Riches,40.96666666666666,76561198045872243,True,2.0
+Action,2014.0,218820.0,Mercenary Kings,3722.366666666667,76561198031212089,True,2.0
+Strategy,2007.0,289340.0,Freight Tycoon Inc.,60.916666666666664,elite_m8,False,2.0
+Action,2014.0,240970.0,Half Minute Hero: The Second Coming,845.35,76561198084616658,True,2.0
+Action,2014.0,277430.0,Halo: Spartan Assault,2732.5666666666666,76561198075895633,True,2.0
+Adventure,2014.0,286500.0,"House of 1,000 Doors: Family Secrets Collector's Edition",87.43333333333334,76561198077021283,True,2.0
+Adventure,1992.0,283920.0,Putt-Putt® Joins the Parade,42.06666666666666,bruhbruhxd,True,2.0
+Action,2014.0,271570.0,Space Farmers,724.3333333333334,76561198007217051,True,1.0
+Casual,2014.0,284950.0,Pixel Puzzles: Japan,1421.3833333333334,funky4tacos,False,0.0
+Adventure,2014.0,260130.0,Agarest: Generations of War Zero,1621.55,76561198062005261,True,2.0
+Free to Play,2014.0,263540.0,Villagers and Heroes,4955.516666666666,thomas_v2000,True,2.0
+Casual,2003.0,289460.0,RC Cars,6.233333333333333,XTitanxzX,True,2.0
+Adventure,2014.0,286340.0,FarSky,1604.9166666666667,76561198066722009,True,0.0
+Action,2014.0,283660.0,Rabbit Hole 3D: Steam Edition,254.58333333333334,76561198070590567,False,0.0
+Action,1996.0,292390.0,Realms of the Haunting,48.61666666666667,76561198093560216,True,2.0
+Action,2014.0,295770.0,Rogue Shooter: The FPS Roguelike,198.63333333333333,76561198045080203,True,2.0
+Action,2014.0,250640.0,Croixleur Sigma,123.2,SeahDefault,True,2.0
+Action,2014.0,227780.0,Serious Sam Classics: Revolution,743.4833333333333,lomocampero,True,1.0
+Action,2014.0,295730.0,Sweezy Gunner,167.66666666666666,76561198040258534,True,2.0
+Action,2012.0,286100.0,You Have to Win the Game,1935.0833333333333,dannysfatass,True,2.0
+Action,2014.0,225600.0,Blade Symphony,9299.666666666666,RedOctopusTent,True,2.0
+Action,2014.0,265630.0,Fistful of Frags,44361.76666666667,76561198083029873,True,1.0
+Adventure,2014.0,266490.0,Lili: Child of Geos - Complete Edition,264.3833333333333,blackyyangzz,True,2.0
+Adventure,2014.0,293320.0,Coma: Mortuary,255.95,xoffy,True,1.0
+Action,2014.0,260160.0,The Last Tinker™: City of Colors,317.1,jewhue,True,2.0
+Action,2014.0,238460.0,BattleBlock Theater®,64030.53333333333,76561198060447950,True,2.0
+Action,2014.0,244450.0,Men of War: Assault Squad 2,38841.683333333334,SpecGames,True,0.0
+Adventure,1998.0,294540.0,Freddi Fish 3: The Case of the Stolen Conch Shell,30.0,76561198045570132,True,0.0
+Action,2014.0,301190.0,Frederic: Resurrection of Music,505.43333333333334,76561197967849744,False,1.0
+Action,2006.0,248570.0,Toribash,43260.566666666666,76561198065656175,True,1.0
+Action,2014.0,261110.0,Killer is Dead - Nightmare Edition,1720.1166666666666,analfelatiothecircumsoldier,True,2.0
+RPG,2014.0,245620.0,Tropico 5,21746.433333333334,benjamin27,True,2.0
+Action,2014.0,301200.0,Frederic: Evil Strikes Back,346.18333333333334,76561198024300582,True,2.0
+Casual,2013.0,285050.0,Showtime!,234.1,76561198036511313,True,2.0
+Casual,2011.0,293920.0,Spirited Heart Deluxe,140.53333333333333,ownageog,True,2.0
+Action,2014.0,242760.0,The Forest,98528.53333333334,Bennysaputra,True,2.0
+Action,2014.0,290770.0,The Fall,852.0833333333334,76561198078833521,True,2.0
+Action,2014.0,270510.0,EPOCH,25.983333333333334,76561198063092622,True,0.0
+Adventure,2013.0,284770.0,Enigmatis 2: The Mists of Ravenwood,356.1333333333333,cretanarcher,False,0.0
+Adventure,2014.0,279260.0,Richard &amp; Alice,183.21666666666667,76561198043626578,True,0.0
+Action,2014.0,247730.0,Nether: Resurrected,25861.5,brettebear,False,0.0
+Action,2014.0,261530.0,Lifeless Planet Premier Edition,530.2166666666667,76561198051065449,True,2.0
+Action,2014.0,301460.0,Electronic Super Joy: Groove City,221.81666666666666,mutiez,True,2.0
+Action,2014.0,268750.0,Magicite,21060.75,76561198062288797,True,2.0
+Adventure,2012.0,270570.0,Reversion - The Escape (1st Chapter),403.76666666666665,76561198094065803,True,2.0
+Action,2014.0,256190.0,Enemy Front,608.1666666666666,76561198049028241,False,2.0
+Casual,2013.0,262900.0,Smooth Operators,360.81666666666666,Milkshakes-,True,0.0
+Action,2014.0,280040.0,A Wizard's Lizard,608.65,striker8967,True,2.0
+Indie,2014.0,223830.0,Xenonauts,5936.933333333333,AwesomenessD,True,2.0
+Adventure,2014.0,230230.0,Divinity: Original Sin (Classic),32625.333333333332,modsmaps,True,2.0
+Adventure,2014.0,283230.0,Spoiler Alert,302.8,lodesofemone,False,0.0
+Action,2014.0,291480.0,Warface,51226.86666666667,76561198068363182,False,2.0
+Adventure,2014.0,297590.0,Monsters Ate My Birthday Cake,52.46666666666667,76561198046075289,True,1.0
+Casual,2014.0,304500.0,Rooms: The Main Building,181.45,ubertheshadow,False,0.0
+Simulation,2014.0,292180.0,X-Plane 10 Global - 64 Bit,1745.4,c1u,True,2.0
+Action,2014.0,293900.0,Pivvot,120.75,76561198030388123,True,2.0
+Indie,2014.0,310070.0,The Nightmare Cooperative,242.76666666666665,totueros,True,1.0
+Strategy,2014.0,255420.0,Magic 2015 - Duels of the Planeswalkers,9933.35,Dm_Dude,True,0.0
+Action,2016.0,302590.0,Of Guards And Thieves,807.7833333333333,91221301,True,2.0
+Casual,2013.0,307990.0,Wildlife Park 2 - Fantasy,17.066666666666666,XIRUS_PWNS,True,2.0
+Indie,2014.0,291370.0,Undead Overlord,16.066666666666666,ImSleepy_,True,2.0
+Action,2014.0,248310.0,Freedom Planet,1777.1333333333332,r3koil,True,2.0
+Action,2014.0,302270.0,Dungeon Defenders Eternity,8433.666666666666,76561198097949523,True,2.0
+Adventure,2014.0,307290.0,Velvet Sundown,1139.8166666666666,76561198074860147,True,1.0
+Adventure,2014.0,288160.0,The Room,712.7666666666667,ShotgunTheUnicorn,True,1.0
+RPG,2014.0,251150.0,The Legend of Heroes: Trails in the Sky,3485.5,lookhereifyoureastalker,True,2.0
+Action,2014.0,312990.0,The Expendabros,11481.916666666666,LittleNik,True,1.0
+Action,2014.0,247950.0,Sacred 3,480.6166666666667,bosstrann,True,2.0
+Action,2014.0,298520.0,Orbital Gear,1200.8166666666666,76561198044688378,True,2.0
+Action,2014.0,263960.0,Wyv and Keep: The Temple of the Lost Idol,133.88333333333333,JDubb153,True,2.0
+Adventure,2014.0,314020.0,Morphopolis,987.5666666666667,error404olofmeister,False,2.0
+Action,2014.0,305980.0,Heavy Fire: Afghanistan,219.81666666666666,NakeeySon,False,2.0
+Action,2014.0,300040.0,Divine Souls F2P MMO,502.25,killthewildlife,True,2.0
+Action,2004.0,307340.0,Platypus,177.45,76561198066855591,True,2.0
+Action,2014.0,275390.0,Guacamelee! Super Turbo Championship Edition,1149.6666666666667,RAYNNNISREADY,True,0.0
+Casual,2014.0,257710.0,Max Gentlemen,310.28333333333336,76561198059829512,True,2.0
+Action,2014.0,265770.0,Cannons Lasers Rockets,85.65,Wazzaa_man,False,0.0
+Action,2014.0,286690.0,Metro 2033 Redux,14029.9,secretcodrin,True,2.0
+Action,2014.0,287390.0,Metro: Last Light Redux,14652.233333333334,76561198069544176,True,2.0
+Action,2014.0,261760.0,Lichdom: Battlemage,2547.2833333333333,zenncs,True,2.0
+Action,2011.0,312010.0,Bird Assassin,66.36666666666667,Nuewman,True,2.0
+Action,2013.0,250400.0,How to Survive,15718.75,MrPickle255,True,2.0
+Action,2014.0,214190.0,Minimum,4462.933333333333,syates,False,0.0
+Indie,2014.0,321030.0,One Day For Ched,1.5333333333333332,Tcing,True,0.0
+RPG,2014.0,288470.0,Fable Anniversary,8328.65,mastergamerinfinity,True,1.0
+Casual,2004.0,316720.0,planetarian ~the reverie of a little planet~,217.73333333333332,SuperSalter3000,True,2.0
+Casual,2014.0,319550.0,The Collider,195.18333333333334,76561198009649906,True,1.0
+Indie,2014.0,319560.0,Reprisal Universe,144.1,76561198049813970,True,1.0
+Action,2014.0,272510.0,NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution,9390.166666666666,76561198123617303,True,1.0
+Casual,2014.0,290730.0,My Lands: Black Gem Hunting,2387.5666666666666,Tismatty,True,1.0
+RPG,2014.0,289130.0,Endless Legend™,31699.783333333333,vitoprofile,True,2.0
+Adventure,2014.0,215080.0,WAKFU,26704.933333333334,76561197977543317,True,2.0
+Action,2014.0,297120.0,Heavy Bullets,1027.0166666666667,theghostofbowie,True,2.0
+Adventure,2014.0,240760.0,Wasteland 2: Director's Cut,15326.483333333334,getyourmarsbar,True,2.0
+Simulation,2014.0,232890.0,Stronghold Crusader 2,2562.15,76561198028299001,False,0.0
+Indie,2014.0,221540.0,DG2: Defense Grid 2,2383.4,ERROR_LT,True,2.0
+Adventure,2014.0,241260.0,Sherlock Holmes: Crimes and Punishments,1013.9666666666667,76561198078210923,True,2.0
+Action,2014.0,241930.0,Middle-earth™: Shadow of Mordor™,104901.76666666666,CrimsonStormFTW,True,1.0
+Action,2014.0,253610.0,Wrack,185.4,76561198044382516,True,0.0
+Action,2014.0,310700.0,Super Win the Game,219.75,76561198019568583,True,2.0
+Adventure,2011.0,319400.0,Disney Winnie the Pooh,6.133333333333334,231091,True,2.0
+Action,2014.0,242640.0,Styx: Master of Shadows,3775.9166666666665,76561198008101478,True,2.0
+Action,2014.0,273110.0,Counter-Strike Nexon: Zombies,25147.733333333334,lagschwein,False,2.0
+Action,2014.0,268050.0,The Evil Within,5141.416666666667,76561198057967308,True,0.0
+Adventure,2014.0,325090.0,Deep Dungeons of Doom,275.85,76561198091832841,False,0.0
+Indie,2014.0,306660.0,Ultimate General: Gettysburg,1451.0333333333333,Zelousssyy,True,2.0
+Racing,2014.0,226580.0,F1 2014,3022.9166666666665,76561198075407624,True,2.0
+Action,2014.0,301970.0,Screencheat,2152.383333333333,mostmlgpro420blazeitsteamprofile,True,1.0
+Action,2014.0,318220.0,Enforcer: Police Crime Action,1268.0833333333333,76561198061741370,False,0.0
+Indie,2014.0,246090.0,Spacebase DF-9,2782.45,76561198107609787,False,0.0
+Adventure,2014.0,329830.0,The Moon Sliver,150.8,76561198091081910,False,0.0
+Simulation,2014.0,313160.0,Farming Simulator 15,25106.483333333334,MoistToaster,True,2.0
+Action,2014.0,299740.0,Miscreated,5600.216666666666,-GM-Dragon,False,0.0
+Casual,2014.0,297110.0,Cosmic DJ,108.45,76561198078313841,True,2.0
+Action,2014.0,250900.0,The Binding of Isaac: Rebirth,430006.9,aweoplopo,True,2.0
+Action,1998.0,329650.0,NAM,4.233333333333333,companothemuslim,True,1.0
+Adventure,2014.0,327410.0,A Bird Story,526.5166666666667,G3T_0N_M4H_L3V3L_5KRU3,True,2.0
+Action,2014.0,298110.0,Far Cry® 4,54740.53333333333,IKillNoobsFirst,True,1.0
+Action,2014.0,295790.0,Never Alone (Kisima Ingitchuna),908.2166666666667,76561198099099178,False,0.0
+Adventure,2014.0,226560.0,Escape Dead Island,347.0333333333333,Sucodebanana,True,2.0
+Action,2014.0,331120.0,Passing Pineview Forest,96.88333333333333,Jmanza420,True,0.0
+Adventure,2014.0,332570.0,Amazing Frog?,833.0833333333334,guysthethermaldrillgetit,True,2.0
+Action,2014.0,227160.0,Kinetic Void,1371.0,76561198052040052,False,1.0
+Indie,2014.0,248390.0,Craft The World,11077.483333333334,mikeyg74,True,0.0
+Adventure,2013.0,326480.0,If My Heart Had Wings,3805.5333333333333,Rwby_Rose,True,1.0
+Massively Multiplayer,2014.0,326160.0,Shroud of the Avatar: Forsaken Virtues,6294.416666666666,Wolkren,False,0.0
+Adventure,2014.0,303800.0,The Witcher Adventure Game,377.93333333333334,Gotemlostinme,True,2.0
+Action,2014.0,318530.0,Wings of Vi,824.9666666666667,76561198020054096,True,1.0
+Free to Play,2014.0,294160.0,Galcon 2: Galactic Conquest,704.4333333333334,76561198049652401,True,1.0
+Free to Play,2014.0,270370.0,Lambda Wars Beta,4349.5,dahaydos,True,0.0
+RPG,2014.0,292140.0,FINAL FANTASY® XIII-2,4375.75,76561198025503374,False,0.0
+Action,2014.0,331440.0,bit Dungeon II,744.5833333333334,Sorryforbeingbad,False,0.0
+Adventure,2014.0,335670.0,LISA,2201.9166666666665,probotsteve,True,0.0
+Indie,2014.0,334230.0,Town of Salem,43399.23333333333,beefiest,True,0.0
+Action,2014.0,339120.0,Fork Parker's Holiday Profit Hike,331.6166666666667,76561198060423795,True,2.0
+Action,2014.0,311340.0,METAL GEAR SOLID V: GROUND ZEROES,8104.1,76561198031693155,True,2.0
+Action,2016.0,207140.0,SpeedRunners,54593.75,76561198018552349,True,2.0
+Adventure,2014.0,324120.0,Verde Station,10.200000000000001,76561198066084176,True,2.0
+Action,2014.0,302830.0,BLOCKADE 3D,18688.433333333334,76561198096750939,False,0.0
+Indie,2014.0,339350.0,Choice of Robots,649.4166666666666,mcdicky,True,2.0
+Action,2014.0,322170.0,Geometry Dash,33682.0,750805,True,2.0
+Adventure,2014.0,336380.0,Catmouth Island,126.68333333333334,76561198083941171,False,0.0
+Utilities,2015.0,337070.0,"Dimmdrive :: Gaming Ramdrive @ 10,000+ MB/s",65.11666666666667,mac085,True,2.0
+Action,2015.0,339290.0,Castle,289.06666666666666,76561198063128416,False,2.0
+Adventure,2015.0,340300.0,Teddy Floppy Ear - Mountain Adventure,331.03333333333336,Superside,False,2.0
+Adventure,2015.0,337850.0,Avernum 2: Crystal Souls,322.65,OuktoberFrist,True,2.0
+Indie,2015.0,339800.0,HuniePop,17415.033333333333,76561198064584898,True,1.0
+Casual,2015.0,343780.0,Cat Goes Fishing,482.8666666666667,76561198102826090,True,2.0
+Action,2015.0,304240.0,Resident Evil / biohazard HD REMASTER,2082.6833333333334,76561198076437311,True,1.0
+Casual,2015.0,341720.0,Among Ripples,164.23333333333332,76561198093152725,True,0.0
+Adventure,2015.0,313120.0,Stranded Deep,17026.45,76561198060901683,True,2.0
+Strategy,2015.0,290790.0,Grey Goo,4467.333333333333,stilli1988,True,2.0
+Free to Play,2015.0,345650.0,Without Within,79.9,CapCheeze,False,2.0
+Indie,2015.0,343750.0,Firefly Online Cortex,367.95,76561198018578582,False,2.0
+Action,2015.0,208750.0,Apotheon,1362.5,best_luck_ever,True,2.0
+Action,2015.0,342980.0,Destination Sol,678.7166666666667,BigBadWolfie,False,2.0
+Action,2015.0,347940.0,Forsaken Isle,100.51666666666667,stupidbitchcunt,True,0.0
+Adventure,2015.0,304650.0,SUNLESS SEA,8159.15,frikcha,True,2.0
+Adventure,2015.0,344860.0,Crystal Story II,604.25,joeljoeljoeljoel,True,2.0
+Action,2015.0,345580.0,Universal Combat CE,50.233333333333334,Noodles4Dayz,False,0.0
+Action,2015.0,266510.0,Hand of Fate,4438.55,ravenmusicaus,True,2.0
+Action,2014.0,346120.0,Boring Man - Online Tactical Stickman Combat,4754.983333333334,76561198045848404,True,2.0
+Adventure,2015.0,346560.0,Hero of the Kingdom II,345.9166666666667,76561198202329564,True,2.0
+Action,2015.0,315840.0,Catacomb Kids,491.95,MrSlothe,True,0.0
+Adventure,2015.0,348960.0,Odysseus: Long Way Home,131.05,Killerkalf,True,2.0
+Action,2015.0,287290.0,Resident Evil Revelations 2 / Biohazard Revelations 2,4518.283333333333,76561198011139135,True,1.0
+Action,2015.0,342560.0,Airships: Conquer the Skies,425.78333333333336,76561198056645429,True,2.0
+Action,2015.0,314660.0,Oddworld: New 'n' Tasty,1785.05,76561198091770962,True,2.0
+Simulation,2015.0,244160.0,Homeworld Remastered Collection,10623.783333333333,76561198024450886,True,2.0
+Action,2015.0,323470.0,DRAGON BALL XENOVERSE,41686.75,horizon95,True,1.0
+Action,2015.0,322520.0,DYNASTY WARRIORS® 8 Empires,1820.8500000000001,76561198061119963,True,2.0
+Action,2015.0,342570.0,HIS (Heroes In the Sky),309.18333333333334,gigi_buffon,False,0.0
+RPG,2004.0,279720.0,The I of the Dragon,163.91666666666666,aushtin,True,2.0
+Adventure,2015.0,275100.0,Shelter 2,487.43333333333334,GabrielTeo,True,2.0
+Simulation,2015.0,293760.0,Automation - The Car Company Tycoon Game,3732.766666666667,76561198065795972,True,2.0
+Strategy,2015.0,352190.0,Spirit of War,137.05,JyizerHD,True,2.0
+Action,2008.0,349480.0,Modular Combat,1872.5833333333333,76561198091467967,True,0.0
+Casual,2015.0,342580.0,12 Labours of Hercules,1100.6,76561198033950167,True,0.0
+Simulation,2014.0,348290.0,Hospital Manager,3.0,76561197979731785,False,0.0
+Strategy,2015.0,245370.0,Etherium,306.98333333333335,76561198084586080,True,2.0
+Free to Play,2015.0,304030.0,ArcheAge,55449.85,76561198077793852,True,2.0
+Action,2015.0,350810.0,Pixel Puzzles 2: Anime,404.2833333333333,shadowteddy101,True,0.0
+Action,2007.0,253530.0,Fortress Forever,532.2833333333333,76561198038401167,False,0.0
+Action,2015.0,290930.0,Half-Life 2: Update,4170.416666666667,76561197997238293,True,2.0
+Adventure,2015.0,344630.0,Princess Evangile All Ages Version,118.98333333333333,76561198061230159,True,2.0
+Action,2015.0,311730.0,DEAD OR ALIVE 5 Last Round: Core Fighters,2639.133333333333,76561197982587661,True,1.0
+Casual,2015.0,346900.0,AdVenture Capitalist,267416.5833333333,regentorange,True,0.0
+Adventure,2015.0,357900.0,Make it indie!,415.8,robotb9,False,0.0
+Adventure,2015.0,331200.0,Grass Simulator,185.65,muagsri,True,1.0
+Action,2015.0,339610.0,Freestyle 2: Street Basketball,25053.033333333333,hawaiianisswag,False,0.0
+Action,2015.0,335300.0,DARK SOULS™ II: Scholar of the First Sin,85651.56666666667,stevenlikesdicks,True,0.0
+Indie,2015.0,230190.0,War for the Overworld,3383.2833333333333,DrMolo,True,0.0
+Action,2015.0,355840.0,Survarium,5747.3,76561198083008209,False,1.0
+Free to Play,2014.0,359800.0,Copa Petrobras de Marcas,332.53333333333336,azives,True,1.0
+Free to Play,2016.0,300080.0,Total War Battles: KINGDOM,2915.2666666666664,76561197971336570,False,2.0
+Casual,2014.0,340340.0,Domestic Dog,192.43333333333334,thisidisused,True,1.0
+Action,2014.0,324570.0,Halo: Spartan Strike,299.3666666666667,76561198090341048,False,0.0
+Action,2015.0,275200.0,Westerado: Double Barreled,614.4,Lookatthisdude,True,0.0
+Action,2015.0,340810.0,Deepworld,631.7166666666667,blTaaaa,True,2.0
+Action,2015.0,247080.0,Crypt of the NecroDancer,13122.533333333333,magikarpox,True,1.0
+Animation &amp; Modeling,2015.0,365670.0,Blender,19242.6,Lord_Casso,True,1.0
+Casual,2015.0,360870.0,Ultimate Tic-Tac-Toe,379.75,Bonesdontrattlethem,True,0.0
+Action,2015.0,323370.0,TERA,163560.35,Berserklejerker,True,2.0
+Adventure,2015.0,359040.0,The Music Machine,123.48333333333333,76561198024357966,True,2.0
+Indie,2014.0,272890.0,Vertiginous Golf,435.55,thedevilinsidebr,False,0.0
+Action,2015.0,326410.0,Windward,4040.7166666666667,76561198058329541,False,2.0
+Indie,2015.0,278910.0,Interplanetary,1051.6666666666667,76561198057953245,True,2.0
+Adventure,2015.0,363970.0,Clicker Heroes,554388.0833333334,76561198120646995,True,2.0
+Indie,2015.0,226860.0,Galactic Civilizations III,7216.35,76561197960425229,True,0.0
+Simulation,2015.0,315660.0,Trainz: A New Era,54.916666666666664,76561198069160320,True,2.0
+Action,2011.0,342370.0,Europe at War,2279.5,76561198040596416,True,1.0
+Action,2015.0,310740.0,NEON STRUCT,92.83333333333333,archsniper9,True,2.0
+Action,2015.0,263060.0,Blockstorm,4859.75,luzdamanha,True,2.0
+Action,2015.0,339280.0,Strife®,7937.183333333333,76561198045754869,True,2.0
+Adventure,2015.0,368360.0,60 Seconds!,1126.3166666666666,76561198044586193,True,0.0
+Indie,2015.0,371420.0,Teddy Floppy Ear - The Race,493.68333333333334,CompoundGamingAlex,True,1.0
+Indie,2015.0,370040.0,Lilly and Sasha: Nexus of Souls,95.0,jahosaOCE,True,0.0
+Action,2015.0,333980.0,AKIBA'S TRIP: Undead ＆ Undressed,2093.3333333333335,Starnsworth,True,1.0
+Action,2015.0,373180.0,Kung Fury: Street Rage,343.9,76561198081414494,True,2.0
+Action,2015.0,371100.0,Waste Walkers,134.3,76561198069688312,True,2.0
+Racing,2015.0,284160.0,BeamNG.drive,18377.516666666666,76561198060440669,True,1.0
+Adventure,2015.0,352520.0,The Silent Age,169.70000000000002,76561198033457836,True,2.0
+Action,2015.0,341940.0,Hatred,962.05,rtsth,True,1.0
+Action,2015.0,368720.0,Sirius Online,235.73333333333332,duckonthetruck,True,2.0
+Casual,2015.0,260430.0,The Four Kings Casino and Slots,1100.75,76561198104750935,True,0.0
+Action,2015.0,278970.0,Digger Online,180.81666666666666,borntoeatcake,False,2.0
+Action,2015.0,356510.0,Soccer Rage,1.4166666666666667,76561198095902650,True,1.0
+Indie,2015.0,253250.0,Stonehearth,5777.933333333333,itsmeDiegoXD,False,2.0
+Action,2015.0,372210.0,Spooky Cats,52.31666666666667,novarogue,True,1.0
+Action,2015.0,290890.0,You Must Build A Boat,798.4166666666666,76561198091203454,False,0.0
+Action,2015.0,312530.0,Duck Game,11146.75,whofckcares,True,1.0
+Action,2015.0,313080.0,The Masterplan,619.0833333333334,76561198083247739,True,2.0
+Adventure,2015.0,358090.0,D4: Dark Dreams Don’t Die -Season One-,428.05,HeraldTimes,True,2.0
+Action,2015.0,376920.0,Tiki Man,66.31666666666666,DemonicWolvz,True,2.0
+Free to Play,2015.0,290140.0,Echo of Soul,1851.4166666666667,76561198049556885,True,0.0
+Action,2015.0,378370.0,Nomad,623.2833333333333,76561198064426231,False,0.0
+Free to Play,2013.0,336510.0,Anno Online,1422.1,kanzabrand,False,1.0
+Utilities,2015.0,384300.0,CPUCores :: Maximize Your FPS,129.5,11XGX,True,2.0
+Casual,2015.0,367580.0,Hook,535.4833333333333,budniak1,True,2.0
+Action,2015.0,367570.0,oO,110.91666666666667,theoretical_xp,True,2.0
+Action,2015.0,252950.0,Rocket League®,598102.0666666667,GoAwayZach,True,2.0
+Animation &amp; Modeling,2015.0,274920.0,FaceRig,2700.733333333333,76561198088724903,True,2.0
+Racing,2015.0,286570.0,F1 2015,1864.25,76561198042756236,True,0.0
+Free to Play,2015.0,293260.0,Card Hunter,12695.1,76561198126500843,True,2.0
+Action,2015.0,368730.0,No Time To Explain Remastered,1475.4666666666667,A-Very-Sly-Person,True,1.0
+Action,2015.0,373360.0,Cast of the Seven Godsends - Redux,238.91666666666666,Coctopuss,True,2.0
+Indie,2015.0,370360.0,TIS-100,973.05,MeaTCompany,True,2.0
+Adventure,2015.0,376560.0,Big Fish Legend,151.88333333333335,Thelugomes,True,2.0
+Action,2015.0,310890.0,Breach &amp; Clear: Deadline Rebirth (2016),228.41666666666666,76561198086933353,True,2.0
+Action,2015.0,316430.0,Battle of Empires : 1914-1918,1539.3,miochandesu,False,1.0
+Casual,2015.0,368160.0,WORLD END ECONOMiCA episode.02,156.76666666666668,malekii999,True,2.0
+Action,2015.0,388090.0,Five Nights at Freddy's 4,796.5,76561198062017158,True,1.0
+Action,2015.0,345180.0,Victor Vran ARPG,2626.9666666666667,AlanJack102,True,2.0
+Action,2015.0,280010.0,Gunjitsu,144.43333333333334,76561198072865679,True,0.0
+Action,2015.0,292600.0,Duet,259.98333333333335,76561197969812413,True,2.0
+Adventure,2015.0,301860.0,Submerged,66.9,uata_faqui_12469,True,2.0
+Free to Play,2008.0,376140.0,SAGA,37.583333333333336,76561198064945689,True,0.0
+RPG,2015.0,347830.0,Fairy Fencer F,3767.6833333333334,210396,True,1.0
+Adventure,2015.0,383120.0,Empyrion - Galactic Survival,8126.133333333333,76561198084622842,False,0.0
+Action,2015.0,385710.0,INK,475.0833333333333,76561198063585456,True,2.0
+Adventure,2015.0,387860.0,the static speaks my name,153.26666666666665,76561198047866299,True,0.0
+Indie,2015.0,315860.0,Celestian Tales: Old North,76.41666666666667,76561198089158782,True,2.0
+Action,2015.0,365660.0,OlliOlli2: Welcome to Olliwood,326.1166666666667,gooseisthegreatest,True,2.0
+Indie,2015.0,365450.0,Hacknet,2660.0333333333333,76561198036687918,True,1.0
+Adventure,2015.0,392450.0,Silver Creek Falls: Chapter 1,40.35,76561198107283457,True,2.0
+Simulation,2015.0,271360.0,Industry Giant 2,78.78333333333333,asdman11,True,2.0
+Action,2015.0,382490.0,Relic Hunters Zero,3663.266666666667,76561198068549781,True,1.0
+Action,2015.0,340170.0,FINAL FANTASY TYPE-0™ HD,2299.6,rakeial,True,2.0
+Action,2015.0,339230.0,ZOMBI,699.25,76561198084718144,False,2.0
+Strategy,2015.0,386070.0,Planetary Annihilation: TITANS,12063.833333333334,76561197971532272,True,1.0
+Casual,2015.0,376770.0,Big Thinkers 1st Grade,805.8833333333333,FlameFireBlast,True,2.0
+Free to Play,2010.0,354640.0,The Settlers Online,2435.083333333333,Stazza19,False,2.0
+Casual,2015.0,375950.0,Viridi,3537.3,76561198062236203,True,2.0
+Action,2015.0,319910.0,Trine 3: The Artifacts of Power,1146.2833333333333,ElTioDarc,True,2.0
+Casual,2015.0,367710.0,Afterlife Empire,1.5333333333333334,76561198045713243,False,0.0
+Action,2007.0,380840.0,Teeworlds,1068.2333333333333,76561198091024013,True,2.0
+Action,2015.0,350970.0,Planet of the Eyes,54.18333333333333,ustupit,False,2.0
+Action,2015.0,393410.0,World of Soccer online,487.53333333333336,76561198018520620,True,2.0
+Action,2015.0,310850.0,Onikira - Demon Killer,136.58333333333334,76561198093250521,False,0.0
+Indie,2015.0,344850.0,Big Pharma,2469.05,ZiReach,False,0.0
+Adventure,2015.0,349220.0,The Black Watchmen,169.78333333333333,haydenmaier1993,True,2.0
+Adventure,2015.0,384310.0,Dead In Bermuda,110.48333333333333,booker-t,True,2.0
+Action,2015.0,331600.0,One Piece Pirate Warriors 3,6703.516666666666,76561198033432863,True,0.0
+Action,2015.0,287920.0,Mortal Online,2750.983333333333,kiricky,True,2.0
+Action,2015.0,234140.0,Mad Max,49735.816666666666,Br0wni3,True,2.0
+Adventure,2015.0,388490.0,One Way To Die: Steam Edition,53.85,76561198055055523,False,0.0
+Action,2015.0,287700.0,METAL GEAR SOLID V: THE PHANTOM PAIN,138178.68333333332,76561198055790408,True,1.0
+Adventure,2015.0,399520.0,Comedy Quest,52.25,MS005,True,0.0
+Adventure,2015.0,296970.0,Renowned Explorers: International Society,2149.35,Joebert_,True,2.0
+Action,2015.0,386360.0,SMITE®,214644.51666666666,76561198052512374,True,1.0
+Utilities,2006.0,282660.0,EasyAntiCheat eSports,6420.033333333333,rektlegolad,True,2.0
+Indie,2015.0,391540.0,Undertale,55829.15,76561198065593074,True,1.0
+Action,2015.0,401190.0,Dinosaur Hunt,201.38333333333333,76561198071439167,True,1.0
+Simulation,2009.0,24010.0,Train Simulator,23216.133333333335,4tiles,False,2.0
+Action,2015.0,238240.0,Edge of Space,4570.733333333334,76561198037042375,False,0.0
+Action,2015.0,403900.0,Clergy Splode,447.7,huangsy,False,1.0
+Action,2015.0,280600.0,BloodLust Shadowhunter,98.66666666666667,twOzOz,True,2.0
+Action,2015.0,282140.0,SOMA,2639.516666666667,76561198062447997,True,0.0
+Action,2015.0,349700.0,Romero's Aftermath,6897.983333333334,76561198077034833,True,2.0
+Action,2015.0,349580.0,Burstfire,673.7833333333333,76561198046387164,True,1.0
+Free to Play,2015.0,385530.0,Астролорды: Облако Оорта,16.15,akiraadrien,True,2.0
+RPG,2015.0,321960.0,Might &amp; Magic® Heroes® VII,957.2833333333333,Poopsnugg,False,0.0
+Indie,2015.0,399670.0,Game Corp DX,607.8166666666667,76561198062628083,False,0.0
+Indie,2015.0,233450.0,Prison Architect,156644.05,76561198045631910,True,2.0
+Casual,2014.0,347610.0,Hidden Object Bundle 4 in 1,139.38333333333333,76561198107235245,True,2.0
+Action,2015.0,360740.0,Downwell,1972.6833333333334,76561198058107016,True,2.0
+Action,2015.0,274190.0,Broforce,32616.783333333333,76561198077351278,True,1.0
+Action,2015.0,398840.0,War of Beach,1312.4333333333332,76561198054447419,True,2.0
+RPG,2015.0,351970.0,Tales of Zestiria,6158.916666666667,76561198039577653,True,2.0
+Indie,2015.0,368230.0,Kingdom: Classic,4686.666666666667,kube134,True,0.0
+Action,2015.0,330570.0,Noct,50.75,76561198047421467,False,2.0
+Adventure,2015.0,402020.0,The Park,109.48333333333333,76561198094413234,False,0.0
+Adventure,2015.0,373420.0,Divinity: Original Sin - Enhanced Edition,16305.916666666666,razarealm,True,2.0
+Adventure,2015.0,397430.0,Zoombinis,521.3166666666667,xXnocommentXx,True,2.0
+Adventure,2015.0,390290.0,Bulb Boy,114.16666666666667,76561198057198704,True,2.0
+Action,2015.0,375040.0,Death Tractor,85.41666666666667,76561198029533323,True,2.0
+Action,2015.0,404410.0,Endless Sky,4338.0,H4ZEY,True,2.0
+Simulation,2015.0,375910.0,Anno 2205™,2088.3333333333335,76561198096353062,False,1.0
+Action,2015.0,311210.0,Call of Duty®: Black Ops III,220032.8,FromTheDepthsOfHell,False,2.0
+Adventure,2015.0,254200.0,FortressCraft Evolved!,2996.35,Forevertorpid,True,2.0
+Action,2015.0,290080.0,Life is Feudal: Your Own,29999.6,DeliciousPuddin,False,1.0
+RPG,2015.0,276810.0,Mordheim: City of the Damned,4399.733333333334,Fuzz_Melon,True,0.0
+Indie,2014.0,321060.0,Gender Bender DNA Twister Extreme,175.18333333333334,76561198093972974,True,2.0
+Action,2015.0,225540.0,Just Cause™ 3,59775.666666666664,Azrafael,True,2.0
+Simulation,2015.0,301120.0,Eastside Hockey Manager,1059.0,MurQzilla,False,1.0
+Action,2015.0,393420.0,Hurtworld,20297.033333333333,76561198047273546,True,0.0
+Indie,2015.0,328220.0,Wild Season,50.91666666666667,76561198050768829,True,2.0
+Action,2003.0,349100.0,Notrium,14.45,76561198045070923,True,2.0
+Action,2015.0,376300.0,GUILTY GEAR Xrd -SIGN-,1727.8666666666666,76561198079326390,False,2.0
+Action,2015.0,342200.0,MechWarrior Online™,15180.716666666667,bawssnass,True,2.0
+Action,2015.0,399070.0,Dragon's Wake,147.15,76561198095765572,True,2.0
+Action,2015.0,407420.0,Gabe Newell Simulator 2.0,152.71666666666667,76561198077514605,False,2.0
+Action,2015.0,344760.0,Reign Of Kings,58754.61666666667,76561198078478151,False,0.0
+Action,2015.0,427950.0,The Withering,11.816666666666666,76561198025505068,True,2.0
+Free to Play,2015.0,360730.0,Cards and Castles,630.1,76561198085881404,True,2.0
+Action,2015.0,429490.0,Resilience: Wave Survival,21.05,76561198016067437,False,0.0
+Simulation,2016.0,432020.0,What's under your blanket !?,3185.983333333333,76561198045148546,False,0.0
+Action,2016.0,410670.0,Suits: A Business RPG,259.9,76561198059468403,True,2.0
+Action,2016.0,429700.0,Squirbs,58.71666666666667,76561198058473959,True,0.0
+Action,2016.0,429050.0,Feed and Grow: Fish,357.1166666666667,Zejus,True,2.0
+Indie,2016.0,394310.0,Punch Club,3485.8166666666666,Turn_on_a_Dime,True,2.0
+Casual,2016.0,342970.0,Pixel Survivors,155.93333333333334,FlutterBrave,True,2.0
+Adventure,2016.0,419460.0,"That Dragon, Cancer",65.03333333333333,76561198073624860,True,2.0
+Action,2016.0,354290.0,LoveBeat,267.76666666666665,DoctorCryies,True,2.0
+Action,2016.0,434250.0,Masked Shooters 2,248.76666666666668,76561198080348540,True,2.0
+Adventure,2016.0,388880.0,Oxenfree,427.51666666666665,76561198055706765,True,2.0
+Action,2016.0,428950.0,"Kivi, Toilet and Shotgun",224.58333333333334,TheCrazyBunny306,True,0.0
+Action,2016.0,367500.0,Dragon's Dogma: Dark Arisen,24373.8,76561198094936736,True,1.0
+Adventure,2016.0,281200.0,A Boy and His Blob,285.73333333333335,76561198089195777,False,0.0
+Action,2016.0,387990.0,Scrap Mechanic,7953.633333333333,76561198064445006,True,1.0
+Strategy,2016.0,281610.0,Homeworld: Deserts of Kharak,1307.0,76561198078983740,False,2.0
+Action,1999.0,225840.0,Sven Co-op,10597.916666666666,76561198091636035,False,0.0
+Action,2016.0,389430.0,Knight Online,188.04999999999998,76561198069917462,False,0.0
+Adventure,2016.0,210970.0,The Witness,3026.2833333333333,76561198061818716,True,2.0
+Action,2016.0,405310.0,LEGO® MARVEL's Avengers,2301.65,76561198093541850,True,1.0
+Action,2016.0,434570.0,Blood and Bacon,1819.1166666666668,hugh244,True,1.0
+Action,2016.0,353130.0,Time of Dragons,304.81666666666666,ajar1000,True,2.0
+Free to Play,2016.0,429680.0,Spellweaver,637.5166666666667,76561198086388371,True,1.0
+Casual,2016.0,422420.0,Godus Wars,57.9,ElocSweg,True,2.0
+Action,2016.0,334210.0,Fortified,138.28333333333333,76561198066639517,True,2.0
+Adventure,2016.0,429720.0,IMSCARED,23.8,76561198067593136,True,2.0
+Indie,2016.0,346610.0,Racecraft,10.816666666666666,Runforitman,False,2.0
+Adventure,2016.0,364390.0,Downfall,43.16666666666667,76561198038210954,True,2.0
+Casual,2016.0,434260.0,My Name is Mayo,220.65,mudswipe,True,2.0
+Adventure,2016.0,388120.0,Spakoyno: Back to the USSR 2.0,236.48333333333335,1snap,True,2.0
+Action,2016.0,436110.0,Medusa's Labyrinth,55.31666666666667,76561198086462653,True,0.0
+Adventure,2016.0,391720.0,Layers of Fear,562.1,169420666,True,0.0
+Action,2016.0,310950.0,Street Fighter V,13350.8,76561198099625419,True,1.0
+Adventure,2016.0,438270.0,Learn Japanese To Survive! Hiragana Battle,301.1666666666667,76561198047185717,True,2.0
+Action,2016.0,262120.0,Toy Soldiers: Complete,775.05,8449,True,2.0
+Action,2016.0,433850.0,H1Z1,40746.316666666666,IAmAbel,True,0.0
+Action,2016.0,399120.0,Prospekt,82.21666666666667,BurningHope,False,2.0
+Casual,2016.0,246620.0,Plague Inc: Evolved,23393.3,iVerse,True,1.0
+Adventure,2016.0,413410.0,Danganronpa: Trigger Happy Havoc,3421.6666666666665,AUSSAYE,True,2.0
+Indie,2016.0,444000.0,Super Night Riders,58.96666666666667,TheRealSiman,True,2.0
+Action,2016.0,434780.0,The Renegades of Orion 2.0,9.216666666666665,76561198069615116,True,1.0
+Casual,2016.0,441870.0,OutDrive,1145.95,biendeo,False,2.0
+Action,2016.0,440810.0,1943 Megami Strike,629.0166666666667,76561198085905659,False,2.0
+Action,2016.0,318600.0,The Flame in the Flood,337.05,76561198044367162,True,2.0
+Strategy,2016.0,427820.0,Hitman GO: Definitive Edition,132.41666666666669,Trutle,False,2.0
+Action,2016.0,396480.0,Battlevoid: Harbinger,294.1333333333333,76561198074117066,True,0.0
+Action,2016.0,322500.0,SUPERHOT,5616.7,JZargo4Pres,False,2.0
+Action,2016.0,352950.0,Better Late Than DEAD,28.166666666666668,VortexZone,True,2.0
+Action,2016.0,428550.0,Momodora: Reverie Under The Moonlight,397.01666666666665,RazorSpark,True,0.0
+Action,2016.0,389510.0,Wild Animal Racing,13.8,76561198077183562,True,2.0
+Action,2016.0,365590.0,Tom Clancy’s The Division™,92621.88333333333,EndAtHallow,True,0.0
+Adventure,2016.0,379980.0,Panzermadels: Tank Dating Simulator,259.03333333333336,Enska,True,2.0
+Action,2016.0,236870.0,HITMAN™,7705.2,76561198015904026,True,2.0
+Action,2016.0,413170.0,Metal Assault,390.98333333333335,deranator,True,1.0
+Free to Play,2016.0,449040.0,Jesus Christ RPG Trilogy,68.65,malgora1,False,2.0
+Action,2016.0,96100.0,Defy Gravity Extended,2229.383333333333,Eack,False,0.0
+Free to Play,2016.0,397100.0,MachineCraft,1759.5333333333333,Koolcaz12,True,1.0
+Action,2016.0,449680.0,SAMOLIOTIK,382.3666666666667,FireBathz,False,1.0
+Free to Play,2016.0,372000.0,Tree of Savior (English Ver.),46072.5,luckyttm,True,2.0
+Action,2016.0,257850.0,Hyper Light Drifter,3141.9166666666665,riseofnations231,True,0.0
+Casual,2016.0,443580.0,Antenna,131.3,76561198036740385,True,2.0
+Action,2016.0,338310.0,Warden: Melody of the Undergrowth,34.96666666666667,ShadicTripleSeven,True,2.0
+Action,2016.0,377140.0,Hide &amp; Hold Out - H2o,361.28333333333336,76561198092050517,True,2.0
+Action,2016.0,431500.0,Clash of the Monsters,10.583333333333334,MikuChanDesu,True,2.0
+Action,2016.0,411370.0,Melty Blood Actress Again Current Code,190.88333333333333,76561198081460850,True,1.0
+Adventure,2016.0,446020.0,Jalopy,545.9666666666667,76561198084523951,True,2.0
+Indie,2016.0,427250.0,8-Bit Armies,838.45,4RCH4NG3Ll,True,0.0
+Indie,2016.0,449710.0,REDCON,112.58333333333333,TDOJ3DTDO,True,2.0
+Casual,2016.0,463390.0,One Thousand Lies,147.08333333333334,lilwoynintehhizzle,True,1.0
+Indie,2016.0,458830.0,Snooker Nation Championship,32.81666666666666,76561198058487500,True,2.0
+Indie,2016.0,271240.0,Offworld Trading Company,2722.45,Killaruana,True,2.0
+Adventure,2016.0,449470.0,Atulos Online,48.733333333333334,76561198107673486,True,2.0
+Action,2016.0,394230.0,Battleborn,15066.783333333333,2ik4tf,True,2.0
+Casual,2016.0,461880.0,Hyposphere,70.23333333333333,76561198022460178,False,2.0
+Casual,2016.0,351990.0,Riff Racer - Race Your Music!,311.8,vclocks,True,2.0
+RPG,2016.0,359870.0,FINAL FANTASY X/X-2 HD Remaster,8028.833333333333,76561198044594262,True,2.0
+Action,2016.0,223100.0,Homefront®: The Revolution,1725.7333333333333,crackdatdopamine,True,2.0
+Action,2016.0,283640.0,Salt and Sanctuary,1683.2666666666667,76561198042156935,False,2.0
+Action,2016.0,436470.0,Gamma Bros 1.5,5.633333333333334,76561198112249349,True,2.0
+Free to Play,2016.0,310370.0,The Way of Life Free Edition,453.3333333333333,mexz1999,True,2.0
+Simulation,2016.0,485890.0,Summer Sale,78.21666666666667,76561198142606609,False,1.0
+Action,2016.0,489700.0,Battle Forever,26.96666666666667,76561197990113354,True,0.0
+Adventure,2016.0,463110.0,Farnham Fables,71.2,76561198105110458,True,2.0
+Adventure,2016.0,464780.0,ChuSingura46+1 S,738.9666666666667,76561198073970893,True,1.0
+Action,2016.0,438640.0,LEGO® STAR WARS™: The Force Awakens,1504.1166666666668,76561198021355294,True,0.0
+Action,2016.0,418340.0,RWBY: Grimm Eclipse,4543.0,JamesDurham23JubileeRd,True,2.0
+Action,2016.0,487700.0,Conan the mighty pig,47.88333333333333,beepboopbop,True,0.0
+Action,2016.0,314010.0,Boid,446.1333333333333,budgiethesmuggler,True,0.0
+Adventure,2016.0,406550.0,Umineko When They Cry - Question Arcs,248.89999999999998,kevinbaconismyfam,True,1.0
+Casual,2016.0,499440.0,klocki,135.81666666666666,76561198170661539,True,2.0
+Indie,2016.0,294100.0,RimWorld,22450.833333333332,WitchHunter4542,True,0.0
+Action,2016.0,410320.0,EARTH DEFENSE FORCE 4.1 The Shadow of New Despair,2304.0833333333335,leafenn,True,2.0
+Action,2016.0,346330.0,BrainBread 2,884.2666666666667,jjas01,False,1.0
+Action,2016.0,498580.0,ASRECorp,16.03333333333333,pronaxtotoro,True,2.0
+Action,2016.0,211820.0,Starbound,470376.45,devvonst,True,2.0
+Adventure,2016.0,477160.0,Human: Fall Flat,239.08333333333331,76561198019503392,False,0.0
+Casual,2016.0,488660.0,Just Deserts,384.6333333333333,76561198061348980,True,2.0
+Casual,2016.0,495890.0,Montaro,361.3833333333333,76561198107928649,True,1.0
+Action,2016.0,501760.0,Francisca,13.516666666666667,itoggledheavydontrptmeplx,False,0.0
+Action,2016.0,338170.0,Ratz Instagib,1563.4,76561198092735015,False,0.0
+Action,2016.0,431360.0,The Legend: A University Story,0.5333333333333333,hasnulroslani,False,2.0
+Action,2016.0,434730.0,Half Dead,461.1333333333333,FuckYouEtc,False,0.0
+Casual,2016.0,506590.0,Sky Valley,7.766666666666667,spinefarm,False,0.0
+Racing,2016.0,497180.0,Street Legal Racing: Redline v2.3.1,260.93333333333334,ZaubieHunter23,True,2.0
+Action,2016.0,269310.0,Infectonator: Survivors,871.0666666666667,you31,True,2.0
+Indie,2016.0,496300.0,Kingdom: New Lands,1753.0166666666667,lsleon,False,0.0
+Adventure,2016.0,474750.0,Reigns,773.4,76561198095222559,True,2.0
+Casual,2016.0,506140.0,Shop Heroes,1013.75,gongza8888,False,2.0
+Racing,2016.0,391040.0,F1 2016,1286.1333333333334,76561198074878548,True,2.0
+Action,2016.0,396650.0,ACE Academy,86.9,FaZe_WalMart,True,1.0
+Action,2016.0,337000.0,Deus Ex: Mankind Divided,12803.083333333334,gamername13,True,0.0
+Casual,2016.0,462930.0,AdVenture Communist,2899.3166666666666,GotNothingBetterToDo,False,0.0
+Adventure,2016.0,383270.0,Hue,7.949999999999999,jimaroonie,True,2.0
+Action,2016.0,425220.0,One Piece Burning Blood,153.98333333333332,76561198280439853,True,2.0
+Indie,2016.0,371200.0,Halcyon 6: Starbase Commander,569.7833333333333,ShureddoWeaboo,True,2.0
+Action,2016.0,427190.0,DEAD RISING®,250.21666666666667,76561198075422436,True,2.0
+Action,2016.0,409710.0,BioShock™ Remastered,903.0166666666667,northisbae,True,2.0
+Action,2016.0,444090.0,Paladins®,2588.1,76561198130106002,True,1.0
+Sports,2016.0,385760.0,NBA 2K17,441.3666666666667,76561198097976037,True,2.0
+Action,2016.0,310380.0,Fractured Space,8847.366666666667,76561198021135914,True,2.0
+Adventure,2016.0,475490.0,Major\Minor - Complete Edition,1687.95,TheEliteZero,True,0.0
+Action,2016.0,227940.0,Heroes &amp; Generals,233961.85,Forty-Nine,True,1.0
+Indie,2016.0,452320.0,Party Saboteurs,6.8500000000000005,xiaojian1234,False,2.0
+Action,2016.0,237870.0,Planet Explorers,5386.433333333333,76561198155610749,True,2.0
+Action,2016.0,232090.0,Killing Floor 2,122163.66666666667,boydeer,True,2.0
+Action,2016.0,383230.0,Dungeon Souls,900.5166666666667,markforex,True,2.0
+Action,2007.0,319730.0,GRANADO ESPADA,326.68333333333334,76561198060824434,False,0.0
+Adventure,2017.0,332310.0,LEGO® Worlds,5804.066666666667,IVisbetter,True,1.0
+Action,2017.0,389220.0,Maximum Override,59.300000000000004,Umegadem,True,2.0
+Indie,2017.0,383980.0,Rivals of Aether,4341.883333333333,76561198124526584,True,0.0
+Action,2017.0,296300.0,Ballistic Overkill,62.91666666666667,porqueyu,True,0.0
+Action,2017.0,374040.0,Portal Knights,2556.3166666666666,76561198064710794,True,0.0
+Action,2017.0,364050.0,Face It - A game to fight inner demons,423.5,76561198079783937,True,1.0
+Action,2017.0,236110.0,Dungeon Defenders II,62636.46666666667,76561198082278758,True,0.0
+Action,2017.0,215280.0,Secret World Legends,28216.233333333334,76561198085780775,True,2.0
+Adventure,2017.0,305620.0,The Long Dark,12543.75,Memphis__,True,0.0
+Action,2017.0,433340.0,Slime Rancher,4756.216666666666,76561198071162228,True,2.0
+Action,2017.0,441790.0,Fragmented,270.31666666666666,LlamasInNigjamas,True,2.0
+Free to Play,2015.0,380600.0,Fishing Planet,3953.116666666667,76561197969800840,True,2.0
+Action,2017.0,346110.0,ARK: Survival Evolved,642448.7333333333,SALTTHEW0UND,True,2.0
+Action,2017.0,407530.0,ARK: Survival Of The Fittest,4830.616666666667,76561198092305052,True,2.0
+Action,2017.0,25000.0,Overgrowth,5900.783333333334,76561198081367066,False,2.0
+Action,2017.0,335430.0,Grimoire: Manastorm,792.8666666666667,76561198111679836,True,2.0
+Casual,2017.0,394120.0,Atom Universe,8.05,76561198075806576,True,0.0
+Action,2017.0,285900.0,Gang Beasts,8292.816666666668,leadbman,True,2.0
+Action,2017.0,355180.0,Codename CURE,5096.3,lukeyturley,False,2.0
+Action,2017.0,291550.0,Brawlhalla,108651.25,76561198068565589,False,1.0
+Action,2017.0,433530.0,Heliborne,150.45,cmuir37,False,0.0
+Action,2017.0,300380.0,Road Redemption,1052.0833333333333,76561198049669948,True,2.0
+Action,2017.0,301520.0,Robocraft,390587.23333333334,76561198082614708,True,2.0
+Indie,2017.0,361800.0,Tree of Life,2932.2833333333333,EggsAU,True,2.0
+Indie,2017.0,227860.0,Castle Story,5657.966666666666,76561198017913139,False,0.0
+Action,2017.0,357650.0,Project Explore,63.75,MissBender,True,2.0
+Adventure,2017.0,237850.0,Dreamfall Chapters,1290.0333333333333,umicornbl,True,2.0
+Action,2017.0,304930.0,Unturned,849232.6833333333,76561198085547365,True,1.0
+Action,2017.0,280180.0,Hover,426.8,JAMIEX1988,True,2.0
+Action,2017.0,365810.0,Flying Tigers: Shadows Over China,349.81666666666666,SuppanutC,True,2.0
+Action,2015.0,352460.0,Dead Realm,3436.9166666666665,76561198067021476,True,2.0
+Indie,2017.0,416210.0,Block'hood,155.01666666666668,76561198043707981,True,2.0
+Action,2017.0,342150.0,Games of Glory,49.45,taiyoyoyo,False,1.0
+Action,2017.0,427270.0,Orcs Must Die! Unchained,7761.866666666667,76561197994493402,True,2.0
+Action,2017.0,293780.0,Crawl,1765.6666666666667,76561198066734993,True,2.0
+Adventure,2015.0,344040.0,Voxelized,932.95,kzkyus,True,1.0
+Indie,2017.0,365360.0,Battle Brothers,1413.0,76561198068691029,True,2.0
+Free to Play,2017.0,397060.0,Faeria,1532.4666666666667,ambamberam,False,2.0
+Indie,2016.0,428690.0,Youtubers Life,4902.1,cripla66,True,2.0
+Action,2017.0,401810.0,Poi,91.53333333333333,azwray,True,2.0
+Action,2017.0,380860.0,Barbara-ian,4.883333333333333,76561197982685987,True,2.0
+Action,2015.0,407840.0,Guardians of Orion,1684.05,djacko,True,1.0
+Free to Play,2016.0,384180.0,Prominence Poker,684.7333333333333,java-script,True,2.0
+Indie,2017.0,290020.0,LogicBots,38.85,76561198067657905,True,0.0
+Action,2016.0,382050.0,Eon Altar,41.86666666666667,tazzudevil,False,0.0
+Action,2016.0,302670.0,Call to Arms,1854.4833333333333,Xecoix,True,2.0
+Simulation,2016.0,282560.0,RollerCoaster Tycoon World™,261.6333333333333,76561198032582216,True,2.0
+Action,2016.0,467820.0,Zero G Arena,161.36666666666667,geoskio,True,2.0
+Action,2016.0,383790.0,The Ship: Remasted,137.4,76561198035180166,False,1.0
+Casual,2016.0,459820.0,Crush Crush,7422.183333333333,Jasper7798,True,2.0
+Free to Play,2016.0,402570.0,Atlas Reactor,849.5166666666667,bindisposerer,True,2.0
+Casual,2016.0,221680.0,Rocksmith® 2014 Edition - Remastered,21602.616666666665,76561198062537635,True,0.0
+Action,2016.0,521990.0,Galactic Storm,0.26666666666666666,PriorityPacks,True,2.0
+Casual,2016.0,341000.0,Mad Games Tycoon,1030.9833333333333,OneEyedWolf,True,2.0
+Action,2016.0,527340.0,What The Box?,36.516666666666666,WaliDreW,True,2.0
+Action,2016.0,324810.0,TOXIKK™,740.6666666666666,76561198083478039,True,0.0
+Adventure,2016.0,412830.0,STEINS;GATE,99.75,76561198049706747,True,2.0
+Action,2016.0,512300.0,Unbox: Newbie's Adventure,13.983333333333334,76561198054761819,True,1.0
+Indie,2016.0,477310.0,Space Hole,8.1,76561198041308217,True,2.0
+Adventure,2016.0,358130.0,The Curious Expedition,376.65,smith1912,True,1.0
+Action,2016.0,230270.0,N++ (NPLUSPLUS),461.1,tuanos,True,1.0
+Strategy,2016.0,298050.0,Master of Orion,2245.05,76561198070263209,False,2.0
+Indie,2016.0,521430.0,Super Switch,0.08333333333333333,76561198028017094,True,0.0
+Casual,2016.0,521570.0,You Have 10 Seconds 2,57.1,AdmiralNikalov,True,0.0
+Action,2016.0,512470.0,The Pirate: Caribbean Hunt,160.76666666666665,76561198043456895,False,1.0
+Simulation,2016.0,385240.0,Ultimate Arena,331.96666666666664,76561198096038814,True,2.0
+Free to Play,2016.0,291410.0,Duelyst,2539.7833333333333,ttaM5450151,False,2.0
+Indie,2016.0,514520.0,Sparky's Hunt,0.5666666666666667,justinshek,True,0.0
+Action,2016.0,275850.0,No Man's Sky,29879.133333333335,76561198047208452,False,0.0
+Indie,2016.0,497850.0,8-Bit Hordes,261.8833333333333,archangel147,True,2.0
+Action,2016.0,504490.0,The God's Chain,151.58333333333334,76561198068922744,True,2.0
+Adventure,2016.0,494470.0,My Butler,208.65,76561198095839864,True,1.0
+Adventure,2016.0,499100.0,Dark Parables: The Exiled Prince Collector's Edition,1.2833333333333334,Sp3ctre,True,0.0
+Action,2016.0,384190.0,ABZU,223.41666666666666,bournedemocracy,True,2.0
+Adventure,2016.0,443810.0,This Is the Police,1766.95,76561198115280683,True,2.0
+Action,2016.0,448510.0,Overcooked,284.1666666666667,gakonami-uram,True,2.0
+Adventure,2016.0,493370.0,Ragnarok Clicker,3711.633333333333,76561198070869544,False,1.0
+Adventure,2016.0,461560.0,MANDAGON,185.15,ironcass,True,2.0
+Adventure,2016.0,498240.0,Batman - The Telltale Series,452.95,MrPolicimo,True,2.0
+Action,2016.0,240440.0,Quadrilateral Cowboy,130.0,76561198125715615,True,2.0
+Adventure,2016.0,427910.0,Zavix Tower,0.6000000000000001,neoandmeo,True,2.0
+Action,2014.0,315430.0,Polarity,1409.3666666666666,76561198091085055,True,2.0
+Casual,2016.0,500590.0,Puppy Dog: Jigsaw Puzzles,337.65,terrorsyth,True,1.0
+Action,2016.0,290000.0,DubWars,37.3,76561197994404273,True,2.0
+Indie,2016.0,367450.0,Poly Bridge,2625.7,17291799,True,2.0
+Free to Play,2016.0,491130.0,Red Trigger,103.18333333333334,Jayden2242,True,2.0
+Adventure,2016.0,442080.0,Riders of Icarus,13167.4,PureGeneration,True,2.0
+RPG,2016.0,460120.0,Megadimension Neptunia VII,3291.8666666666663,76561198064946763,True,2.0
+Action,2016.0,491260.0,Take Thy Throne,32.46666666666667,BlacKFuZion,True,1.0
+Action,2016.0,390340.0,Umbrella Corps™/Biohazard Umbrella Corps™,24.25,Goochie62,True,0.0
+Action,2016.0,314710.0,Mighty No. 9,182.21666666666667,kruger287,False,0.0
+Free to Play,2016.0,472060.0,Ortus Regni,49.66666666666667,GLADTOHELP,True,2.0
+Casual,2016.0,487220.0,Freebie,485.8333333333333,76561198089650922,True,2.0
+Action,2016.0,365300.0,Transmissions: Element 120,395.1,demoban,True,2.0
+Casual,2016.0,441050.0,Polandball: Can into Space!,8.116666666666667,76561198059487098,True,2.0
+Indie,2016.0,485380.0,Welcome to the Game,236.63333333333333,elly420,True,0.0
+Adventure,2016.0,472680.0,Elisa: The Innkeeper - Prequel,72.16666666666667,76561198056352983,True,2.0
+Adventure,2016.0,489220.0,Unforgiving Trials: The Darkest Crusade,384.8333333333333,alexmr19,False,2.0
+Adventure,2016.0,473460.0,Memory Oblivion Box,115.48333333333333,pouyf,True,1.0
+Action,2015.0,364420.0,Roguelands,7090.366666666667,IkarosSenpai,False,2.0
+Action,2016.0,291010.0,The Hat Man: Shadow Ward,881.2,raider2knight,False,0.0
+Free to Play,2014.0,376570.0,WildStar,7562.516666666666,Blackbirdm3,True,2.0
+Action,2016.0,327070.0,Gloria Victis,993.5,76561198048311062,True,0.0
+Simulation,2016.0,394360.0,Hearts of Iron IV,39510.916666666664,TheKiwiMantis,False,0.0
+Action,2016.0,480480.0,Slash or Die,22.46666666666667,Drocadile,False,0.0
+Action,2016.0,451000.0,Ember Kaboom,14.200000000000001,76561198056885109,True,2.0
+Action,2016.0,411830.0,SENRAN KAGURA SHINOVI VERSUS,1185.5333333333333,jarrodnolan,True,2.0
+Casual,2016.0,485800.0,Runeous: Part One,2.3,survivormaster,True,2.0
+Action,2016.0,383150.0,Dead Island Definitive Edition,1314.3833333333332,Kane007,True,1.0
+Adventure,2016.0,468560.0,Blind Trust,120.75,76561198084167938,False,2.0
+Adventure,2016.0,205890.0,Chronicle: RuneScape Legends,2391.9833333333336,76561198091938654,True,2.0
+Free to Play,2016.0,461680.0,FPV Air Tracks,6.383333333333334,76561198071337230,True,2.0
+Action,2016.0,364360.0,Total War: WARHAMMER,82456.96666666666,76561198066611105,True,2.0
+Adventure,2016.0,381120.0,Shoppe Keep,1852.7,76561198077576855,True,2.0
+Indie,2016.0,270210.0,Melody's Escape,1350.15,76561197980614542,True,2.0
+Casual,2016.0,438680.0,One Troll Army,337.98333333333335,pingu4life,True,2.0
+Action,2016.0,444190.0,Princess Edge - Dragonstone,112.86666666666666,76561198055870347,True,2.0
+Action,2016.0,379720.0,DOOM,31324.55,Fiesta787,True,2.0
+Action,2015.0,427730.0,Who's Your Daddy,3704.9666666666667,secretmessage6969,True,2.0
+Free to Play,2016.0,449140.0,Istrolid,2174.5666666666666,76561198078752187,True,1.0
+Simulation,2016.0,281990.0,Stellaris,47341.63333333333,InvertedBolt,False,2.0
+Action,2016.0,394380.0,BattleStick,79.41666666666667,76561197999566657,False,1.0
+Action,2016.0,383580.0,Flesh Eaters,690.5833333333334,SoenBR,True,0.0
+Casual,2016.0,466910.0,Worm.is: The Game,2621.7833333333333,76561197996157332,False,0.0
+Casual,2016.0,408740.0,Pro Gamer Manager,741.2833333333333,JunG00berfuckingsucks,False,0.0
+Action,2016.0,459910.0,30 IMPOSSIBLE LEVELS,13.75,76561198083654102,False,2.0
+Adventure,2016.0,458000.0,March of the Living,135.35,silenthallows,True,0.0
+Action,2016.0,444640.0,Bloons TD Battles,8080.033333333334,ned279,False,2.0
+Adventure,2016.0,322330.0,Don't Starve Together,162481.66666666666,CatsWhale,True,2.0
+Free to Play,2016.0,337950.0,The SKIES,631.7166666666667,elsteffe,False,2.0
+Adventure,2016.0,413420.0,Danganronpa 2: Goodbye Despair,3404.0,lachlan321,True,2.0
+Action,2016.0,412450.0,The Black Death,113.91666666666667,76561198015169206,False,0.0
+Action,2016.0,448370.0,IS Defense,151.38333333333333,constantine1,True,0.0
+Indie,2016.0,342550.0,Phantasmal: Survival Horror Roguelike,18.316666666666666,76561198043920464,True,2.0
+Adventure,2016.0,434020.0,Last Hope - Tower Defense,51.55,76561198086622542,True,0.0
+Action,2016.0,374320.0,DARK SOULS™ III,160595.05,76561198072072529,True,2.0
+Action,2016.0,394690.0,Tower Unite,4200.45,76561198042267727,True,0.0
+Racing,2016.0,400800.0,MXGP2 - The Official Motocross Videogame,290.25,generalale,False,0.0
+Action,2016.0,454890.0,Project Starship,245.76666666666668,AlkalineDeath,True,2.0
+Action,2016.0,311690.0,Enter the Gungeon,22329.433333333334,alexisbest25,True,0.0
+Indie,2016.0,426000.0,HunieCam Studio,1861.0833333333333,76561198020181605,False,1.0
+Action,2016.0,446120.0,Bunker Punks,63.583333333333336,76561198077818232,True,2.0
+Action,2016.0,398850.0,Epistory - Typing Chronicles,148.61666666666667,76561198041168713,True,2.0
+Casual,2016.0,366760.0,Adorables,1071.95,pizzajesus,True,0.0
+Action,2016.0,265000.0,FORCED SHOWDOWN,317.48333333333335,KaptainPlayz,True,2.0
+Action,2016.0,409660.0,Angry Video Game Nerd II: ASSimilation,86.18333333333334,icantwait,True,0.0
+Action,2016.0,369070.0,Slain: Back from Hell,28.166666666666668,76561198045283919,False,2.0
+Adventure,2016.0,389170.0,A Lenda do Herói - O Herói desta Canção,208.73333333333332,dreadedfungus,True,1.0
+Indie,2016.0,448530.0,Square's Route,4.6,76561197988863895,True,2.0
+Action,2016.0,396260.0,World's Fastest Pizza,13.533333333333333,76561198004669632,True,2.0
+Adventure,2016.0,435030.0,Lost Lands: Mahjong,341.2166666666667,76561198193666401,True,2.0
+Adventure,2016.0,370280.0,Season of 12 Colors,150.51666666666668,NerdsRepublic-ID-Titch22,True,0.0
+Action,2016.0,263980.0,Out There Somewhere,1760.5833333333333,thaSaltyestOfCaptains,True,2.0
+Casual,2016.0,449540.0,There's Poop In My Soup,308.3666666666667,f0rce_aus,True,2.0
+Adventure,2016.0,320040.0,Moon Hunters,322.15000000000003,2080308,True,2.0
+Simulation,2016.0,385730.0,WWE 2K16,4829.866666666667,matrimredhand,True,2.0
+Action,2016.0,386940.0,Ultimate Chicken Horse,1443.85,Eddy_Tan,True,1.0
+Action,2016.0,449550.0,Chicken Invaders 2,278.76666666666665,cyberjepp,True,0.0
+Free to Play,2016.0,449020.0,The Bottom of the Well,48.96666666666667,76561198066287933,True,2.0
+Action,2016.0,449940.0,! That Bastard Is Trying To Steal Our Gold !,12.366666666666667,76561198039290125,False,1.0
+Adventure,2016.0,351730.0,On My Own,9.133333333333333,quickquack,False,2.0
+Indie,2016.0,373770.0,LiEat,341.85,76561198045604407,True,2.0
+Indie,2016.0,413150.0,Stardew Valley,116945.55,76561198061493090,True,0.0
+Action,2016.0,371660.0,Far Cry® Primal,5987.216666666666,76561198054924361,True,2.0
+Action,2001.0,356500.0,STAR WARS™ Galactic Battlegrounds Saga,460.8333333333333,Gummtree,True,2.0
+Simulation,2016.0,324310.0,Bus Simulator 16,410.18333333333334,SpecialKAUS,True,2.0
+Action,2014.0,299460.0,Woodle Tree Adventures,1997.05,yanz15,True,1.0
+Casual,2016.0,437900.0,Party Jousting,67.6,76561198129346289,True,1.0
+Adventure,2016.0,445750.0,Settled,3.5999999999999996,76561198067568556,True,2.0
+Action,2016.0,219990.0,Grim Dawn,27385.95,camquarter,True,0.0
+Action,2016.0,432590.0,And So It Was,0.0,gobblerm8,True,2.0
+Action,2016.0,348460.0,Bierzerkers,148.98333333333332,-Zovix-,False,2.0
+Casual,2016.0,427520.0,Factorio,52580.3,nizamrahman,True,2.0
+Adventure,2016.0,429570.0,The Walking Dead: Michonne - A Telltale Miniseries,844.1,jahmezgamingofficial,True,0.0
+Indie,2016.0,224500.0,Gnomoria,9809.65,WeiEDKrSat,True,2.0
+Action,2016.0,368740.0,Obliteracers,35.31666666666667,stverbal,True,2.0
+Action,2016.0,422970.0,Devil Daggers,844.0666666666667,mopoops,True,2.0
+Casual,2016.0,436150.0,Governor of Poker 3,974.1333333333333,TheMoustacheRider,True,2.0
+Adventure,2016.0,428880.0,The Quest,80.46666666666667,76561198089846453,True,2.0
+Free to Play,2016.0,264120.0,Victory: The Age of Racing,498.8,akaFG,True,2.0
+Indie,2016.0,270880.0,American Truck Simulator,11875.816666666666,saint556,True,2.0
+Action,2016.0,434420.0,The Chosen RPG,891.1333333333333,76561198053000561,True,2.0
+Action,2016.0,349040.0,NARUTO SHIPPUDEN: Ultimate Ninja STORM 4,4485.55,dominator221,True,1.0
+Adventure,2016.0,383870.0,Firewatch,3815.266666666667,76561198058842042,True,2.0
+Strategy,2016.0,268500.0,XCOM® 2,85711.71666666666,raviyn,True,0.0
+Action,2016.0,357340.0,Cobalt,557.4833333333333,76561198131296449,True,2.0
+Adventure,2016.0,435120.0,Rusty Lake Hotel,81.23333333333333,76561198107127283,True,0.0
+Casual,2016.0,431240.0,Golf With Your Friends,10255.9,76561198073368645,True,1.0
+Indie,2016.0,427810.0,CALENDULA,10.033333333333333,ethanbro,True,2.0
+Action,2016.0,424280.0,Iron Snout,1847.1666666666667,G0ldguts,True,1.0
+Action,2016.0,438080.0,Surfingers,137.85,spudkins,True,2.0
+Casual,2016.0,421040.0,Plantera,1382.7333333333333,76561198067910635,True,2.0
+Action,2016.0,400910.0,Rabi-Ribi,1488.4333333333334,ted019,True,2.0
+Action,2016.0,391730.0,Crashlands,1439.2166666666667,LonleyRedHeadOrphan,True,2.0
+Action,2016.0,323850.0,Move or Die,1462.1833333333334,76561198043880297,True,2.0
+Action,2016.0,311310.0,Naval Action,6158.316666666667,epicbudgie,True,1.0
+Action,2016.0,431560.0,Hard Room,124.88333333333334,76561198066529457,True,2.0
+Action,2016.0,433950.0,Bit Blaster XL,637.2666666666667,76561198088808564,True,2.0
+Casual,2016.0,434620.0,Pythagoria,14.116666666666667,Meatman1151,True,2.0
+Adventure,2016.0,434370.0,Buried: An Interactive Story,3.9,76561198115204337,True,2.0
+Action,2016.0,363270.0,O3DX,93.58333333333333,TriggerHappyCat,False,2.0
+Casual,2016.0,431770.0,Rivalry,54.1,76561198066845155,True,1.0
+Action,2016.0,368860.0,Garbage Day,94.71666666666667,TheofficalSneakyJew,True,2.0
+Casual,2016.0,415080.0,Cyber Team Manager,30.166666666666668,mewdetta,False,2.0
+Action,2015.0,412400.0,GASP,22.333333333333332,76561198131841535,True,2.0
+Indie,2016.0,262060.0,Darkest Dungeon®,34335.51666666667,Mega_guycraft,False,2.0
+Action,2016.0,398070.0,Protoshift,65.16666666666667,76561198089875992,True,2.0
+Action,2015.0,316390.0,sZone-Online,1758.8833333333332,Alzahar,False,1.0
+Action,2014.0,407900.0,Princess Remedy in a World of Hurt,95.58333333333333,soupstore,True,2.0
+Indie,2016.0,405640.0,Pony Island,3380.883333333333,211011374,True,2.0
+Indie,2016.0,409170.0,Contract,5.683333333333334,doobyjohnson,True,2.0
+Action,2016.0,390730.0,Sora,38.03333333333333,cianaatech,True,2.0
+Action,2015.0,298240.0,Red Crucible®: Firestorm,4378.483333333334,76561198072798256,True,2.0
+Free to Play,2010.0,381990.0,Dragon Saga,852.6,nemes_memes,True,2.0
+Adventure,2015.0,400250.0,Heaven Island - VR MMO,1275.4666666666667,PlainLukekil,True,2.0
+Action,2015.0,356070.0,Commander Cool 2,65.9,TXVExterminator,True,2.0
+Action,2015.0,418300.0,Wick,22.433333333333334,BLACKERISFASTER,True,2.0
+Free to Play,2015.0,416670.0,Gunslingers,122.81666666666666,A_Gamer,False,2.0
+Indie,2015.0,397340.0,SimplePlanes,4242.983333333334,LionBrito,True,0.0
+Action,1997.0,405820.0,Turok,166.05,Jarface,True,0.0
+Strategy,1997.0,298030.0,Total Annihilation,928.3333333333334,76561198066357246,False,2.0
+Adventure,2015.0,384630.0,Aviary Attorney,128.83333333333334,Zirconn,True,2.0
+Action,2015.0,412880.0,Drift Streets Japan,2749.883333333333,4545451111,True,2.0
+Indie,2015.0,250520.0,UnderRail,1839.3333333333333,ethanol10,True,2.0
+Free to Play,2015.0,339600.0,VEGA Conflict,2002.5833333333333,Jess111,False,0.0
+Action,2015.0,421890.0,Avaris 2: The Return of the Empress,0.55,76561198069536565,False,0.0
+Action,2015.0,393380.0,Squad,19706.35,mrsharkst,True,2.0
+Action,2015.0,386510.0,Pyramid Raid,29.900000000000002,FALL3NAngel,False,1.0
+Action,2015.0,412470.0,Metal War Online: Retribution,324.3,Ticfire,True,2.0
+Action,2015.0,390520.0,PewDiePie: Legend of the Brofist,459.43333333333334,SomeRandomNewAccount,True,2.0
+RPG,2015.0,345350.0,LIGHTNING RETURNS™: FINAL FANTASY® XIII,2207.133333333333,76561198045638432,True,2.0
+Action,2015.0,407600.0,Raiden Legacy - Steam Edition,0.2333333333333333,Podrigo,True,2.0
+Action,2015.0,360940.0,The Mean Greens - Plastic Warfare,461.1166666666667,Slayer-Bld,False,0.0
+Action,2015.0,395200.0,Ben and Ed,533.0166666666667,76561198035590106,True,2.0
+Action,2015.0,242680.0,Nuclear Throne,31785.566666666666,76561198064893805,True,1.0
+Free to Play,2015.0,409160.0,"Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald: A Whirlwind Heist",629.45,76561198094032017,True,2.0
+Action,2015.0,387240.0,Steel Rain,148.45,76561198079354308,True,2.0
+Action,2015.0,359550.0,Tom Clancy's Rainbow Six® Siege,167692.16666666666,76561198071475367,False,1.0
+Action,2015.0,376210.0,The Isle,2539.4333333333334,76561198085862370,False,2.0
+Action,2015.0,397040.0,Sphere III: Enchanted World,141.03333333333333,76561198073455321,False,2.0
+Casual,2015.0,423880.0,Carpe Diem,122.21666666666667,76561198053085687,True,0.0
+Free to Play,2015.0,336520.0,Might &amp; Magic Heroes Online,80.75,mijiperki,False,0.0
+Adventure,2015.0,412730.0,Days Under Custody,100.93333333333334,TheTim,False,0.0
+Indie,2015.0,421630.0,A Study in Steampunk: Choice by Gaslight,42.46666666666667,81334062,True,2.0
+Adventure,2015.0,417860.0,Emily is Away,5248.95,getf0kinn0sc0pedm9,False,1.0
+Action,2015.0,410110.0,12 is Better Than 6,274.3,76561198098964713,True,2.0
+Indie,2015.0,378720.0,Thea: The Awakening,2711.116666666667,SWu3da9W,True,2.0
+Adventure,2015.0,307670.0,Hard West,494.3833333333333,12345678901234567890123456567890,True,2.0
+Action,2015.0,368500.0,Assassin's Creed® Syndicate,8752.316666666668,artem_zhigarev,True,2.0
+Action,2015.0,415950.0,Yohjo Simulator,7.35,thomi6108,False,0.0
+Casual,2015.0,398100.0,Highschool Romance,318.8,76561198083888554,True,2.0
+Adventure,2015.0,412940.0,Back to Dinosaur Island,27.53333333333333,chocklanisi,True,2.0
+Free to Play,2015.0,390670.0,Steel Ocean,6190.233333333334,76561198058800703,True,2.0
+Action,2015.0,377860.0,Mushihimesama,122.81666666666666,housty8,True,2.0
+Casual,2015.0,418070.0,Turbo Pug,1407.5833333333333,aquelemlkgenteboa,True,2.0
+Action,2015.0,416130.0,Written in the Sky,103.26666666666667,TheSnakeyJake,True,2.0
+RPG,2015.0,377160.0,Fallout 4,754577.6833333333,Magjiikal,True,2.0
+Adventure,2015.0,403180.0,Draw a Stickman: EPIC 2,75.91666666666666,76561198062120246,True,1.0
+Indie,2015.0,410340.0,Liftoff,200.04999999999998,commanderjao,True,2.0
+Indie,2015.0,287980.0,Mini Metro,3714.233333333333,Posiblydead,True,2.0
+Indie,2015.0,416640.0,Diabolical,64.85,sunnydazeex,True,2.0
+Action,2015.0,388410.0,Darksiders II Deathinitive Edition,4064.4,xFreibergx,True,1.0
+Action,2015.0,375600.0,Air Brawl,514.5833333333334,tinbgr,True,2.0
+Action,2015.0,397570.0,Shmadow,153.41666666666666,Too_1337,True,2.0
+Adventure,2015.0,414080.0,Life is Hard,158.15,76561198035642590,True,0.0
+Adventure,2015.0,329440.0,Sonic Lost World,669.0666666666667,batmancomp,False,2.0
+Indie,2015.0,408120.0,Cibele,40.1,MarsOz,False,1.0
+RPG,2015.0,353270.0,Hyperdimension Neptunia Re;Birth3 V Generation / 神次次元ゲイム ネプテューヌRe;Birth3 V CENTURY,4229.6,SamD4M4n,True,1.0
+Adventure,2015.0,412140.0,Electric Highways,35.65,nyxx7,True,1.0
+Action,2015.0,235540.0,Warhammer: End Times - Vermintide,24808.95,76561198060544136,True,2.0
+Design &amp; Illustration,2015.0,363890.0,RPG Maker MV,4912.583333333333,youagain,True,2.0
+Adventure,2015.0,335190.0,200% Mixed Juice!,344.90000000000003,Rushes99,True,2.0
+Action,2015.0,409590.0,KINGDOMS,166.25,Lumii92,True,1.0
+Adventure,2015.0,389870.0,Mugen Souls,470.51666666666665,yay853482185,True,0.0
+Indie,2015.0,319050.0,Chaos Reborn,916.1999999999999,EPICTIME,True,0.0
+Action,2015.0,290300.0,Rebel Galaxy,3980.0833333333335,HeavyfromHell,True,0.0
+Indie,2015.0,408990.0,Timber and Stone,451.8666666666667,76561198047630659,True,2.0
+Adventure,2015.0,402630.0,The Coma: Cutting Class,22.666666666666664,76561198085107888,True,2.0
+Indie,2015.0,410210.0,Ampersand,598.5833333333334,76561198048230501,False,0.0
+Adventure,2015.0,406150.0,Refunct,99.26666666666667,Friendly_Hoovey,True,2.0
+Casual,2015.0,375820.0,Human Resource Machine,783.9,sasssay,True,2.0
+Indie,2015.0,403190.0,Planetbase,4735.55,Doomsdayvirus1,True,0.0
+Casual,2015.0,402840.0,Crusaders of the Lost Idols,20802.65,76561198121261684,True,2.0
+Adventure,2015.0,376870.0,Minecraft: Story Mode - A Telltale Games Series,5506.033333333334,76561198045792460,True,0.0
+Action,2015.0,397550.0,Deus Ex: Revision,754.6333333333333,Keyblitz,True,2.0
+Action,2015.0,265750.0,Secret Ponchos,275.1333333333333,mavros88,True,0.0
+Action,2015.0,407230.0,Legend of Mysteria RPG,674.8,76561198080103160,True,2.0
+Action,2015.0,337320.0,Paint the Town Red,3277.383333333333,kelby003,True,1.0
+Action,2015.0,348490.0,Beyond Sol,65.2,lordchevycat101,True,0.0
+Adventure,2015.0,330820.0,2064: Read Only Memories,276.43333333333334,Terminator_Mitch,True,0.0
+Adventure,2015.0,403570.0,Stigmat,363.55,76561198079589220,False,2.0
+Adventure,2015.0,303210.0,The Beginner's Guide,1408.0666666666666,mrpoo2,True,1.0
+Action,2015.0,300760.0,Epsilon,127.8,76561198089905857,True,2.0
+Action,2015.0,370480.0,Pixel Galaxy,136.01666666666668,76561198058836921,True,2.0
+Sports,2015.0,370240.0,NBA 2K16,36295.316666666666,76561197996092338,False,0.0
+Simulation,2015.0,310470.0,Grand Ages: Medieval,542.3833333333333,76561198096670934,True,0.0
+Adventure,2015.0,395520.0,Missing Translation,328.81666666666666,1800-Ricohut,True,2.0
+RPG,2015.0,382890.0,FINAL FANTASY V,431.55,76561198009171558,True,2.0
+Sports,2015.0,236690.0,Blood Bowl 2,6474.783333333334,sgtkitty,True,2.0
+Adventure,2015.0,404480.0,SC2VN - The eSports Visual Novel,353.1,76561198046732318,True,2.0
+Action,2015.0,398710.0,Timberman,1387.4666666666667,KleppS,True,2.0
+Casual,2015.0,312280.0,Simply Chess,674.0666666666667,76561198092577173,True,2.0
+Adventure,2015.0,399790.0,Destiny Warriors RPG,632.2,jeffycakes,True,2.0
+Action,2012.0,400790.0,The Juicer,73.75,76561198024316193,True,0.0
+Casual,2015.0,357480.0,Frozen Free Fall: Snowball Fight,314.45,dontgetmemed,True,2.0
+Action,2015.0,384000.0,Cross of the Dutchman,60.81666666666667,legendary799,True,2.0
+Indie,2015.0,344770.0,fault - milestone two side:above,262.4,shay181,True,2.0
+Action,2015.0,322910.0,"Warhammer 40,000: Regicide",1234.8666666666668,Ghoster09,False,2.0
+Action,2015.0,359050.0,Shower With Your Dad Simulator 2015: Do You Still Shower With Your Dad,6189.183333333333,escapetradingprofile,True,0.0
+Strategy,2015.0,318020.0,Act of Aggression - Reboot Edition,3232.3,LoiroG,True,2.0
+Adventure,2010.0,395910.0,Get Rich or Die Gaming,0.8666666666666667,76561198100665500,True,2.0
+Action,2015.0,385830.0,Burgers,735.8666666666667,76561198055937906,False,0.0
+Action,2015.0,397690.0,Hyperspace Invaders II: Pixel Edition,33.583333333333336,vyyyy,True,2.0
+Action,2015.0,314410.0,Rampage Knights,2736.95,pikachu_69,True,0.0
+Adventure,2015.0,290340.0,Armello,4093.3,ottonot,True,0.0
+Action,2015.0,397500.0,Labyronia RPG 2,686.5833333333334,76561198208507532,True,1.0
+Action,2015.0,366040.0,Iggy's Egg Adventure,68.11666666666666,76561198071318209,True,2.0
+Casual,2015.0,369400.0,Let the Cat in,50.55,FD_GOD_BR,True,2.0
+Action,2015.0,268870.0,Satellite Reign,1973.9833333333333,ChrisCoroner,True,2.0
+Adventure,2015.0,356520.0,Port of Call,46.583333333333336,GamingMexican,True,2.0
+Action,2015.0,387970.0,Clown House (Palyaço Evi),32.25,synkchronization,True,1.0
+RPG,2015.0,330390.0,Grandia® II Anniversary Edition,444.6333333333333,p100pCeM,True,2.0
+Casual,2015.0,393980.0,Pretty Girls Mahjong Solitaire,131.01666666666668,Tarvo69,True,2.0
+Action,2015.0,356570.0,Party Hard,3548.883333333333,flatwhite,True,1.0
+Action,2015.0,391460.0,WARMODE,3383.616666666667,TruBru,False,0.0
+Adventure,2015.0,346940.0,Shadowrun: Hong Kong - Extended Edition,4111.25,arzardpavlou,True,2.0
+Adventure,2015.0,352010.0,Beach Bounce,355.2,76561198037980630,False,0.0
+Casual,2015.0,384360.0,Fingered,203.38333333333333,76561198149605252,True,2.0
+Action,2015.0,357070.0,UBERMOSH,244.8,chapolinchgamer,True,2.0
+Adventure,2015.0,229580.0,Dream,546.2833333333333,76561198074508314,False,0.0
+Adventure,2015.0,320340.0,Cosmonautica,363.76666666666665,morttos,False,0.0
+Indie,2015.0,360550.0,Cursed Sight,112.21666666666667,onehundredbullets,True,1.0
+Adventure,2014.0,391270.0,Fingerbones,133.26666666666665,ashley1222,True,2.0
+Action,2015.0,356670.0,Spooky's Jump Scare Mansion,1840.55,spazrael_,True,2.0
+Action,2015.0,320140.0,Absolute Drift,1250.1333333333334,creamybuthole,True,2.0
+Free to Play,2015.0,389570.0,Mitos.is: The Game,12395.733333333334,lachd1223,True,2.0
+Free to Play,2015.0,316010.0,Magic Duels,22814.483333333334,mrfunkyjunkie,True,2.0
+Adventure,2015.0,345390.0,King's Quest,1002.2666666666667,Mulza,True,2.0
+Action,2015.0,364690.0,SUPER DISTRO,1006.1833333333333,76561198087594857,False,0.0
+Action,2015.0,312780.0,Way of the Samurai 4,1187.1833333333334,76561198040951559,True,0.0
+Action,2015.0,385770.0,Time Clickers,48913.1,ELCHUZZY69,True,2.0
+Action,2015.0,331500.0,Executive Assault,1088.15,76561198035136096,True,2.0
+Action,2015.0,386880.0,Rake,329.21666666666664,76561198035579456,True,1.0
+Action,2015.0,362810.0,Fighties,212.61666666666667,76561198070588180,True,0.0
+Indie,2015.0,317820.0,Guild of Dungeoneering,1018.6166666666667,76561198076636927,True,2.0
+Action,2015.0,384150.0,TeraBlaster,160.36666666666667,76561198030536259,True,2.0
+Adventure,2015.0,373390.0,Contradiction - Spot The Liar!,108.73333333333333,willietrombone,True,2.0
+Action,2015.0,350150.0,Scraps: Modular Vehicle Combat,53.96666666666667,gamingtonemsi,False,0.0
+Simulation,2015.0,351050.0,Cricket Captain 2015,1355.1833333333334,brisbanegamer,False,0.0
+Action,2015.0,323380.0,The Magic Circle,706.3,76561198020937602,True,2.0
+Action,2015.0,304050.0,Trove,292643.7,76561198084390807,True,0.0
+Casual,2015.0,351510.0,Quiplash,425.1,76561198067142133,True,2.0
+Action,2015.0,274230.0,RONIN,1001.9,Longmont,False,0.0
+Action,2015.0,242130.0,Vector Thrust,219.71666666666667,CaptianAutismo,True,0.0
+Casual,2015.0,369580.0,NotGTAV,574.8166666666666,SpecialSomeone,True,2.0
+Indie,2015.0,300570.0,Infinifactory,1621.9,HallowedDragon,True,2.0
+Casual,2015.0,265810.0,The Sandbox,816.7,ProLove,False,0.0
+Action,2015.0,317400.0,Portal Stories: Mel,6904.65,exaqt,True,2.0
+Action,2015.0,208650.0,Batman™: Arkham Knight,34948.13333333333,Serious_,False,0.0
+Strategy,2015.0,374450.0,Cheats 4 Hire,17.0,Bellator1206,False,2.0
+Adventure,2015.0,368370.0,Her Story,755.6666666666666,76561198033887983,True,2.0
+Action,2015.0,283080.0,Super Chibi Knight,122.71666666666667,76561198087184037,True,2.0
+Action,2015.0,363360.0,Interstellar Rift,194.65,Xyphien,True,2.0
+Action,2015.0,351640.0,Eternal Senia,1026.55,76561198151910904,True,2.0
+Action,2015.0,327090.0,Out of Reach,528.3833333333333,DwightSchruteFarms,True,1.0
+Casual,2015.0,367120.0,Seduce Me the Otome,416.2166666666667,76561198065473176,True,2.0
+Casual,2015.0,360640.0,12 Labours of Hercules II: The Cretan Bull,1039.9,yellomit2k,True,1.0
+Casual,2015.0,375220.0,Bitweb,1.8666666666666667,Arishaz,False,1.0
+Adventure,2015.0,375510.0,New kind of adventure,646.35,76561197970551076,False,2.0
+Adventure,2013.0,349650.0,Tokyo Hosto,2.3666666666666667,76561198081787220,False,0.0
+Indie,2015.0,257170.0,Rebuild 3: Gangs of Deadsville,3211.116666666667,76561198088716282,True,1.0
+Adventure,2015.0,345610.0,The Fruit of Grisaia,2096.333333333333,76561198043660131,True,1.0
+Action,2015.0,249950.0,Forge Quest,835.7833333333333,shequiladaddy,True,2.0
+Adventure,2015.0,347620.0,Gaokao.Love.100Days,847.9166666666666,NecroticFlix,True,1.0
+Action,2015.0,367240.0,Avenging Angel,80.06666666666666,roguejet,False,1.0
+RPG,2015.0,351710.0,Hyperdimension Neptunia Re;Birth2: Sisters Generation / 超次次元ゲイム ネプテューヌRe;Birth2,4147.366666666667,76561198130273713,True,1.0
+Action,2015.0,330580.0,Shark Attack Deathmatch 2,176.51666666666665,dipsology,True,2.0
+Action,2015.0,352960.0,Star Horizon,50.38333333333333,76561198135993852,True,2.0
+Adventure,2015.0,369290.0,Airport Madness: World Edition,201.4333333333333,76561198072077164,True,2.0
+Adventure,2015.0,278570.0,Labyrinthine Dreams,202.35,wazzawazza80profile,False,1.0
+Action,2015.0,238370.0,Magicka 2,4811.283333333334,SpyLab,True,2.0
+Indie,2015.0,235800.0,Audiosurf 2,7373.1,76561198082699893,True,2.0
+Adventure,2015.0,351800.0,Dev Guy,327.25,niggerfag,True,1.0
+Simulation,2008.0,371190.0,Making History: The Calm and the Storm Gold Edition,46.06666666666667,76561198022269929,True,2.0
+Casual,2015.0,351090.0,Regency Solitaire,143.6,76561198038935216,True,2.0
+Indie,2015.0,353330.0,Love at First Sight,153.46666666666667,76561198081980530,True,2.0
+RPG,2015.0,368340.0,CrossCode,251.25,76561198096611102,True,2.0
+Adventure,2015.0,310360.0,Higurashi When They Cry Hou - Ch.1 Onikakushi,534.5,76561197986717785,True,0.0
+Action,2015.0,338180.0,Batla,337.03333333333336,76561198069625198,False,0.0
+Action,2015.0,274270.0,NOT A HERO,1171.6666666666667,NocturnalPotato,True,2.0
+Action,2015.0,243970.0,"Invisible, Inc.",4583.933333333333,Ao2SAmmeyboii,True,2.0
+Action,2015.0,368990.0,Despair,660.0333333333333,shaneomaniac,True,2.0
+Action,2013.0,340350.0,Quintet,256.8333333333333,76561198067786864,False,1.0
+Action,2015.0,300340.0,Lemma,197.18333333333334,william079,True,1.0
+Action,2015.0,361330.0,Shrooms,0.1,76561197972452208,False,1.0
+Action,2015.0,370190.0,Ruzh Delta Z,47.81666666666666,76561198052998609,True,0.0
+Utilities,2015.0,367670.0,Controller Companion,654.95,76561198056942792,True,2.0
+Action,2015.0,350080.0,Wolfenstein: The Old Blood,5326.166666666667,jellysama,True,2.0
+Action,2015.0,362890.0,Black Mesa,8884.2,abiam,True,2.0
+Action,2015.0,289760.0,ROCKETSROCKETSROCKETS,724.2,Theta5Who,True,2.0
+Action,2015.0,296490.0,GemCraft - Chasing Shadows,6001.666666666667,hemcom,True,2.0
+Action,2015.0,299360.0,Block N Load,31196.516666666666,76561198090715178,True,1.0
+Action,2015.0,358960.0,Canabalt,103.48333333333333,TerconConnors,True,2.0
+Indie,2015.0,362620.0,Software Inc.,1731.6,WagglyBump,True,2.0
+Action,2015.0,362490.0,Exanima,1372.9333333333334,ipoyyy,False,2.0
+Action,2015.0,290650.0,Time Ramesside (A New Reckoning),238.96666666666667,lonliecookie,False,0.0
+Indie,2015.0,340150.0,Basement,786.1833333333334,76561198049320969,False,0.0
+Indie,2007.0,264380.0,Narcissu 1st &amp; 2nd,610.1,lelvis,True,2.0
+Indie,2015.0,220200.0,Kerbal Space Program,261595.1,76561198070194565,True,2.0
+Indie,2015.0,267750.0,Shadowrun Chronicles - Boston Lockdown,990.65,kards,True,2.0
+Action,2015.0,242860.0,Verdun,26635.916666666668,76561198101576470,False,0.0
+Action,1994.0,354430.0,STAR WARS™ - X-Wing Special Edition,65.05,76561198051255089,True,1.0
+Action,2015.0,345820.0,Shantae and the Pirate's Curse,1020.2833333333333,76561198051082631,True,0.0
+Action,2015.0,354380.0,Assassin’s Creed® Chronicles: China,616.8,76561198099337899,True,0.0
+Action,2015.0,361630.0,404Sight,328.96666666666664,gunslinger101,True,2.0
+Action,2015.0,351290.0,Survival: Postapocalypse Now,980.5166666666667,iamquik,True,2.0
+Action,2015.0,271590.0,Grand Theft Auto V,995161.3666666667,76561198037038784,True,1.0
+Action,2015.0,307780.0,Mortal Kombat X,25891.333333333332,jwatt1991,True,2.0
+Action,2015.0,363490.0,Escape Machines,512.6833333333334,jaz1357,True,2.0
+Indie,2015.0,252450.0,StarDrive 2,2536.2833333333333,76561198045891077,True,2.0
+Action,2015.0,327890.0,I am Bread,2740.7166666666667,Thekiller4000,True,0.0
+Action,2015.0,321360.0,Primal Carnage: Extinction,5857.166666666667,76561198085092904,True,2.0
+Action,2015.0,357330.0,Space Beast Terror Fright,202.83333333333334,dark_skeleton,True,1.0
+Action,2015.0,324260.0,VoidExpanse,395.01666666666665,76561198024889385,True,2.0
+Action,2015.0,297130.0,Titan Souls,1214.6333333333334,BITCHPLESE,True,0.0
+Action,2015.0,322920.0,theHunter: Primal,2894.116666666667,76561198190487725,True,2.0
+RPG,2015.0,291650.0,Pillars of Eternity,23694.183333333334,FlynnHW,False,0.0
+Casual,2015.0,354240.0,"Please, Don’t Touch Anything",656.25,DrCrackers,True,0.0
+Adventure,2014.0,348620.0,Voices from the Sea,127.65,noonzy,True,1.0
+Indie,2011.0,318130.0,Doom &amp; Destiny,124.18333333333334,76561198086100927,True,2.0
+Massively Multiplayer,2014.0,306130.0,The Elder Scrolls® Online: Tamriel Unlimited™,91540.91666666667,76561198066621462,False,0.0
+Action,2015.0,353090.0,Chicken Invaders 5,267.5333333333333,76561198062337556,True,1.0
+Action,2015.0,342300.0,Zombie Kill of the Week - Reborn,396.81666666666666,kmcca138,True,2.0
+Action,2015.0,334070.0,Hektor,224.08333333333334,76561198077735144,True,2.0
+Action,2015.0,311560.0,Assassin’s Creed® Rogue,6450.2,76561198074644990,True,2.0
+Simulation,2015.0,255710.0,Cities: Skylines,126376.9,GREENMAN41,True,0.0
+Action,2015.0,274170.0,Hotline Miami 2: Wrong Number,13235.2,iamericcartman,True,0.0
+Action,2015.0,261570.0,Ori and the Blind Forest,7092.416666666667,TrackFight,True,2.0
+Action,2015.0,326460.0,ShellShock Live,20976.15,bloodtank,True,2.0
+Adventure,2015.0,351790.0,Invisible Apartment,132.91666666666666,ratgnomekingkeem,False,0.0
+Indie,2015.0,351900.0,Pregnancy,15.233333333333334,ThisIsWhereIGetOff,True,2.0
+Action,2015.0,338540.0,Navy Field 2 : Conqueror of the Ocean,2089.7833333333333,76561198060438024,True,0.0
+Action,2015.0,307880.0,Savage Lands,2639.366666666667,Urotsuki,True,2.0
+Adventure,2015.0,353560.0,Plug &amp; Play,267.83333333333337,76561198053060832,False,1.0
+Action,2015.0,301640.0,Zombie Army Trilogy,7062.933333333333,Mattthacool,True,2.0
+Action,2015.0,354140.0,Five Nights at Freddy's 3,2275.133333333333,macky121,True,2.0
+Casual,2015.0,339400.0,Runestone Keeper,268.3666666666667,76561197969434273,True,2.0
+Indie,2015.0,328940.0,The Deer God,403.0,76561198076701454,True,2.0
+Action,2015.0,222440.0,THE KING OF FIGHTERS 2002 UNLIMITED MATCH,584.7166666666667,76561198037888300,True,1.0
+Free to Play,2014.0,353360.0,how do you Do It?,155.46666666666667,jgbergmen,True,2.0
+Adventure,2015.0,341310.0,Greyfox RPG,714.3833333333333,76561198034027094,True,0.0
+Indie,2015.0,319740.0,There Came an Echo,139.7,punkinoz,False,2.0
+Action,2015.0,328060.0,Tales Runner,1014.0,76561198022115367,False,0.0
+Action,2015.0,270450.0,Robot Roller-Derby Disco Dodgeball,3151.133333333333,vegetox,True,2.0
+Action,2015.0,333950.0,Medieval Engineers,4955.9,hellcat59,True,0.0
+Action,2015.0,329130.0,Reassembly,5892.816666666667,NinjaPrei,True,2.0
+Action,2015.0,298630.0,The Escapists,29394.933333333334,76561198188979775,True,1.0
+Strategy,2015.0,325610.0,Total War: ATTILA,67321.93333333333,76561198055695334,True,2.0
+Action,2015.0,273350.0,Evolve Stage 2,73850.9,AlphaBryn444,True,2.0
+Action,2015.0,345200.0,Tasty Blue,199.15,cozzakill,True,2.0
+Racing,2015.0,273840.0,Stock Car Extreme,1019.0,0468313256,True,1.0
+Adventure,2015.0,320760.0,Tokyo School Life,252.23333333333332,76561198096766604,True,0.0
+Action,2015.0,285920.0,TerraTech,3345.0333333333333,xxbleachedxx,False,2.0
+Action,2015.0,335840.0,Goats on a Bridge,141.01666666666668,crowbarpls,True,0.0
+Action,2015.0,340050.0,Survivalist,1395.3500000000001,HunkHogan69,True,0.0
+Adventure,2015.0,315810.0,eden*,1285.55,cronix38,True,1.0
+Adventure,2015.0,348380.0,The Interview,5.483333333333333,mad_dog_99,False,0.0
+RPG,2015.0,282900.0,Hyperdimension Neptunia Re;Birth1 / 超次次元ゲイム ネプテューヌRe;Birth1 / 超次次元遊戲戰機少女重生1,13510.15,skylordjosh,True,2.0
+Action,2015.0,319630.0,Life is Strange - Episode 1,28584.066666666666,benedictcuminherbatch,True,2.0
+Free to Play,2015.0,335240.0,Transformice,16142.866666666667,76561198073570262,True,1.0
+Action,2015.0,342230.0,Air Guardians,9.600000000000001,jerichoy2k,False,2.0
+Indie,2015.0,346010.0,Besiege,45966.53333333333,D00MS,True,2.0
+Action,2015.0,214420.0,Gear Up,10036.283333333333,76561198078670623,True,2.0
+RPG,2015.0,297000.0,Heroes® of Might &amp; Magic® III - HD Edition,2831.4166666666665,a4fg44as54g,False,2.0
+Adventure,2012.0,346250.0,The Old Tree,50.5,Dimmerworld,True,2.0
+Adventure,2015.0,312840.0,Fahrenheit: Indigo Prophecy Remastered,1148.4333333333334,GN1,True,0.0
+Action,2015.0,239140.0,Dying Light,115082.11666666667,hashandtag,True,2.0
+Action,2015.0,250420.0,8BitMMO,4054.85,aligindahousebabykosha,False,0.0
+Adventure,2015.0,316790.0,Grim Fandango Remastered,2963.15,76561197990505840,True,2.0
+Action,2015.0,329490.0,Phantom Breaker: Battle Grounds,857.55,minecraftdude1111,True,0.0
+Free to Play,2015.0,327640.0,CaesarIA,283.01666666666665,76561198195842698,True,2.0
+Action,2015.0,301910.0,Saints Row: Gat out of Hell,9250.25,76561198059003890,True,0.0
+Action,2015.0,338000.0,Echoes+,231.68333333333334,grimnoddy,True,0.0
+Adventure,2013.0,343270.0,Disillusions Manga Horror,218.33333333333334,stabz0r,False,2.0
+Adventure,2015.0,340310.0,Teddy Floppy Ear - Kayaking,328.93333333333334,79694738686698975975,True,2.0
+Action,2015.0,323450.0,Alphadia Genesis,98.63333333333333,76561198086485711,True,2.0
+RPG,2015.0,326670.0,Warhammer Quest,701.5833333333334,de_yeti,False,2.0
+Action,2015.0,304910.0,Sky Gamblers: Storm Raiders,36.63333333333333,muffinwoona,True,2.0
+Action,2015.0,332500.0,GRAV,7779.3,hazmatharry,True,0.0
+Action,2015.0,340460.0,Spartans Vs Zombies Defense,140.55,76561198043139195,True,2.0
+Action,2014.0,336100.0,Rooster Teeth vs. Zombiens,71.96666666666667,76561198052434126,True,2.0
+Simulation,2006.0,314160.0,Microsoft Flight Simulator X: Steam Edition,22876.25,76561198065640356,True,2.0
+Action,2014.0,222420.0,THE KING OF FIGHTERS '98 ULTIMATE MATCH FINAL EDITION,385.55,uradumbtit,False,1.0
+Action,2014.0,257510.0,The Talos Principle,10566.183333333332,FatalPoint,True,0.0
+Action,2012.0,335330.0,Brick-Force,2793.4333333333334,unlivingroy,False,1.0
+Action,1996.0,317040.0,The Original Strife: Veteran Edition,305.5833333333333,notspain,True,0.0
+Action,2014.0,289690.0,LARA CROFT AND THE TEMPLE OF OSIRIS™,588.0833333333334,76561198083799893,False,0.0
+Adventure,2014.0,332070.0,School of Dragons,2985.5666666666666,AnOfficialPanda,True,1.0
+Action,2014.0,244770.0,StarMade,10810.9,76561198065488954,False,0.0
+Indie,2014.0,337040.0,Deadnaut,223.31666666666666,bebb0,True,2.0
+Action,2014.0,331220.0,Thief Town,89.78333333333333,HeyGoodCookin,True,2.0
+Adventure,2013.0,286260.0,fault - milestone one,448.9166666666667,WeTheGods,True,2.0
+Action,2014.0,314300.0,CubeZ,11.033333333333333,76561198087716285,False,0.0
+Action,2014.0,241560.0,The Crew™,18875.766666666666,elcasero,True,1.0
+Adventure,2014.0,330840.0,Game of Thrones - A Telltale Games Series,14273.1,spbko8o,True,1.0
+Indie,2014.0,328500.0,Potatoman Seeks the Troof,438.5,76561198042165187,True,1.0
+Adventure,2014.0,297350.0,The Old City: Leviathan,20.583333333333332,76561198079345453,True,2.0
+Action,2014.0,324080.0,Rising World,993.85,76561198035005990,True,2.0
+Action,2014.0,310790.0,Geometry Wars™ 3: Dimensions Evolved,729.9333333333334,thewindinthewullos,True,2.0
+Adventure,2014.0,330830.0,Tales from the Borderlands,19262.016666666666,TacticalLynx,True,2.0
+Action,2014.0,230310.0,Akaneiro: Demon Hunters,208.0,76561198028024146,True,2.0
+Casual,2014.0,331670.0,The Jackbox Party Pack,3645.5333333333333,feedhimmungo,True,2.0
+Action,2016.0,311400.0,OCEAN CITY RACING: Redux,36.65,76561198047486142,True,2.0
+Adventure,2014.0,282070.0,This War of Mine,29075.783333333333,SwinburnCyphenMisslemike,True,2.0
+RPG,2014.0,296570.0,Lords of Xulima,743.5666666666666,76561198062645049,True,2.0
+Action,2014.0,306020.0,Bloons TD 5,10250.066666666668,Galactics,True,2.0
+Adventure,2014.0,331470.0,Everlasting Summer,2116.1833333333334,Coldaniel,True,2.0
+Action,2014.0,330350.0,Robotex,591.3833333333333,76561198044212679,True,2.0
+Casual,2014.0,298160.0,Eldevin,2220.483333333333,76561198068831727,True,0.0
+Indie,2014.0,332800.0,Five Nights at Freddy's 2,4967.6,76561198115868847,True,1.0
+Action,2014.0,289650.0,Assassin's Creed® Unity,16795.366666666665,76561198150342206,False,0.0
+Action,2014.0,294860.0,Valkyria Chronicles™,15820.716666666667,76561198065705830,True,2.0
+Casual,2014.0,260410.0,Get Off My Lawn!,585.1166666666667,IchMasKung,True,1.0
+Action,2014.0,204630.0,Retro City Rampage™ DX,3141.4666666666667,isdonisbest,True,0.0
+Action,2014.0,313690.0,LEGO® Batman™3: Beyond Gotham,9335.033333333333,76561198134830941,False,0.0
+Simulation,2009.0,306370.0,World of Subways 1 – The Path,2.7666666666666666,76561198123465149,False,1.0
+Action,2014.0,326990.0,Deep Eclipse: New Space Odyssey,12.916666666666666,anuke,True,2.0
+Action,2014.0,265300.0,Lords Of The Fallen™,4552.316666666667,brownsticky,True,2.0
+Adventure,2014.0,270490.0,The Forest of Doom,188.95,whysoderpy,True,2.0
+Action,2014.0,284140.0,Majestic Nights,51.63333333333333,76561198087142327,True,2.0
+Simulation,2014.0,308270.0,Buzz Aldrin's Space Program Manager,102.23333333333333,76561197986552181,True,0.0
+Action,2014.0,318100.0,AXYOS,427.3666666666667,76561198040770224,False,1.0
+Action,2014.0,209650.0,Call of Duty®: Advanced Warfare - Gold Edition,12122.45,76561198047418653,False,1.0
+Action,2014.0,274940.0,Depth,15569.266666666666,Pyromanic,True,2.0
+Action,2017.0,274620.0,Skara - The Blade Remains,226.96666666666667,IDKazuto,False,0.0
+Adventure,2014.0,249050.0,Dungeon of the Endless™,12342.466666666667,76561198090724989,True,2.0
+Action,2014.0,321980.0,Hardland,63.86666666666667,76561198059867666,True,2.0
+Adventure,2014.0,324610.0,The Shopkeeper,7.533333333333333,r3znoff,False,0.0
+Action,2014.0,317360.0,Double Action: Boogaloo,8486.966666666667,Xx-Woods,True,1.0
+Strategy,2014.0,65980.0,Sid Meier's Civilization®: Beyond Earth™,49905.98333333333,76561198046912445,True,0.0
+Adventure,2014.0,318430.0,Squishy the Suicidal Pig,1643.0333333333333,76561198080644089,True,2.0
+Action,2014.0,308420.0,Ziggurat,2187.6,76561198037338234,True,2.0
+Action,2013.0,250580.0,Paranautical Activity: Deluxe Atonement Edition,2226.5,76561198091756176,True,2.0
+Action,2014.0,248610.0,Door Kickers,5067.066666666667,76561198061456632,True,0.0
+Indie,2014.0,256010.0,Jagged Alliance Flashback,156.28333333333333,76561198057723496,False,0.0
+Action,2014.0,284460.0,DeadCore,758.2333333333333,76561198051821743,True,0.0
+Indie,2014.0,221180.0,Eufloria HD,334.6666666666667,kurbi-wan_kenobi,True,2.0
+Action,2014.0,327860.0,Salt,1188.4333333333334,M4nk0k3,True,0.0
+Free to Play,2014.0,201210.0,Pox Nora,2135.2,4321louis,True,2.0
+Action,2014.0,261640.0,Borderlands: The Pre-Sequel,168805.35,76561198037342853,True,2.0
+Action,2014.0,307690.0,Sleeping Dogs: Definitive Edition,13738.466666666667,76561198067414480,True,2.0
+Action,2014.0,315340.0,A.R.E.S. Extinction Agenda EX,24.516666666666666,MacMan2710,False,2.0
+Adventure,2014.0,251170.0,Damned,3572.2,76561198069465728,True,2.0
+Action,2011.0,301760.0,Disney•Pixar Cars 2: The Video Game,29.733333333333334,76561198088932660,True,1.0
+Action,2014.0,214490.0,Alien: Isolation,16254.683333333332,saccharinity,True,1.0
+Action,2011.0,300820.0,Disney•Pixar Toy Story 3: The Video Game,25.833333333333332,AnToHero,False,2.0
+RPG,2014.0,292120.0,FINAL FANTASY® XIII,14265.65,76561198077524603,True,1.0
+Action,2014.0,302510.0,Ryse: Son of Rome,5560.2,Mizuotoshi,False,1.0
+Action,2011.0,316260.0,Disney Universe,96.35,VBDJCHDVGMIF,True,0.0
+Action,2014.0,321830.0,Cavern Kings,302.71666666666664,MrGrapeGaming,True,2.0
+Casual,2014.0,312720.0,Khet 2.0,162.1,jasmine-is-fab-not-rlly,True,2.0
+Action,2014.0,258970.0,Gauntlet™ Slayer Edition,6878.883333333333,VasilyChuikov,True,2.0
+Action,2014.0,295490.0,Schrödinger’s Cat And The Raiders Of The Lost Quark,165.9,Viper1999,True,2.0
+Casual,2014.0,289930.0,TransOcean: The Shipping Company,708.0666666666666,chooves,True,2.0
+Action,2014.0,317510.0,Beyond Gravity,263.5833333333333,76561198096137714,True,0.0
+Simulation,2006.0,323610.0,911: First Responders®,1219.9666666666667,xdeadlymoonx,True,2.0
+Adventure,2014.0,258520.0,The Vanishing of Ethan Carter,1457.2833333333333,AppleNoonga,True,2.0
+Action,2014.0,236150.0,Starpoint Gemini 2,2851.4,76561198035107243,True,2.0
+Action,2014.0,278620.0,TinyKeep,256.2,76561198032837913,True,2.0
+Action,2014.0,263020.0,STARWHAL,750.1333333333333,76561198018159202,True,0.0
+Action,2014.0,299660.0,6180 the moon,153.98333333333332,76561198077882964,True,2.0
+Action,2006.0,311140.0,The Stalin Subway,78.56666666666666,11111121111122221,False,0.0
+Action,2010.0,282440.0,Quake Live™,17248.2,compuguy123,False,1.0
+Adventure,2014.0,300550.0,Shadowrun: Dragonfall - Director's Cut,7475.683333333333,76561198068666800,True,2.0
+Adventure,2013.0,321840.0,Rising Angels: Reborn,192.11666666666667,Alirayzack,True,2.0
+Adventure,2014.0,292630.0,Uriel's Chasm,619.1333333333333,the1nchmonster,False,1.0
+Casual,2014.0,304410.0,Hexcells Infinite,1999.9666666666667,76561198042728201,True,2.0
+Action,2014.0,307170.0,Borealis,433.26666666666665,76561198014215298,True,1.0
+Casual,2014.0,304730.0,Train Fever,2349.9166666666665,Blarst,True,2.0
+Casual,2014.0,266430.0,Anarchy Arcade,6932.833333333334,AddzyTheBaddzy,True,2.0
+Casual,2014.0,310080.0,Hatoful Boyfriend,1539.9666666666667,76561198065102350,True,1.0
+Action,2014.0,265550.0,Dead Rising 3 Apocalypse Edition,13140.416666666666,76561198084694331,True,2.0
+Free to Play,2014.0,257730.0,Infinity Wars: Animated Trading Card Game,10159.7,76561198077027020,True,2.0
+Action,2014.0,317710.0,Velocibox,404.8,76561198043818962,True,1.0
+Racing,2005.0,315600.0,Ford Racing 3,185.7,PureNasher,True,2.0
+Adventure,2014.0,246070.0,Hack 'n' Slash,635.8333333333334,whythefuckdoiloveclorox,False,1.0
+Action,2014.0,261180.0,Lethal League,8890.566666666668,DEANOXHILL,True,2.0
+Free to Play,2014.0,295710.0,Darkwind: War on Wheels,191.8,Pendekar,False,1.0
+Casual,2014.0,313340.0,Mountain,7089.8,icphoton,True,0.0
+Adventure,2014.0,272600.0,Detective Grimoire,166.5,mlgfolkie,True,2.0
+Action,2014.0,285580.0,ACE - Arena: Cyber Evolution,593.7166666666667,karate_viking,True,2.0
+Free to Play,2014.0,270170.0,Depression Quest,491.85,76561198084710933,True,0.0
+RPG,2014.0,249230.0,Risen 3 - Titan Lords,1558.0,187625,True,2.0
+Indie,2014.0,319510.0,Five Nights at Freddy's,6854.216666666666,76561198056953510,False,2.0
+RPG,2014.0,289520.0,King's Bounty: Dark Side,1149.3166666666666,rewfifa,False,2.0
+Action,2014.0,248530.0,Depth Hunter 2: Deep Dive,680.1166666666667,76561198107177722,True,2.0
+Action,2014.0,317470.0,Cubic Castles,6204.816666666667,Apachehavoc,False,0.0
+Indie,2014.0,312630.0,OTTTD,398.76666666666665,jp4556,True,2.0
+Action,2014.0,45760.0,Ultra Street Fighter® IV,57696.53333333333,SpaghettiNoodles,True,0.0
+Adventure,2014.0,293500.0,Amazing World™,953.55,IgniteAU,True,0.0
+Action,2014.0,268650.0,From the Depths,22766.283333333333,matt20131,True,1.0
+Free to Play,2014.0,295550.0,Royal Quest,3369.1833333333334,3dster,True,2.0
+Free to Play,2014.0,305260.0,Battle Islands,7158.433333333333,overloadM,True,0.0
+Action,2014.0,244590.0,Epigenesis,914.8666666666667,Newjala,True,2.0
+Action,2014.0,293540.0,Guns and Robots,4392.4,76561198086918051,True,2.0
+Indie,2014.0,296470.0,Mount Your Friends,7528.466666666666,76561198040704557,True,2.0
+Adventure,2015.0,264140.0,Pixel Piracy,16943.9,wantmahbody,True,2.0
+Action,2014.0,298600.0,Lovely Planet,1356.4666666666667,killjoy149,True,1.0
+Adventure,2014.0,274290.0,Gods Will Be Watching,1729.4333333333334,76561198068952127,True,1.0
+Casual,2014.0,299720.0,Terrorhedron Tower Defense,839.6666666666666,hektoz,True,2.0
+Action,2014.0,233980.0,UnEpic,5941.583333333333,76561198045476116,True,2.0
+Adventure,2014.0,298260.0,Only If,1595.4166666666667,76561198067721589,True,0.0
+Action,2014.0,312210.0,The Fifth Day,600.7833333333333,yirosboy,True,2.0
+Action,2014.0,274900.0,Murder Miners,3104.65,keamy911,True,2.0
+Indie,2014.0,274250.0,OlliOlli,644.95,ironhead,False,0.0
+Action,1998.0,299030.0,Blood: One Unit Whole Blood,198.48333333333335,DeadNiggaStorage,False,2.0
+Action,2014.0,311190.0,Super Panda Adventures,223.76666666666668,76561198074029434,True,0.0
+Indie,2014.0,302970.0,Radiant Defense,58.666666666666664,yeannahwayno,True,2.0
+Action,2014.0,280740.0,Aperture Tag: The Paint Gun Testing Initiative,2517.116666666667,commanderliam94,True,2.0
+Action,2014.0,312150.0,Wild Warfare,349.0833333333333,76561198060046037,True,2.0
+Action,2014.0,237310.0,Elsword,84314.06666666667,Swish0009,True,0.0
+Casual,2014.0,304670.0,Aeon Command,1058.2,76561198042504196,True,2.0
+Action,2014.0,305070.0,FIST OF AWESOME,61.483333333333334,legomanat,True,2.0
+Action,2014.0,244630.0,NEOTOKYO,1630.7833333333333,bananaman69,False,2.0
+Adventure,2014.0,307070.0,Memories of a Vagabond,823.6333333333333,dekruz,True,0.0
+Adventure,2014.0,260230.0,Valiant Hearts: The Great War™ / Soldats Inconnus : Mémoires de la Grande Guerre™,4419.65,76561197987394736,True,2.0
+Indie,2014.0,216260.0,Don Bradman Cricket 14,15840.9,helau,True,2.0
+Action,2014.0,250760.0,Shovel Knight: Treasure Trove,9942.05,Symbolize,True,0.0
+Racing,2014.0,255220.0,GRID Autosport,10174.116666666667,Ghastkiller,True,2.0
+Action,2014.0,238090.0,Sniper Elite 3,22951.183333333334,Life-Of-Blu,True,2.0
+Indie,2014.0,269250.0,WORLD END ECONOMiCA episode.01,389.21666666666664,meeman,True,2.0
+Indie,2012.0,299540.0,Heroes Rise: The Prodigy,462.3333333333333,sirnephilim,True,0.0
+Action,2014.0,262830.0,Crimsonland,1244.5666666666666,76561198080384414,True,2.0
+Adventure,2014.0,263280.0,SPINTIRES™,22186.216666666667,Gterrestrial,True,2.0
+Indie,2014.0,275670.0,Space Run,1746.9666666666667,76561198064283266,True,2.0
+Casual,2013.0,266390.0,Farm for your Life,347.1166666666667,finnzag1,True,2.0
+Simulation,2014.0,287450.0,Rise of Nations: Extended Edition,19414.133333333335,MEZISPOTATO,True,0.0
+Strategy,2003.0,285480.0,The Entente Gold,126.15,juzzfuzz,True,0.0
+Casual,2014.0,302380.0,Floating Point,2165.7833333333333,Splifz,True,2.0
+Casual,2014.0,292380.0,Racer 8,877.4333333333333,getrektscrubuwotm8,True,1.0
+Action,2014.0,285440.0,Crimzon Clover WORLD IGNITION,394.1,ellzorrr,True,1.0
+Action,2014.0,298340.0,FLASHOUT 2,30.53333333333333,WaffleCake3,True,2.0
+Action,2014.0,303390.0,Dead Bits,2858.9166666666665,Brianseb,False,1.0
+Action,2014.0,283680.0,Astebreed: Definitive Edition,627.9,Harkugan,True,2.0
+Adventure,2014.0,289090.0,Ampu-Tea,596.4166666666666,alekseif,True,0.0
+Action,2014.0,233290.0,Murdered: Soul Suspect,3543.95,76561198045385665,True,0.0
+Action,2014.0,253710.0,theHunter Classic,23233.766666666666,Michaelele,False,0.0
+Action,2014.0,224600.0,Defiance,67506.06666666667,Rainbow-Dashie,True,2.0
+Indie,2011.0,302060.0,Trucks &amp; Trailers,29.15,saalazar,False,2.0
+Action,2014.0,268220.0,Meltdown,436.9166666666667,breen67,True,2.0
+Action,2017.0,250620.0,Among the Sleep - Enhanced Edition,768.9166666666666,76561198044788018,True,2.0
+Action,2014.0,95400.0,ibb &amp; obb,1361.25,famouse4,True,2.0
+Action,2014.0,243470.0,Watch_Dogs™,49885.55,76561198064579722,True,0.0
+Adventure,2014.0,278360.0,A Story About My Uncle,3229.7166666666667,76561198007342405,False,0.0
+Action,2014.0,296150.0,G-Ball,4.8999999999999995,ipexs,False,0.0
+Action,2014.0,296650.0,The Great Jitters: Pudding Panic,3.4833333333333334,its_arikimurray,True,0.0
+Action,2014.0,201810.0,Wolfenstein: The New Order,41615.03333333333,76561198059167106,True,2.0
+Action,2014.0,237930.0,Transistor,9600.466666666667,76561198089393905,True,2.0
+Free to Play,2008.0,300970.0,Fiesta Online NA,1689.9166666666667,76561198165674451,False,0.0
+Simulation,1999.0,285310.0,RollerCoaster Tycoon®: Deluxe,1910.9,ladysaphera,False,2.0
+Free to Play,2014.0,262410.0,World of Guns: Gun Disassembly,10513.65,ConjuredMadness,True,2.0
+Action,2014.0,263760.0,Turbo Dismount™,14825.85,76561198009498722,True,2.0
+Action,2014.0,299420.0,CubeGun,104.21666666666667,83837474,False,0.0
+Action,2014.0,291910.0,Firefighters 2014,268.2833333333333,76561198050742630,True,2.0
+Adventure,2014.0,300220.0,Victim of Xen,403.1166666666667,76561197992887038,True,1.0
+Indie,2014.0,274310.0,Always Sometimes Monsters,3103.75,deathbreath220,True,1.0
+Action,2014.0,301750.0,RADical ROACH Remastered,828.7333333333333,76561198067201254,False,2.0
+Indie,2013.0,282800.0,100% Orange Juice,8260.316666666666,ooblinkoo,True,1.0
+Action,2014.0,278080.0,DYNASTY WARRIORS 8: Xtreme Legends Complete Edition / 真・三國無双７ with 猛将伝,13699.183333333334,76561198087039124,True,0.0
+Adventure,2014.0,237970.0,Memento Mori 2,12.799999999999999,Hitantantsolution,False,0.0
+Action,2015.0,270150.0,RUNNING WITH RIFLES,6588.833333333333,76561198051623381,True,1.0
+Action,2014.0,225280.0,Full Mojo Rampage,1387.8166666666666,76561198074965973,True,0.0
+Audio Production,2014.0,228180.0,Action! - Gameplay Recording and Streaming,6679.400000000001,harrydelmege,True,2.0
+Indie,2014.0,251630.0,The Impossible Game,948.0,76561198123074348,True,2.0
+Indie,2014.0,244410.0,Supreme Ruler 1936,800.9833333333333,supersonic380,True,1.0
+Adventure,1993.0,294650.0,Putt-Putt® Goes to the Moon,26.166666666666668,76561198135673978,True,2.0
+Action,2014.0,298180.0,The Desolate Hope,96.78333333333333,486259317,True,0.0
+Action,2014.0,242720.0,GunZ 2: The Second Duel,24718.066666666666,hewl,False,2.0
+Adventure,1999.0,292240.0,"Spy Fox 2 ""Some Assembly Required""",77.35,Destroyr_117,True,2.0
+Adventure,1998.0,292780.0,Pajama Sam 2: Thunder and Lightning Aren't So Frightening,91.61666666666666,ziqan,True,2.0
+Action,2014.0,287100.0,Chaos Domain,55.11666666666667,Donkey555,False,1.0
+Action,2013.0,242880.0,"Sir, You Are Being Hunted",5351.65,Terencio,True,2.0
+Action,2014.0,236430.0,DARK SOULS™ II,166907.68333333332,76561198095921854,True,1.0
+Action,2014.0,207230.0,ArcheBlade™,14811.333333333334,76561198056960847,True,2.0
+Action,2014.0,275490.0,Canyon Capers,1329.35,76561198014676100,False,0.0
+Adventure,2012.0,296240.0,The Promised Land,245.7,76561198103524411,True,2.0
+Action,2014.0,280930.0,Battlepillars Gold Edition,385.2166666666667,76561198077104907,False,0.0
+Action,2014.0,230840.0,Daylight,157.83333333333334,76561198061796524,True,0.0
+RPG,2014.0,256290.0,Child of Light,3949.633333333333,76561198015511443,False,2.0
+Strategy,2014.0,295990.0,Evopollution,90.96666666666667,Archimedesthemagicalbird,False,2.0
+Racing,2014.0,245490.0,Trials Fusion™,6936.45,76561198065988138,True,2.0
+Action,2014.0,293180.0,Overcast - Walden and the Werewolf,1496.8833333333334,elevade,True,2.0
+Indie,2014.0,273070.0,The Last Federation,1056.8333333333333,reszluigii,True,0.0
+Action,2014.0,286080.0,Thinking with Time Machine,1927.85,KawaiiAntman,True,1.0
+Strategy,2014.0,251060.0,Wargame: Red Dragon,41033.88333333333,Clouwolf,False,1.0
+Simulation,2004.0,282400.0,SuperPower 2 Steam Edition,1387.8166666666666,SgazyRQ,True,0.0
+Indie,2014.0,249550.0,NEStalgia,242.71666666666667,Rororowyourboat,True,0.0
+Action,2014.0,286660.0,Avoid - Sensory Overload,131.53333333333333,76561197973290663,True,2.0
+Action,2014.0,280910.0,T.E.C. 3001,267.26666666666665,76561198061683006,True,0.0
+Adventure,2014.0,286200.0,ReignMaker,236.8,lesnak,True,0.0
+Action,2013.0,263740.0,FootLOL: Epic Fail League,466.01666666666665,76561198078614334,True,2.0
+Strategy,2003.0,277460.0,Praetorians,66.91666666666667,meachie,True,2.0
+Strategy,2005.0,277450.0,Imperial Glory,296.2166666666667,princemart,True,0.0
+Action,2014.0,258590.0,Adventure Time: Finn and Jake's Epic Quest,326.56666666666666,ritzyswordfish,True,2.0
+Indie,2014.0,280220.0,Creeper World 3: Arc Eternal,5540.433333333333,76561198070920396,True,2.0
+Casual,2014.0,276340.0,My Riding Stables: Life with Horses,11.55,76561198081496844,True,2.0
+Action,2014.0,270550.0,Yet Another Zombie Defense,4242.483333333334,nubquake123,True,2.0
+Adventure,2014.0,277930.0,TUG,391.8,BOOTHEGHOSTgaming,True,1.0
+Action,2014.0,269490.0,Bardbarian,856.4,BrodiePlayz,True,0.0
+Casual,2014.0,265930.0,Goat Simulator,63513.15,76561198079650317,True,1.0
+Indie,2014.0,281370.0,Real Horror Stories Ultimate Edition,384.15,416940127,False,0.0
+Adventure,2014.0,269350.0,Montas,20.25,76561198041906216,False,2.0
+Action,2014.0,243120.0,Betrayer,1384.4833333333333,Vladimirputinisgreatman,True,2.0
+Action,2011.0,281820.0,Explodemon,21.5,76561198092560110,False,0.0
+Action,2014.0,209160.0,Call of Duty®: Ghosts,13238.983333333334,camduman,True,2.0
+Action,2014.0,274560.0,Revolution Ace,1084.9,sw00dd00d,False,2.0
+Strategy,2011.0,268400.0,Panzer Corps,1147.9166666666665,76561198046311245,True,2.0
+Action,2003.0,283290.0,Nosferatu: The Wrath of Malachi,1056.5166666666667,76561198068176506,True,0.0
+Action,2014.0,266070.0,City of Steam: Arkadia,1395.9666666666667,XlX420BlazeitXIX,True,2.0
+Adventure,2014.0,269050.0,Year Walk,114.66666666666667,76561198074111910,True,0.0
+Action,2014.0,204530.0,Infested Planet,2398.133333333333,76561198044032335,True,2.0
+Action,2014.0,261880.0,Corporate Lifestyle Simulator,90.28333333333333,naomibby,True,2.0
+Action,2014.0,263500.0,Dragons and Titans,2715.65,kraken257,True,2.0
+Animation &amp; Modeling,2014.0,262490.0,Manga Maker Comipo,373.75,76561198031488141,True,1.0
+Action,2005.0,254460.0,Obscure,186.3,76561198103342524,True,2.0
+Action,2014.0,254700.0,resident evil 4 / biohazard 4,7867.533333333334,76561197976177356,False,0.0
+Action,2014.0,239160.0,Thief,20040.25,76561198079327998,True,0.0
+Utilities,2014.0,261920.0,Catzilla 4K - Advanced,38.63333333333334,76561198072912995,True,1.0
+Indie,2014.0,266210.0,One Way Heroics,3870.3,76561198085956238,True,2.0
+Action,2014.0,264200.0,One Finger Death Punch,14001.583333333334,76561198028286104,True,1.0
+Action,2014.0,281050.0,Vanguard Princess Director's Cut,0.016666666666666666,RadicalLapis,True,2.0
+Action,2014.0,213670.0,South Park™: The Stick of Truth™,56006.35,Nozomikat,True,1.0
+Action,2014.0,259450.0,Drifter,44.516666666666666,dignitasgMp,True,0.0
+Action,2014.0,235210.0,STRIDER™ / ストライダー飛竜®,1713.6833333333334,fire020,False,0.0
+Action,2014.0,264280.0,99 Levels To Hell,1507.4333333333332,76561198060075398,False,0.0
+Action,2014.0,209060.0,Drunken Robot Pornography,725.7666666666667,rosalindo,True,0.0
+Adventure,2011.0,251870.0,Go! Go! Nippon! ~My First Trip to Japan~,1736.65,captainfez,False,0.0
+Casual,2014.0,278460.0,Skyborn,1953.3166666666666,phlosten,False,2.0
+Action,2005.0,233350.0,Sudeki,551.4333333333333,76561198065489132,True,2.0
+Utilities,2014.0,269290.0,liteCam Game: 100 FPS Game Capture,1579.2333333333333,Ranev,True,2.0
+Simulation,2014.0,273940.0,Warehouse and Logistics Simulator,216.38333333333335,nataaloli,False,2.0
+Massively Multiplayer,2014.0,39210.0,FINAL FANTASY XIV Online,126042.53333333333,76561198050582418,True,2.0
+Free to Play,2014.0,219700.0,Dogs of War Online,178.61666666666667,achthenuts,True,2.0
+Action,2014.0,262260.0,Jets'n'Guns Gold,400.7,76561198071102818,True,2.0
+Adventure,2009.0,259720.0,Fading Hearts,330.06666666666666,76561198121874542,True,2.0
+Indie,2014.0,271860.0,Super Killer Hornet: Resurrection,853.9333333333333,76561198088356010,True,0.0
+Action,2014.0,263420.0,Probably Archery,262.1333333333333,76561198066105606,True,1.0
+Action,2014.0,252350.0,Double Dragon: Neon,673.1333333333333,fashathefish,True,2.0
+Action,2014.0,267530.0,The LEGO® Movie - Videogame,6085.816666666667,76561198063100139,True,1.0
+Adventure,2014.0,250260.0,Jazzpunk: Director's Cut,2779.25,AxeOfChaos,True,0.0
+Action,2014.0,269270.0,LOVE,307.5,76561198036772520,True,2.0
+Simulation,2014.0,273770.0,Game Tycoon 1.5,222.6,D3ad3n3,False,0.0
+Action,2014.0,270090.0,//N.P.P.D. RUSH//- The milk of Ultraviolet,335.98333333333335,76561198068538206,False,0.0
+Action,2008.0,271500.0,Sniper Art of Victory,72.73333333333333,prohan,True,1.0
+Action,2014.0,208090.0,Loadout,123313.35,76561198102421718,True,1.0
+Action,2014.0,263200.0,Signs of Life,940.9,chuckmorris25,False,0.0
+Action,2014.0,246700.0,Strike Vector,1249.8666666666668,76561198063804314,True,1.0
+Adventure,2014.0,232790.0,Broken Age,3205.516666666667,gusvu,True,1.0
+Action,2004.0,247430.0,Hitman: Contracts,749.2166666666667,434238948,True,1.0
+Indie,2014.0,249650.0,Blackguards,2472.2,76561198055670224,True,2.0
+Indie,2014.0,237990.0,The Banner Saga,6228.25,ay65,True,2.0
+Action,2014.0,228380.0,Next Car Game: Wreckfest,6700.883333333333,MungySpap,True,2.0
+Indie,2014.0,257970.0,Loren The Amazon Princess,684.5666666666666,SethSentry,True,2.0
+Action,2014.0,235460.0,METAL GEAR RISING: REVENGEANCE,14864.933333333332,76561198060388536,True,0.0
+Action,2014.0,263360.0,3089 -- Futuristic Action RPG,606.85,76561198156664158,True,0.0
+Adventure,2012.0,263400.0,War of the Human Tanks,511.1,nothingbeatsme,True,0.0
+Action,2014.0,246420.0,Kingdom Rush,4883.15,mrenigmate,True,2.0
+Action,2014.0,263680.0,Unearthed: Trail of Ibn Battuta - Episode 1 - Gold Edition,123.68333333333334,yamaaaaa,False,1.0
+Casual,2014.0,252150.0,Grimm,1031.7333333333333,76561198090431959,True,2.0
+Indie,2007.0,237950.0,UFO: Afterlight,209.85,76561198069996401,False,1.0
+Action,2013.0,217100.0,Dementium II HD,523.05,6435677448,True,0.0
+Adventure,2013.0,261030.0,The Walking Dead: Season 2,30539.433333333334,76561197998761331,True,2.0
+Action,2007.0,250340.0,Blockland,15990.733333333334,76561198046958203,True,2.0
+Action,2013.0,221100.0,DayZ,607349.9,76561198030567998,True,2.0
+Simulation,2013.0,252530.0,OMSI 2: Steam Edition,6428.05,76561198043109268,False,2.0
+Action,2013.0,252490.0,Rust,1352006.9333333333,76561198050347115,True,2.0
+Action,2013.0,253690.0,Tiny Brains,166.91666666666666,Exodus20010,True,2.0
+Indie,2014.0,248860.0,NEO Scavenger,4351.183333333333,76561198070072786,True,2.0
+Adventure,2013.0,265330.0,Gomo,137.46666666666667,76561198077035190,True,0.0
+RPG,2013.0,39150.0,FINAL FANTASY VIII,12159.4,76561198070092383,True,2.0
+Casual,2013.0,234330.0,Marvel Puzzle Quest,14425.666666666666,HailAmeixing,True,2.0
+Adventure,2013.0,248650.0,Draw a Stickman: EPIC,840.5333333333333,Darkos___,True,2.0
+Action,2013.0,253350.0,Tiny Barbarian DX,104.91666666666667,76561197981381850,True,2.0
+Action,2013.0,259700.0,Dead Sky,83.4,LetsBeOn,True,2.0
+Action,2013.0,243800.0,Gas Guzzlers Extreme,950.4166666666666,76561198083091405,True,2.0
+Adventure,2012.0,259550.0,Hero of the Kingdom,469.6666666666667,chapaloko666,True,0.0
+Action,2013.0,231330.0,Deadfall Adventures,707.8333333333334,76561198093158990,True,1.0
+Action,2013.0,2870.0,X Rebirth,5318.25,GreasyGreg,False,0.0
+Adventure,2013.0,224460.0,Contrast,724.3,TheCookiesDream,True,2.0
+Action,2013.0,218130.0,Dungeonland,5451.566666666667,Device600,True,2.0
+Action,2013.0,242700.0,Injustice: Gods Among Us Ultimate Edition,19746.466666666667,76561198087407319,True,1.0
+Animation &amp; Modeling,2013.0,257400.0,Fuse,1512.6166666666666,RamsayIsDead,True,2.0
+Action,2013.0,233190.0,Final Exam,682.1166666666667,hzqBICEPS,True,2.0
+Action,2013.0,252030.0,Valdis Story: Abyssal City,1247.2,transplant369,True,2.0
+Action,2011.0,224260.0,No More Room in Hell,132427.83333333334,diego9031,True,2.0
+Action,2013.0,247910.0,Sniper Elite: Nazi Zombie Army 2,7351.166666666667,smNTC,False,1.0
+Free to Play,2003.0,215100.0,Ragnarok Online,5023.3,iBluz,True,2.0
+Free to Play,2013.0,238260.0,Pinball Arcade,3342.7000000000003,hand0fcthulhu,True,2.0
+Action,2013.0,239720.0,PAC-MAN™ and the Ghostly Adventures,146.35,76561198238911958,True,0.0
+Casual,2013.0,254440.0,Pool Nation,2649.383333333333,76561198059849113,False,0.0
+Simulation,2002.0,40970.0,Stronghold Crusader HD,3050.6666666666665,76561198066750084,True,2.0
+Action,2013.0,252630.0,Eldritch,1221.8,76561198053858353,True,2.0
+Simulation,2010.0,252910.0,Skyscraper Simulator,65.48333333333333,76561198018733084,True,0.0
+Action,2013.0,249130.0,LEGO® Marvel™ Super Heroes,48589.2,76561198058373434,True,0.0
+Indie,2013.0,233110.0,Defense Technica,199.33333333333334,76561198028483487,False,0.0
+Action,2011.0,253650.0,Sparkle 2 Evo,891.25,ThomWin,False,0.0
+Action,2013.0,245280.0,ENSLAVED™: Odyssey to the West™ Premium Edition,1368.2,fanofreeman,True,0.0
+Action,2013.0,234670.0,NARUTO SHIPPUDEN: Ultimate Ninja STORM 3 Full Burst HD,22101.166666666668,76561197973196808,True,2.0
+Action,2013.0,209000.0,Batman™: Arkham Origins,65890.7,76561198053111161,True,2.0
+Racing,2013.0,256330.0,WRC 4 FIA World Rally Championship,650.6166666666667,76561198088944164,False,2.0
+Indie,2013.0,245470.0,Democracy 3,9087.466666666667,76561198125535440,False,1.0
+Indie,2013.0,258200.0,Talisman: Prologue,785.9333333333333,butwhythough,True,2.0
+Action,2013.0,248550.0,Megabyte Punch,641.8833333333333,76561198093955912,True,2.0
+Action,2013.0,242800.0,Day One : Garry's Incident,577.8166666666667,76561198064859777,False,0.0
+RPG,1999.0,243000.0,Omikron: The Nomad Soul,238.41666666666666,76561198065900839,False,2.0
+Action,2013.0,233130.0,Shadow Warrior,16981.183333333334,Mystic_Fire,True,0.0
+Adventure,2013.0,248800.0,Dysfunctional Systems: Learning to Manage Chaos,266.71666666666664,76561198062450095,True,2.0
+RPG,1999.0,253920.0,Gorky 17,86.85,WM8267,True,1.0
+Strategy,2001.0,254080.0,World War III: Black Gold,21.183333333333334,76561198055563643,False,0.0
+RPG,1999.0,253940.0,Septerra Core,592.6833333333333,76561198078072214,False,2.0
+Simulation,2013.0,227020.0,Rise of Venice,344.4,arsyad30,False,0.0
+Adventure,2013.0,251430.0,The Inner World,430.8333333333333,76561198031967258,True,2.0
+RPG,2003.0,253980.0,Enclave,2376.85,radicalrainjunior,False,0.0
+Indie,2013.0,250380.0,Knock-knock,235.63333333333333,91102984210101,True,2.0
+Action,2013.0,51100.0,Tactical Intervention,25908.816666666666,TheMaxofaus,False,2.0
+Indie,2013.0,238910.0,Bionic Dues,1613.1666666666667,xingxing000,False,1.0
+Action,2013.0,247020.0,"Cook, Serve, Delicious!",5279.25,76561198011493875,False,0.0
+Free to Play,2013.0,244050.0,Rise of Flight United,845.85,imsufferingkillme,False,0.0
+Action,2013.0,239200.0,Amnesia: A Machine for Pigs,3687.4833333333336,6294421419,True,0.0
+Audio Production,2013.0,237370.0,PlayClaw 5 - Game Recording and Streaming,647.7,76561198042111289,True,2.0
+Action,2013.0,107410.0,Arma 3,1122198.4,tbimperator,True,0.0
+Action,2012.0,246300.0,Paranormal,248.73333333333332,76561198076513951,True,2.0
+Action,2013.0,247240.0,Volgarr the Viking,1087.8,VRBones,True,2.0
+Action,2013.0,222940.0,THE KING OF FIGHTERS XIII STEAM EDITION,3198.5,cookieblade,True,2.0
+Adventure,2013.0,243200.0,Memoria,397.93333333333334,sealbloke,True,2.0
+Strategy,2013.0,214950.0,Total War™: ROME II - Emperor Edition,295336.7,76561198078733772,True,0.0
+Adventure,2013.0,232430.0,Gone Home,2242.55,76561198043464234,True,2.0
+Action,2013.0,225080.0,Brothers - A Tale of Two Sons,3132.366666666667,nabicore,True,2.0
+Indie,2013.0,249330.0,Unholy Heights,1192.25,kota40,True,2.0
+Action,2013.0,65930.0,The Bureau: XCOM Declassified,9984.533333333333,76561198032586095,True,0.0
+Action,2013.0,206420.0,Saints Row IV,210258.6,maxpaynepillkiller,True,2.0
+Action,2013.0,244730.0,Divekick,1957.5666666666666,bielzebu,True,1.0
+Action,2013.0,235600.0,Tom Clancy’s Splinter Cell Blacklist,27508.583333333332,2323534545,True,2.0
+Action,2013.0,245170.0,Skullgirls,22542.116666666665,76561198064343153,False,0.0
+Indie,2013.0,239350.0,Spelunky,28957.866666666665,Rexoman,True,2.0
+Adventure,2013.0,239030.0,"Papers, Please",25433.916666666668,Wackky,True,0.0
+Action,2013.0,214770.0,Guacamelee! Gold Edition,5780.083333333333,thebigchiklis,True,1.0
+Simulation,2013.0,236850.0,Europa Universalis IV,242142.2,hannyp,True,2.0
+Action,2013.0,241720.0,Guncraft,4707.983333333334,Legendary_Blu,True,2.0
+Action,2013.0,239070.0,Hammerwatch,11470.133333333333,76561198079227569,True,0.0
+Action,2013.0,234390.0,Teleglitch: Die More Edition,3635.516666666667,76561197980349491,True,1.0
+Strategy,2013.0,213850.0,Magic 2014 — Duels of the Planeswalkers,30726.616666666665,akiomio,True,1.0
+Action,2013.0,231910.0,Leisure Suit Larry in the Land of the Lounge Lizards: Reloaded,217.01666666666665,kicking_ass_for_the_lord,False,0.0
+Action,2013.0,241600.0,Rogue Legacy,47523.75,AtomicNarwhal,True,0.0
+Action,2013.0,236370.0,Interstellar Marines,4547.766666666666,THE_ART_OF_FEEDING,True,0.0
+Racing,2013.0,232910.0,TrackMania² Stadium,9664.216666666667,storm_is_epic,True,2.0
+Racing,2013.0,240600.0,MotoGP™13,1089.7,76561198006889139,True,2.0
+Adventure,2013.0,230820.0,The Night of the Rabbit,590.0833333333334,SnipeDemon,True,2.0
+Strategy,2013.0,222750.0,Wargame: Airland Battle,19511.6,sarge_017,True,0.0
+Action,2013.0,231160.0,The Swapper,2643.3166666666666,76561198077185651,True,2.0
+Indie,2013.0,228260.0,Fallen Enchantress: Legendary Heroes,5324.15,EucHellscythe,False,2.0
+Action,2013.0,215530.0,The Incredible Adventures of Van Helsing,8917.766666666666,76561198032373589,True,1.0
+Indie,2013.0,238890.0,Skyward Collapse,488.73333333333335,MessWithNoOne,True,2.0
+Action,2013.0,236090.0,Dust: An Elysian Tail,12588.75,teamrobo,True,2.0
+Action,2013.0,234490.0,Rush Bros.,962.7666666666667,76561198297906261,False,2.0
+Action,2013.0,204450.0,Call of Juarez® Gunslinger,12458.533333333333,76561198079351819,True,2.0
+Action,2013.0,206190.0,Gunpoint,12977.833333333334,95758,True,2.0
+Racing,2013.0,44350.0,GRID 2,22048.75,Matoota,True,0.0
+Casual,2013.0,235250.0,Super Sanctum TD,2014.7666666666667,SomeDudeWhoLikesOldGames,True,0.0
+Action,1999.0,238210.0,System Shock 2,4587.516666666666,76561198064195918,True,2.0
+Action,2013.0,232970.0,Thunder Wolves,174.95000000000002,Connor5620,True,2.0
+Action,2013.0,236730.0,Anomaly 2,767.7166666666667,fjackfair,True,1.0
+Action,2013.0,234190.0,Receiver,3459.633333333333,2ez4medick,True,0.0
+Action,2013.0,215690.0,Zeno Clash 2,1099.6333333333334,_Jezzah_,True,2.0
+Action,2013.0,220900.0,Jack Lumber,301.4166666666667,ArchMans,True,1.0
+Indie,2013.0,224760.0,FEZ,9403.633333333333,infamouscharles,True,2.0
+Action,2013.0,233270.0,Far Cry 3 - Blood Dragon,21049.916666666668,Anthonybasso,True,2.0
+Free to Play,2013.0,231060.0,Ragnarok Online 2,17635.466666666667,76561198048358239,False,1.0
+Casual,2013.0,209520.0,Mini Motor Racing EVO,1687.6499999999999,76561198055723594,True,0.0
+Action,2013.0,113020.0,Monaco: What's Yours Is Mine,23029.266666666666,melonmaniac,True,2.0
+Action,2013.0,223710.0,Cry of Fear,18410.6,kevinator23,True,1.0
+Adventure,2013.0,217690.0,Anna - Extended Edition,1014.2333333333333,76561198071340853,True,1.0
+Action,2013.0,230700.0,La-Mulana,1972.0833333333333,lifeondelay,False,0.0
+Action,2013.0,104900.0,ORION: Prelude,36698.11666666667,CompoBlue,True,2.0
+Adventure,2013.0,230980.0,Starseed Pilgrim,381.8666666666667,The-Party,False,0.0
+Action,2013.0,207930.0,Sacred Citadel,666.85,76561198068507282,True,2.0
+Strategy,2013.0,221380.0,Age of Empires II HD,210979.71666666667,Angrovar,True,1.0
+Utilities,2013.0,227260.0,DisplayFusion,131.25,76561198071159917,True,2.0
+Free to Play,2013.0,227180.0,Kingdom Wars,5345.7,KingFluffyButt,True,2.0
+Simulation,2013.0,225420.0,Cities in Motion 2,5059.583333333333,caydrobertson,False,0.0
+Action,2013.0,230410.0,Warframe,2067128.3833333333,76561198053071988,True,2.0
+Action,2013.0,8870.0,BioShock Infinite,127026.85,TheDropix101,True,1.0
+Indie,2013.0,230050.0,DLC Quest,5735.216666666666,That_Microwave,True,1.0
+Strategy,1999.0,217200.0,Worms Armageddon,4846.733333333334,jskode,True,0.0
+Indie,2013.0,233740.0,Organ Trail: Director's Cut,4722.816666666667,Cjixeres,True,1.0
+Casual,2013.0,210550.0,Angry Birds Space,554.4833333333333,NIGGERLET,False,2.0
+Indie,2008.0,232010.0,Euro Truck Simulator,2915.366666666667,76561198086822291,False,0.0
+Action,2013.0,34870.0,Sniper: Ghost Warrior 2,8613.85,76561198075257303,False,1.0
+Action,2013.0,218060.0,BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien,5404.266666666666,76561197970691715,True,2.0
+Racing,2011.0,228760.0,TrackMania² Canyon,5128.233333333334,76561198108233047,False,0.0
+Action,2013.0,212070.0,Star Conflict,25453.833333333332,pwrt,True,2.0
+Free to Play,2013.0,222520.0,Champions of Regnum,8124.7,76561198053761623,True,2.0
+Action,2013.0,227100.0,Sniper Elite: Nazi Zombie Army,12181.95,SuccForCancer,True,1.0
+Action,2013.0,203160.0,Tomb Raider,90468.13333333333,epicsquid,True,2.0
+Action,2013.0,204080.0,The Showdown Effect,5907.15,Zombies_Guardian,False,2.0
+Action,2013.0,224580.0,Arma II: DayZ Mod,23364.75,Suparcoffeeninja,True,2.0
+Casual,2013.0,204240.0,The Bridge,1469.2666666666667,76561198007488623,True,0.0
+Free to Play,2013.0,219340.0,The Banner Saga: Factions,758.4666666666667,XIGFleez,True,2.0
+Action,2013.0,225260.0,Brutal Legend,15319.35,76561198093381429,True,2.0
+Free to Play,2013.0,211500.0,RaceRoom Racing Experience,4680.533333333333,76561198072734711,False,0.0
+Action,2013.0,223810.0,Ys I &amp; II Chronicles+,899.5333333333333,76561198072207814,True,0.0
+Strategy,2013.0,202130.0,Impire,1340.2,AnimuIsLyfe,False,0.0
+Animation &amp; Modeling,2013.0,227240.0,Construct 2,2951.2333333333336,76561198092750032,False,2.0
+Adventure,2013.0,219680.0,Proteus,573.25,chopochop,False,0.0
+Racing,2013.0,212480.0,Sonic &amp; All-Stars Racing Transformed,16364.316666666666,81447,True,2.0
+Adventure,2013.0,219890.0,Antichamber,11038.9,76561198053766465,True,2.0
+Simulation,2013.0,208520.0,Omerta - City of Gangsters,4146.0,Cosmonaut123456789,True,2.0
+Action,2013.0,227580.0,"10,000,000",2413.883333333333,76561198090595012,True,2.0
+Indie,2013.0,227300.0,Euro Truck Simulator 2,115957.81666666667,maplemage,True,0.0
+RPG,2013.0,228280.0,Baldur's Gate: Enhanced Edition,11350.783333333333,cruzercru,True,2.0
+Action,2012.0,11610.0,Dragon Nest,49558.55,meltingman234,True,2.0
+Action,2012.0,224540.0,Ace of Spades: Battle Builder,120913.68333333333,mainkradxdxdx,False,0.0
+Action,2012.0,222980.0,Dead Pixels,2850.3333333333335,35353534,True,0.0
+Design &amp; Illustration,2012.0,220700.0,RPG Maker VX Ace,32456.766666666666,smokeaconeorfuckoff,True,2.0
+Strategy,2012.0,42990.0,Sword of the Stars II: Enhanced Edition,1856.55,24453,False,0.0
+Action,2012.0,220240.0,Far Cry 3,203088.26666666666,GamerFag,True,2.0
+Action,2012.0,221640.0,Super Hexagon,17685.6,jichaelcoaching,True,2.0
+Action,2012.0,214510.0,LEGO The Lord of the Rings,9128.716666666667,parkachu,True,2.0
+Action,2012.0,223430.0,Miner Wars 2081,493.3333333333333,76561198096443555,True,2.0
+Action,2012.0,224960.0,Tomb Raider I,965.8,76561198056863768,True,0.0
+Adventure,2012.0,221260.0,Little Inferno,13815.15,fsfs546hd,True,0.0
+Action,2012.0,213610.0,Sonic Adventure 2,6309.85,burningspoke,True,0.0
+Adventure,2012.0,218680.0,Scribblenauts Unlimited,43220.95,SurfChicken,True,0.0
+Action,2012.0,203140.0,Hitman: Absolution™,94261.75,nammienoodles,True,0.0
+Action,2012.0,218230.0,PlanetSide 2,690699.4333333333,UnholyFallenAngel,False,2.0
+Adventure,2012.0,208480.0,Assassin’s Creed® III,66356.65,76561198054922473,True,2.0
+Indie,2012.0,220780.0,Thomas Was Alone,6388.366666666667,76561198046190974,True,2.0
+Indie,2012.0,221020.0,Towns,8631.866666666667,76561198070705780,True,0.0
+Action,2012.0,206500.0,AirMech Strike,53927.53333333333,76561198066876703,True,0.0
+Indie,2012.0,218410.0,Defender's Quest: Valley of the Forgotten (DX edition),2862.6833333333334,76561198033923352,True,2.0
+Action,2012.0,4920.0,Natural Selection 2,105987.43333333333,sweatmore,True,2.0
+Action,2012.0,214870.0,Painkiller Hell &amp; Damnation,2220.65,Lim3RENCE,True,2.0
+Adventure,2012.0,218740.0,Pid,1058.5,sandwiches1,True,1.0
+Action,2012.0,220460.0,Cargo Commander,1286.0,76561198155824473,True,2.0
+Action,2012.0,211400.0,Deadlight,5049.083333333333,swatgamerbr,True,1.0
+RPG,2012.0,203350.0,King's Bounty: Warriors of the North,1936.9166666666667,DipShiet,True,0.0
+Action,2012.0,218640.0,Lucius,4456.416666666667,GasontJasont,True,2.0
+Action,2012.0,211160.0,Viking: Battle for Asgard,1352.7833333333333,76561198062469316,False,0.0
+Casual,2012.0,213650.0,Dwarfs - F2P,3378.0,offlinebyourmine,True,2.0
+Action,2012.0,219640.0,Chivalry: Medieval Warfare,314616.86666666664,yookobz,True,2.0
+Action,2012.0,214560.0,Mark of the Ninja,27847.3,traketraketrake,True,1.0
+Strategy,2012.0,200170.0,Worms Revolution,21540.516666666666,76561198074333465,True,1.0
+Indie,2007.0,218040.0,Democracy 2,439.9666666666667,76561198069486326,False,2.0
+Action,2012.0,209730.0,R.A.W. Realms of Ancient War,422.76666666666665,76561198067960427,False,1.0
+Action,2012.0,205230.0,Hell Yeah! Wrath of the Dead Rabbit,1717.7,76561198085109035,True,0.0
+Action,2012.0,220860.0,McPixel,5381.566666666667,76561198074558199,False,2.0
+Action,2012.0,205100.0,Dishonored,125205.68333333333,76561197995146150,True,2.0
+Action,2012.0,204360.0,Castle Crashers®,115872.3,76561198102410011,True,2.0
+Action,2012.0,214830.0,Half Minute Hero: Super Mega Neo Climax Ultimate Boy,2079.7166666666667,SuchDogeMuchWoW,True,2.0
+Action,2012.0,200710.0,Torchlight II,151588.98333333334,ScoutCounterAttack,True,0.0
+Strategy,2012.0,200510.0,XCOM: Enemy Unknown,250459.25,76561198087010391,True,2.0
+Indie,2012.0,212680.0,FTL: Faster Than Light,189007.01666666666,OzfurAtlas,True,0.0
+Action,2012.0,49520.0,Borderlands 2,1340476.4,76561198087586464,True,0.0
+Adventure,2012.0,214790.0,The Basement Collection,3857.6666666666665,zeroblade,True,1.0
+Adventure,2012.0,215670.0,Home,556.2,_vertycal_lol,True,2.0
+Action,2012.0,214250.0,I Am Alive,2526.2833333333333,fatpeter420,False,0.0
+Action,2012.0,211420.0,DARK SOULS™: Prepare To Die™ Edition,241857.1,PPanther,True,1.0
+Action,2012.0,216110.0,Tiny Troopers,209.01666666666668,darendarenson,True,2.0
+Action,2012.0,211260.0,They Bleed Pixels,1550.3333333333333,centor111,True,0.0
+Action,2010.0,212800.0,Super Crate Box,6424.883333333333,Mutro,True,2.0
+Action,2012.0,206210.0,Gotham City Impostors Free to Play,30181.083333333332,Allahu_Akbar666,True,1.0
+Adventure,2012.0,214700.0,Thirty Flights of Loving,256.78333333333336,76561198078292204,True,1.0
+Action,2012.0,207750.0,Symphony,1203.2,76561198059743525,True,0.0
+Casual,2012.0,216150.0,MapleStory,102227.85,dbsgptjd966,True,2.0
+Action,2012.0,204300.0,Awesomenauts - the 2D moba,163326.11666666667,starkillershadow553,True,2.0
+Action,2012.0,201790.0,Orcs Must Die! 2,71557.48333333334,76561198083565647,True,2.0
+Action,2012.0,115320.0,Prototype 2,12515.766666666666,76561198119691766,False,2.0
+Action,2012.0,209870.0,Blacklight: Retribution,176763.26666666666,I_DID_911_JUST_SAYING,True,0.0
+Strategy,2012.0,208140.0,Endless Space® - Collection,31050.783333333333,Wing_IKU,True,2.0
+Indie,2012.0,211440.0,Adventures of Shuggy,1180.5833333333333,76561198077811980,False,0.0
+Indie,2012.0,205910.0,Tiny and Big: Grandpa's Leftovers,2643.5333333333333,dragonrage14,True,0.0
+Strategy,2012.0,97330.0,Magic: The Gathering - Duels of the Planeswalkers 2013,25031.983333333334,76561198091095932,True,1.0
+Action,2012.0,208730.0,Game of Thrones,2048.7,76561198310819422,False,0.0
+Action,2012.0,50300.0,Spec Ops: The Line,18298.966666666667,76561198110065267,True,2.0
+Indie,2012.0,204880.0,Sins of a Solar Empire®: Rebellion,55994.316666666666,Newkj1,True,2.0
+Action,2012.0,91330.0,Iron Front: Digital War Edition,2622.45,76561198079521222,True,2.0
+Simulation,2012.0,47400.0,Stronghold 3 Gold,5281.5,76561198093584099,True,2.0
+Action,2002.0,211780.0,Conflict Desert Storm™,196.68333333333334,76561198057575745,True,2.0
+Action,2012.0,202750.0,Alan Wake's American Nightmare,2881.8333333333335,76561198068408128,False,2.0
+Action,2000.0,211740.0,Thief™ II: The Metal Age,925.9166666666666,76561198086658851,True,2.0
+Action,1998.0,211600.0,Thief™ Gold,1634.5666666666666,BananaCar,True,2.0
+Action,2012.0,205610.0,Port Royale 3,2376.8166666666666,memmzy,True,2.0
+Action,2012.0,202730.0,Dynamite Jack,157.9,76561198088838638,True,1.0
+Adventure,2012.0,203650.0,Sonic the Hedgehog 4 - Episode II,807.5333333333333,Whyunofag,True,2.0
+Action,2012.0,208670.0,Blades of Time,722.6333333333333,bbl10,True,0.0
+Action,2012.0,201070.0,Revelations 2012,63.61666666666667,76561198090548543,False,1.0
+Adventure,2012.0,207610.0,The Walking Dead,80447.8,76561198043472122,True,0.0
+Strategy,2012.0,203630.0,Warlock - Master of the Arcane,9079.633333333333,76561198095924536,True,1.0
+Strategy,2012.0,200050.0,Naval War: Arctic Circle,229.01666666666665,76561198077110027,True,2.0
+Adventure,2012.0,207170.0,Legend of Grimrock,10202.716666666667,76561198082622016,True,2.0
+Adventure,2012.0,204060.0,Superbrothers: Sword &amp; Sworcery EP,1081.2,bibz121,True,2.0
+RPG,2011.0,20920.0,The Witcher 2: Assassins of Kings Enhanced Edition,81676.0,death-hunter,True,2.0
+Free to Play,2012.0,104700.0,Super MNC,34206.53333333333,76561198142398530,True,1.0
+Action,2012.0,63380.0,Sniper Elite V2,53345.1,YIBB_,True,2.0
+Free to Play,2011.0,113420.0,Fallen Earth Free2Play,26072.333333333332,L4M1NAS,True,2.0
+Strategy,2012.0,58610.0,Wargame: European Escalation,8746.166666666666,76561198082678599,False,0.0
+Action,2012.0,201570.0,Really Big Sky,2457.4333333333334,76561198074249881,True,0.0
+Free to Play,2012.0,47410.0,Stronghold Kingdoms,96471.01666666666,ApexNZ,True,2.0
+Indie,2012.0,205870.0,Auditorium,171.7,76561197998939809,True,0.0
+Action,2012.0,102840.0,Shank 2,3024.3333333333335,fluxxenik,True,2.0
+Action,2012.0,71000.0,Evochron Mercenary,1222.5333333333333,BJEXHOOP,True,2.0
+Action,2012.0,65300.0,Dustforce DX,3197.0333333333333,duckcuck,True,0.0
+Action,2012.0,102500.0,Kingdoms of Amalur: Reckoning™,26363.466666666667,Rawrimaviking,True,2.0
+Action,2012.0,67370.0,The Darkness II,12330.083333333334,76561198050315162,True,2.0
+Simulation,2009.0,105450.0,Age of Empires® III: Complete Collection,83017.85,76561198088802064,True,2.0
+Free to Play,2011.0,201230.0,EverQuest® II Free-To-Play. Your Way.™,11385.283333333333,76561198078007369,True,2.0
+Action,2011.0,55230.0,Saints Row: The Third,410275.0833333333,76561198043458582,True,2.0
+Action,2011.0,99300.0,Renegade Ops,914.35,jackparris,True,2.0
+Indie,2011.0,110400.0,inMomentum,199.36666666666667,reallycoolman,True,2.0
+Action,2011.0,32800.0,Lord of the Rings: War in the North,13848.766666666666,76561198046669472,True,0.0
+Action,2011.0,65800.0,Dungeon Defenders,249649.55,tru_mu_,True,0.0
+Sports,2011.0,70620.0,Worms Crazy Golf,535.9333333333334,ArtyBoomy,True,0.0
+Action,2011.0,24240.0,PAYDAY™ The Heist,150176.76666666666,asdasdfsadgdfhfgjggj,True,2.0
+Action,2011.0,9200.0,RAGE,23742.15,RexTrigger,True,2.0
+Action,2011.0,102600.0,Orcs Must Die!,19640.1,LucarioSakaki,True,0.0
+Action,2011.0,111600.0,Serious Sam Double D XXL,573.7,76561198054552052,True,0.0
+Action,2011.0,17710.0,Nuclear Dawn,6159.55,tzarius,False,2.0
+Strategy,2011.0,70600.0,Worms Ultimate Mayhem,3802.15,76561198066985093,False,0.0
+Action,2011.0,98600.0,Demolition Inc.,922.2,76561198075471497,True,0.0
+Action,2011.0,107100.0,Bastion,34622.25,76561198059166102,True,2.0
+Adventure,2011.0,33460.0,From Dust,8428.25,gaynurds,False,0.0
+Action,2011.0,91700.0,E.Y.E: Divine Cybermancy,10103.75,CranSi,True,2.0
+Adventure,2011.0,48000.0,LIMBO,14301.25,76561198120774355,True,2.0
+Action,2011.0,65780.0,ARMA: Gold Edition,412.1333333333333,Taithius,True,2.0
+Casual,2011.0,98800.0,Dungeons of Dredmor,14901.65,76561198077992470,True,2.0
+Action,2011.0,46540.0,Trapped Dead,580.5333333333333,DatWombat,True,2.0
+Action,2011.0,44340.0,Operation Flashpoint: Red River,1984.5,lozenger,False,0.0
+Action,2011.0,55110.0,Red Faction®: Armageddon™,10610.2,felipespy,True,2.0
+Action,2011.0,94200.0,Jamestown,1257.9333333333334,76561198036909594,True,2.0
+Simulation,2011.0,24670.0,Trainz™ Simulator 12,2208.1833333333334,76561198051362094,True,2.0
+Action,2011.0,41740.0,Cargo! The Quest for Gravity,303.2,76561198084496260,True,2.0
+Casual,2011.0,72200.0,Universe Sandbox,27656.016666666666,76561198042113307,True,2.0
+Action,2011.0,48720.0,Mount &amp; Blade: With Fire &amp; Sword,45400.05,76561198090150367,True,2.0
+Action,2011.0,97100.0,Section 8®: Prejudice™,5241.133333333333,76561198081265170,True,2.0
+Strategy,2011.0,35480.0,Dwarfs!?,2499.266666666667,sprocketw,True,2.0
+Adventure,2011.0,96000.0,The Tiny Bang Story,1108.9333333333334,noheckgiver,True,2.0
+Action,2011.0,99400.0,Garshasp: The Monster Slayer,41.266666666666666,Bhulb,False,0.0
+Action,2011.0,92000.0,Hydrophobia: Prophecy,840.5,76561198074557309,True,0.0
+Adventure,2011.0,105100.0,Lume,86.73333333333333,samarox,False,0.0
+Action,2011.0,105600.0,Terraria,2582909.0166666666,xfluttersx,True,0.0
+Action,2011.0,22350.0,BRINK,15636.366666666667,marko101,False,1.0
+Indie,2011.0,92100.0,DETOUR,953.1666666666666,akmale,True,2.0
+Casual,2011.0,99700.0,NightSky,587.9333333333333,76561198064582506,True,2.0
+Indie,2011.0,92800.0,SpaceChem,6902.183333333333,niggerfag,False,0.0
+Action,2011.0,71230.0,Crazy Taxi,206.9,heyitsolah,True,2.0
+Indie,2011.0,55040.0,Atom Zombie Smasher,2871.55,GOFUCKYOURSELFYOULILCUNT,True,2.0
+Action,2011.0,91900.0,Post Apocalyptic Mayhem,1934.7833333333333,76561198058970610,True,0.0
+Action,2011.0,48190.0,Assassin’s Creed® Brotherhood,38408.35,76561198064380004,True,0.0
+Action,2011.0,108800.0,Crysis 2 - Maximum Edition,26726.9,76561198088974596,True,2.0
+Casual,2011.0,91800.0,Cloning Clyde,68.88333333333333,Nadarrus,True,2.0
+Racing,2011.0,47920.0,Shift 2 Unleashed,3183.3166666666666,pussayfucker,True,1.0
+RPG,2002.0,39190.0,Dungeon Siege,1533.3666666666666,76561198061357304,True,2.0
+Strategy,2011.0,64000.0,Men of War: Assault Squad,24431.45,OFFICIALDRTECHNO,True,0.0
+Action,2011.0,42910.0,Magicka,117160.46666666666,OfficialShroomsy,True,1.0
+Casual,2010.0,38720.0,RUSH,1643.2333333333333,LaTKH,True,2.0
+Racing,2010.0,47870.0,Need For Speed: Hot Pursuit,20281.283333333333,76561198071175142,True,2.0
+Action,2003.0,8500.0,EVE Online,95016.75,banjoabbyshelly,False,0.0
+Indie,2010.0,61600.0,Zen Bound 2,194.91666666666666,BayonetSpaghettiKnife,True,0.0
+Casual,2010.0,31280.0,Poker Night at the Inventory,32589.683333333334,LaLocaDeLosDulces,True,2.0
+Racing,2010.0,55140.0,MX vs. ATV Reflex,11683.5,76561198079621961,True,2.0
+Indie,2010.0,40800.0,Super Meat Boy,41055.583333333336,lazrknight,True,2.0
+RPG,2010.0,47810.0,Dragon Age: Origins - Ultimate Edition,58508.7,paw_ftw,True,2.0
+Action,2010.0,2450.0,Bloody Good Time,2899.6666666666665,76561198090773476,False,1.0
+RPG,2010.0,39690.0,ArcaniA,1751.55,76561198056931853,True,1.0
+Adventure,2010.0,63800.0,Delve Deeper,1032.35,76561198093164941,False,0.0
+Action,2010.0,45740.0,Dead Rising® 2,13972.1,76561198082494813,False,0.0
+Action,2010.0,43000.0,Front Mission Evolved,1211.8833333333334,76561198072486822,True,2.0
+Indie,2010.0,8970.0,Axel &amp; Pixel,66.51666666666667,76561198067176761,False,0.0
+Action,2005.0,25010.0,Lugaru HD,322.8,AURLNAME,True,1.0
+RPG,2010.0,60800.0,Numen: Contest of Heroes,286.75,Kazutoisherem8,True,2.0
+Strategy,2008.0,42890.0,Sword of the Stars: Complete Collection,755.5833333333334,eliteknightaust,True,2.0
+Action,2010.0,34830.0,Sniper: Ghost Warrior,8026.9,ZeroMark2,False,0.0
+Action,2010.0,300.0,Day of Defeat: Source,102297.91666666667,BloodNihilist,True,2.0
+Action,2003.0,39670.0,Chaser,364.9,lakartdeux,True,2.0
+Action,2010.0,33930.0,Arma 2: Operation Arrowhead,674558.15,MainScout,True,2.0
+Action,2005.0,21090.0,F.E.A.R.,5808.1,Z1_M4N,True,2.0
+Strategy,2010.0,57600.0,Tropico 3: Absolute Power,4831.433333333333,76561198013785384,True,2.0
+Strategy,2006.0,32470.0,STAR WARS™ Empire at War - Gold Pack,32238.333333333332,76561198009171141,True,2.0
+Strategy,2010.0,34030.0,Napoleon: Total War™,95586.95,greenfuzzie23,True,2.0
+Action,2010.0,24960.0,Battlefield: Bad Company™ 2,233830.93333333332,SuchGayMuchWow,True,2.0
+Strategy,2010.0,40100.0,Supreme Commander 2,74549.0,76561198030902728,True,0.0
+Action,2010.0,33230.0,Assassin's Creed 2 Deluxe Edition,53722.4,76561198049760472,True,2.0
+Action,2010.0,8190.0,Just Cause 2,226160.58333333334,Brayneeah,True,2.0
+Strategy,2010.0,20570.0,"Warhammer® 40,000: Dawn of War® II Chaos Rising",55295.816666666666,76561198054114081,True,2.0
+Strategy,2010.0,47700.0,Command &amp; Conquer 4: Tiberian Twilight,3492.9666666666667,76561198064199218,True,0.0
+Action,2010.0,18820.0,Zero Gear,754.0,76561198027755721,True,1.0
+Action,2000.0,3730.0,Aliens versus Predator Classic 2000,1464.8833333333334,thefrog,True,0.0
+Action,2010.0,45710.0,Dark Void™,92.7,prettygoodjpg,True,2.0
+RPG,2010.0,24980.0,Mass Effect 2,73207.18333333333,76561198084079139,True,2.0
+Casual,2010.0,45100.0,Secret of the Magic Crystals,2716.35,76561198062039624,True,2.0
+Action,2010.0,10680.0,Aliens vs. Predator™,24604.983333333334,Haitroid,True,0.0
+Action,2010.0,8850.0,BioShock® 2,24545.266666666666,76561197995322437,True,2.0
+Action,2010.0,41700.0,S.T.A.L.K.E.R.: Call of Pripyat,23301.266666666666,callan999,True,2.0
+Action,2009.0,550.0,Left 4 Dead 2,1703157.05,76561198066046412,True,1.0
+Action,2006.0,39500.0,Gothic® 3,1091.05,LakituLucas,False,2.0
+Action,2009.0,41300.0,Altitude,5362.55,ImSeriouss,True,2.0
+Action,1999.0,41600.0,Earthworm Jim 3D,33.833333333333336,76561198154660282,True,0.0
+Indie,2009.0,40400.0,AI War: Fleet Command,3483.0833333333335,76561198067366139,True,2.0
+Action,2009.0,8980.0,Borderlands,191474.06666666668,ohplsguuby,True,0.0
+Action,2009.0,12830.0,Operation Flashpoint: Dragon Rising,3316.7166666666667,76561198042541826,True,0.0
+Simulation,2009.0,23490.0,Tropico 3,6403.533333333334,76561198022577753,False,0.0
+Action,2009.0,20500.0,Red Faction Guerrilla Steam Edition,20511.866666666665,62568973,True,2.0
+Action,2009.0,21690.0,Resident Evil™ 5/ Biohazard 5®,17175.533333333333,10051997,True,2.0
+Action,2009.0,3620.0,Zuma's Revenge!,1266.1333333333334,76561198094350896,True,2.0
+Action,1995.0,32400.0,STAR WARS™ - Dark Forces,1144.7666666666667,76561198117313704,True,2.0
+Action,1997.0,32380.0,STAR WARS™ Jedi Knight: Dark Forces II,1158.2166666666667,Eternal_Infernal,True,2.0
+Action,2003.0,6030.0,STAR WARS™ Jedi Knight II - Jedi Outcast™,6552.483333333334,76561198070070375,True,2.0
+Action,2003.0,6020.0,STAR WARS™ Jedi Knight - Jedi Academy™,22058.333333333332,76561198031207016,True,1.0
+Simulation,2009.0,25980.0,Majesty 2,2511.5833333333335,76561198074621665,True,0.0
+Action,2010.0,39800.0,Nation Red,4820.933333333333,elheat,True,1.0
+Action,2001.0,20530.0,Red Faction,1949.0833333333333,76561198103362354,True,2.0
+Strategy,2009.0,25890.0,Hearts of Iron III,24556.233333333334,IDGam3r,True,0.0
+Action,2010.0,35140.0,Batman: Arkham Asylum Game of the Year Edition,47246.4,76561198104547955,True,2.0
+Action,2005.0,3700.0,Sniper Elite,3093.6666666666665,yusuckmahfrend,True,2.0
+Indie,2009.0,34900.0,Bad Rats: the Rats' Revenge,5537.033333333334,whiteofwolfing,True,2.0
+Adventure,1990.0,32340.0,LOOM™,72.48333333333333,Bottomkiller,True,2.0
+Action,2002.0,32350.0,STAR WARS™ Starfighter™,1103.0,MyBasementIsBetterThanYours,False,1.0
+Action,2005.0,6000.0,STAR WARS™ Republic Commando™,11070.883333333333,Axt5,True,0.0
+Strategy,2008.0,25910.0,Supreme Ruler 2020 Gold,2974.1333333333337,Afanofstaff,True,2.0
+Action,2009.0,24720.0,SPORE™ Galactic Adventures,25747.55,monkeyrj03,True,2.0
+Action,2009.0,33900.0,Arma 2,6982.983333333334,AgentXiri,True,2.0
+Action,2009.0,35700.0,Trine Enchanted Edition,9371.7,Esvada,True,2.0
+RPG,2009.0,12810.0,Overlord II,9727.6,MidNightBrony,True,0.0
+Simulation,2009.0,33210.0,Dawn of Discovery™,1218.0666666666666,HerbalOne984,True,1.0
+Strategy,2009.0,7830.0,Men of War™,6761.466666666666,BABBYMAN,True,0.0
+Action,2009.0,1250.0,Killing Floor,499876.36666666664,76561197970982479,True,2.0
+Action,2009.0,7860.0,NecroVision,365.8,76561198202544453,True,1.0
+Action,2003.0,33100.0,Alien Shooter,80.18333333333334,76561198072465460,True,0.0
+Action,2009.0,8170.0,Battlestations Pacific,3641.0,Freeballin99,False,0.0
+Strategy,2009.0,3590.0,Plants vs. Zombies GOTY Edition,57926.48333333334,giantflyingoctopi,True,2.0
+Action,2009.0,18700.0,And Yet It Moves,596.5,76561198099102298,False,0.0
+Action,2005.0,3710.0,Judge Dredd: Dredd vs. Death,339.3666666666667,DDSHADOW77,True,2.0
+Strategy,2009.0,20540.0,Company of Heroes: Tales of Valor,24727.166666666668,AzaZog,True,1.0
+Casual,2009.0,26800.0,Braid,5756.0,ClamALone,False,0.0
+Indie,2009.0,26500.0,Cogs,1030.2833333333333,76561198092373642,True,2.0
+Action,2009.0,29800.0,Caster,1404.9,7656119808378646,False,0.0
+Action,2005.0,17580.0,Dystopia,1123.1333333333332,KetsuKixBunni,True,1.0
+Simulation,2007.0,11590.0,Hospital Tycoon,327.06666666666666,76561198093749122,True,2.0
+Racing,2007.0,21780.0,Driver® Parallel Lines,410.1,76561198078604887,True,2.0
+Strategy,2009.0,15620.0,"Warhammer 40,000: Dawn of War II",101342.81666666667,76561198076240240,True,0.0
+Strategy,2009.0,10500.0,Empire: Total War™,166576.46666666667,76561198019669521,True,2.0
+Casual,2009.0,12430.0,SlamIt Pinball Big Score,56.733333333333334,1337_K_REW,True,0.0
+RPG,2009.0,23310.0,The Last Remnant™,9104.716666666667,dekruz,False,0.0
+Simulation,2009.0,23450.0,Grand Ages: Rome,1525.4166666666667,PuzziDestroyer,True,0.0
+Action,2009.0,22120.0,Penumbra: Black Plague Gold Edition,1557.2,76561198042879129,True,2.0
+RPG,2008.0,22300.0,Fallout 3,35832.05,donovanFlame,True,2.0
+Indie,2008.0,22100.0,Mount &amp; Blade,23767.85,IGotDahMunchies,True,2.0
+Adventure,2008.0,19000.0,Silent Hill Homecoming,402.55,76561198079774158,True,1.0
+Action,2008.0,500.0,Left 4 Dead,217996.7,BugsyBro,True,2.0
+Action,2008.0,10090.0,Call of Duty: World at War,127756.15,76561198074202726,True,2.0
+Action,2003.0,13600.0,Prince of Persia®: The Sands of Time,1046.8833333333332,Khorosho_,True,2.0
+Action,2008.0,17430.0,Need for Speed Undercover,8685.1,76561198050620146,True,1.0
+Action,2008.0,11280.0,Penguins Arena: Sedna's World,666.3,76561198054272239,True,1.0
+Adventure,2008.0,8340.0,Strong Bad's Cool Game for Attractive People: Season 1,249.36666666666667,FalconsProfile,True,2.0
+Action,2008.0,17460.0,Mass Effect,48380.316666666666,76561198048944049,True,2.0
+Simulation,2008.0,17440.0,SPORE™ Creepy &amp; Cute Parts Pack,4638.75,420_Blaze_It_Fgt,True,2.0
+Simulation,2008.0,17390.0,SPORE™,57495.166666666664,damayo,True,2.0
+Action,2008.0,16710.0,Insecticide Part 1,55.833333333333336,gladospony,True,1.0
+Strategy,2008.0,17100.0,Children of the Nile: Enhanced Edition,908.4166666666666,76561198054549164,True,0.0
+Action,2001.0,15300.0,Tom Clancy's Ghost Recon®,687.3,Chubiful,True,0.0
+Racing,2008.0,11020.0,TrackMania Nations Forever,19767.133333333335,76561198038192707,True,2.0
+Action,2008.0,15100.0,Assassin's Creed™: Director's Cut Edition,14789.533333333333,Da_Stel_,True,2.0
+Action,2008.0,15120.0,Tom Clancy's Rainbow Six® Vegas 2,6334.25,YoloGhost,True,1.0
+Racing,2008.0,7200.0,Trackmania United Forever Star Edition,4913.316666666667,76561198060398831,True,2.0
+Action,2007.0,400.0,Portal,87169.21666666666,Mackus1011,True,2.0
+Action,2006.0,15000.0,Tom Clancy's Rainbow Six Lockdown™,83.45,76561198078072180,False,1.0
+Action,2003.0,15130.0,Beyond Good and Evil™,836.0333333333333,76561198073676219,True,2.0
+Casual,2008.0,11230.0,Gumboy Tournament,133.2,PedroAssaf,True,0.0
+Indie,2008.0,12900.0,AudioSurf,29006.75,76561198211433640,True,2.0
+Action,2008.0,9460.0,Frontlines™: Fuel of War™,1677.7333333333333,76561198066566937,True,2.0
+Strategy,2008.0,9450.0,"Warhammer® 40,000: Dawn of War® - Soulstorm",61579.6,76561198172099661,False,2.0
+Adventure,2006.0,3260.0,Safecracker: The Ultimate Puzzle Adventure,86.5,IsAPervert,True,0.0
+Racing,2007.0,8600.0,RACE 07,7203.8,76561198070361854,True,1.0
+Casual,2007.0,3483.0,Peggle Extreme,812.3833333333333,thespicyguy,True,1.0
+Indie,2004.0,6420.0,Nexus - The Jupiter Incident,513.2833333333333,adug2345,True,2.0
+Strategy,2007.0,8800.0,Civilization IV: Beyond the Sword,15591.816666666668,damnsonwheredidyoufindloominaty,True,2.0
+Action,2006.0,4560.0,Company of Heroes - Legacy Edition,33386.333333333336,76561198034167696,True,2.0
+Action,2004.0,9050.0,DOOM 3,3298.233333333333,76561197971059162,True,2.0
+Action,1999.0,2200.0,Quake III Arena,1311.25,76561197961124706,True,2.0
+Action,1990.0,9180.0,Commander Keen,311.9666666666667,76561198052700471,False,0.0
+Action,2007.0,420.0,Half-Life 2: Episode Two,43159.23333333333,76561198044402508,True,2.0
+Action,2007.0,7940.0,Call of Duty® 4: Modern Warfare®,41160.13333333333,gamerdude7892,True,2.0
+Action,2007.0,8080.0,Kane and Lynch: Dead Men™,593.9333333333333,warheads,True,2.0
+Casual,2007.0,8400.0,Geometry Wars: Retro Evolved,1237.6166666666666,76561198014848587,True,1.0
+Action,2006.0,6880.0,Just Cause,3244.25,Arpek,True,1.0
+Action,2000.0,6900.0,Hitman: Codename 47,1335.7,xinyo,False,0.0
+Action,2002.0,6830.0,Commandos 2: Men of Courage,766.9,tickets845,True,2.0
+Action,2006.0,6860.0,Hitman: Blood Money,21224.983333333334,gigantowang,True,2.0
+Action,2004.0,2600.0,Vampire: The Masquerade - Bloodlines,10221.433333333332,badlucksenpai,True,1.0
+Action,2007.0,4500.0,S.T.A.L.K.E.R.: Shadow of Chernobyl,16709.266666666666,76561198059631701,True,2.0
+Action,2004.0,6980.0,Thief: Deadly Shadows,2285.2166666666667,Uetzal,False,0.0
+Action,2000.0,6910.0,Deus Ex: Game of the Year Edition,9500.083333333334,perrocallejero,True,1.0
+Action,2006.0,7020.0,Rogue Trooper,148.28333333333333,whenducksattack92,True,2.0
+Casual,2007.0,3480.0,Peggle Deluxe,4686.016666666666,MexyMax,True,2.0
+Action,2005.0,3830.0,Psychonauts,16496.233333333334,cherlovesaliens,True,2.0
+Action,2004.0,2640.0,Call of Duty: United Offensive,1421.2666666666667,76561198033301141,True,2.0
+Strategy,2006.0,1690.0,Space Empires V,1638.55,indyGeneZ,True,2.0
+Strategy,2001.0,3910.0,Sid Meier's Civilization® III Complete,8516.5,76561198074285384,True,2.0
+Strategy,2005.0,3900.0,Sid Meier's Civilization® IV,12132.433333333334,blsckops3445,True,2.0
+Strategy,2006.0,4700.0,Medieval II: Total War™,85147.23333333334,76561198074409406,True,1.0
+Action,2004.0,240.0,Counter-Strike: Source,1876867.45,cancerkek,True,0.0
+Action,2004.0,280.0,Half-Life: Source,8255.1,benjaminalan,True,2.0
+Action,2004.0,320.0,Half-Life 2: Deathmatch,47467.76666666667,rockethaul,True,1.0
+Action,2004.0,220.0,Half-Life 2,180962.21666666667,76561198070565427,True,2.0
+RPG,2005.0,3920.0,Sid Meier's Pirates!,7173.916666666667,Orifromtheforest,True,0.0
+Action,2005.0,340.0,Half-Life 2: Lost Coast,5752.866666666667,BirdieZ,True,2.0
+RPG,2005.0,39200.0,Dungeon Siege II,1815.2666666666667,neon10profile,True,2.0
+Strategy,2006.0,1900.0,Earth 2160,1188.5,el-Gusto,False,1.0
+Action,2006.0,360.0,Half-Life Deathmatch: Source,1811.3166666666666,schwarzz09,True,2.0
+Action,2006.0,2500.0,Shadowgrounds,1592.5333333333333,76561198086884048,True,2.0
+Action,2006.0,380.0,Half-Life 2: Episode One,33054.75,76561198081987102,True,2.0
+Strategy,2006.0,1670.0,Iron Warriors: T - 72 Tank Command,70.98333333333333,epicsnail1996,False,0.0
+Indie,2006.0,1510.0,Uplink,3005.5333333333333,76561198034082727,True,2.0
+Action,2006.0,2100.0,Dark Messiah of Might &amp; Magic,7364.5,mavelent,True,2.0
+Casual,2006.0,3320.0,Insaniquarium Deluxe,796.4166666666666,76561198059865927,True,2.0
+Action,1999.0,20.0,Team Fortress Classic,16028.366666666667,76561198047363411,False,1.0
+Action,1999.0,50.0,Half-Life: Opposing Force,12242.7,76561198115279437,True,2.0
+Action,2000.0,60.0,Ricochet,2637.3,grutten,True,0.0
+Action,2000.0,10.0,Counter-Strike,289766.9166666667,Glenbluey,True,0.0
+Action,2001.0,40.0,Deathmatch Classic,2574.7666666666664,ReverseHotel,True,2.0
+Action,2001.0,130.0,Half-Life: Blue Shift,7357.8,vraxvrax,True,2.0
+Action,2003.0,30.0,Day of Defeat,12649.85,lozaga,True,2.0
+Action,2004.0,13230.0,Unreal Tournament 2004: Editor's Choice Edition,5818.65,OscarStone,True,2.0
+Action,2004.0,80.0,Counter-Strike: Condition Zero,41732.3,76561198105310142,True,1.0
