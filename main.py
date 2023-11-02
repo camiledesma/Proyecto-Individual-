@@ -181,10 +181,8 @@ def sentiment_analysis(anio):
 
 
 
-recomendaciones = [5]  # Inicializa la variable recomendaciones
-
 @app.get("/recomendacion_usuario/{usuario_id}")
-def recomendacion_usuario(usuario_id, num_recomendaciones=5):
+def recomendacion_usuario(usuario_id):
     global df123  # Acceso a la variable global df123
 
     # Filtrar las reseñas del usuario actual
@@ -211,13 +209,9 @@ def recomendacion_usuario(usuario_id, num_recomendaciones=5):
         recomendaciones_usuario.extend(juegos_recomendados)
 
         # Detener la búsqueda cuando se alcance el número deseado de recomendaciones
-        if len(recomendaciones_usuario) >= num_recomendaciones:
+        if len(recomendaciones_usuario) >= 5:
             break
 
-    # Tomar las primeras 'num_recomendaciones' recomendaciones
-    recomendaciones_usuario = recomendaciones_usuario[:num_recomendaciones]
+    return str(recomendaciones_usuario[:5])
 
-    recomendaciones.extend(recomendaciones_usuario)  # Agregar recomendaciones al final de la lista
-
-    return str(recomendaciones_usuario)  # Devolver solo las recomendaciones para el usuario
 
