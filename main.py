@@ -181,8 +181,7 @@ def sentiment_analysis(anio):
 
 
 
-recomendaciones = [5]  
-
+recomendaciones = [5]  # Inicializa la variable recomendaciones
 
 @app.get("/recomendacion_usuario/{usuario_id}")
 def recomendacion_usuario(usuario_id, num_recomendaciones=5):
@@ -199,7 +198,7 @@ def recomendacion_usuario(usuario_id, num_recomendaciones=5):
     usuarios_similares = usuarios_similares.sort_values(by='recommend', ascending=False)
 
     # Inicializar una lista para almacenar las recomendaciones
-    recomendaciones = []
+    recomendaciones_usuario = []  # Usamos una variable diferente para las recomendaciones de usuario
 
     # Iterar sobre los usuarios similares y encontrar juegos recomendados por ellos
     for i, row in usuarios_similares.iterrows():
@@ -209,17 +208,16 @@ def recomendacion_usuario(usuario_id, num_recomendaciones=5):
         # Evitar juegos que el usuario ya haya revisado
         juegos_recomendados = [juego for juego in juegos_recomendados if juego not in reseñas_usuario['title'].tolist()]
 
-        recomendaciones.extend(juegos_recomendados)
+        recomendaciones_usuario.extend(juegos_recomendados)
 
         # Detener la búsqueda cuando se alcance el número deseado de recomendaciones
-        if len(recomendaciones) >= num_recomendaciones:
+        if len(recomendaciones_usuario) >= num_recomendaciones:
             break
 
     # Tomar las primeras 'num_recomendaciones' recomendaciones
-    recomendaciones = recomendaciones[:num_recomendaciones]
+    recomendaciones_usuario = recomendaciones_usuario[:num_recomendaciones]
 
-    return str(recomendaciones)
+    recomendaciones.extend(recomendaciones_usuario)  # Agregar recomendaciones al final de la lista
 
-
-
+    return str(recomendaciones_usuario)  # Devolver solo las recomendaciones para el usuario
 
