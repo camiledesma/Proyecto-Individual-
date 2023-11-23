@@ -1,14 +1,26 @@
-# Proyecto-Individual-
-Demostración de todo lo aprendido durante mi etapa como alumna en Soy Henry
-Hola mi nombre es Camila. Este proyecto tiene como objetivo realizar un análisis
+# System recommendation ML
+
+Introducción
+
+Bienvenidos! este trabajo es una demostración de todo lo aprendido durante mi etapa como alumna en Soy Henry. 
+El proyecto tiene como objetivo realizar un análisis
 de datos en el contexto de videojuegos. Se utilizan diversas fuentes de datos para
 extraer información relevante y realizar diferentes análisis. 
 A continuación, se describen las principales etapas del proyecto y los resultados obtenidos.
 
 #Etapa 1: Bibliotecas necesarias
-En esta etapa, instalo e importo todas las bibliotecas necesarias para llevar a cabo mi proyecto
+En esta etapa, instalo e importo todas las bibliotecas necesarias para llevar a cabo mi proyecto, en las cuales están:
+﻿asttokens
+fastapi
+jupyter_client
+jupyter_core
+pandas
+textblob
+uvicorn
+
 
 #Etapa 2: Leer los archivos en formato json
+
 En este punto, en el primer archivo que era el mas sencillo en cuestion de formato,
 utilicé pandas para leer el archivo y pasarlo a csv; con el segundo y tercer archivo 
 lo que hice fue, en una lista vacia, abro el archivo e inicio un bucle que recorre cada línea
@@ -18,10 +30,12 @@ esa lista en donde cada fila representa un diccionario de la lista y las claves
 de ese diccionario se convierte en un df.
 
 #Etapa 3 EDA
-Realizo un análisis de esos datos, viendo si hay datos anidados, que representa cada dato,
+
+Realizo un análisis de esos datos, viendo si hay datos anidados, qué representa cada dato,
 en que formato está, cuales son las columnas que voy a utilizar, etc.
 
 #Etapa 4 ETL
+
 Comienzo viendo si hay duplicados, nulos, conviertiendo las columnas a los tipos
 de datos que corresponda, eliminando columnas innecesarias, trabajar con los datos
 anidados, luego eliminar esa columna con los datos anidados y los mismos trasladarnos a 
@@ -34,6 +48,7 @@ A partir que los df estan correctos, los uno con un merge a los que necesito par
 comenzar con las consignas.
 
 #Consignas
+
 1) Analisis de sentimiento: creo una funcion para realizar dicho analisis a partir del df2_reviews,
 clasificando a base del sentimiento como positivo, malo y neutral (dependiendo de cada valor me 
 retorna una clasificacion diferente) y luego aplico la funcion a cada reseña y creo
@@ -70,8 +85,14 @@ recomendados por ellos; evito que el usuario ya haya revisado ese juego y deteng
 se almacene el numero de recomendaciones deseadas.
 
 #Etapa 5 Github
-Subo todos mis archivos a git para poderlos conectar con render
+Subo todos mis archivos a git para poderlos conectar con Render
 
 #Etapa 6 Render
 Me creo una cuenta y pongo el link de mi repositorio en donde va recorrer el archivo .py con las funciones 
 y el requeriments con las librerias necesarias.
+
+
+Conclusión
+
+Este proyecto es una demostración integral de las habilidades adquiridas durante el tiempo como estudiante en Soy Henry, centrándose en el análisis de datos en el ámbito de los videojuegos y 
+demuestra habilidades desde la importación y manipulación de datos hasta la implementación de análisis específicos, culminando con el despliegue en una plataforma como Render para facilitar su acceso y ejecución.
